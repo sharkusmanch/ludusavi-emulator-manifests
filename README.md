@@ -52,23 +52,55 @@ method: add each emulator's data folder as an "other" root and list the manifest
 manifest:
   secondary:
     - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/retroarch.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/duckstation.yaml
     - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/pcsx2.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/rpcs3.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/shadps4.yaml
     - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/ppsspp.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/vita3k.yaml
     - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/dolphin.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/cemu.yaml
     - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/azahar.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/switch.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/ryujinx.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/xenia.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/scummvm.yaml
 roots:
-  # Example paths for Flatpak / EmuDeck installs on Linux - point these at your own folders.
-  - path: ~/.var/app/org.libretro.RetroArch/config/retroarch
+  # Typical Linux locations - point each at your own folder. One root per emulator, in any order.
+  - path: ~/.var/app/org.libretro.RetroArch/config/retroarch  # RetroArch (Flatpak)
     store: other
-  - path: ~/Emulation/saves/pcsx2/saves
+  - path: ~/.local/share/duckstation  # DuckStation
     store: other
-  - path: ~/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP
+  - path: ~/.config/PCSX2/memcards  # PCSX2 (folder memory cards)
     store: other
-  - path: ~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu
+  - path: ~/.config/rpcs3  # RPCS3
     store: other
-  - path: ~/Emulation/storage/azahar
+  - path: ~/.local/share/shadPS4  # shadPS4
+    store: other
+  - path: ~/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP  # PPSSPP (Flatpak)
+    store: other
+  - path: ~/.local/share/Vita3K/Vita3K  # Vita3K
+    store: other
+  - path: ~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu  # Dolphin (Flatpak)
+    store: other
+  - path: ~/.local/share/Cemu/mlc01  # Cemu
+    store: other
+  - path: ~/.local/share/azahar-emu  # Azahar
+    store: other
+  - path: ~/.local/share/eden  # Eden (or citron, suyu, yuzu)
+    store: other
+  - path: ~/.config/Ryujinx  # Ryujinx
+    store: other
+  - path: ~/.local/share/Xenia/content  # Xenia
+    store: other
+  - path: ~/.local/share/scummvm/saves  # ScummVM
     store: other
 ```
+
+List only the emulators you use: drop the manifest and root lines for the rest. The paths above are
+common defaults, not guarantees - Flatpak, EmuDeck, portable and Windows installs keep these folders
+elsewhere (see the table above), and what matters is that the root contains the folders named in the
+first table.
 
 In the GUI these are the "other" screen: add each URL under manifests and each folder under roots.
 
