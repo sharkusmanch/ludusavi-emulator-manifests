@@ -2715,6 +2715,11 @@
     "<root>/*/B?SLES-54973*":
       tags:
         - save
+"Axel Impact - The Extreme Racing (PS2)":
+  files:
+    "<root>/*/B?SCPS-56016*":
+      tags:
+        - save
 "Ayakashi Bito [Best Selection] (PS2)":
   files:
     "<root>/*/B?SLPM-66862*":
@@ -3663,6 +3668,9 @@
         - save
 "BioHazard 4 (PS2)":
   files:
+    "<root>/*/B?SCKA-20089*":
+      tags:
+        - save
     "<root>/*/B?SLPM-66213*":
       tags:
         - save
@@ -3710,6 +3718,11 @@
 "BioHazard Outbreak [PlayStation2 the Best] (PS2)":
   files:
     "<root>/*/B?SLPM-74201*":
+      tags:
+        - save
+"Biohazard 4 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25410*":
       tags:
         - save
 "Bionicle (PS2)":
@@ -4390,6 +4403,9 @@
     "<root>/*/B?SLES-55359*":
       tags:
         - save
+    "<root>/*/B?SLUS-21791*":
+      tags:
+        - save
 "Bratz - Rock Angelz (PS2)":
   files:
     "<root>/*/B?SLES-53574*":
@@ -4823,6 +4839,9 @@
         - save
 "Busin 0 - Wizardry Alternative Neo (PS2)":
   files:
+    "<root>/*/B?SLKA-25221*":
+      tags:
+        - save
     "<root>/*/B?SLPM-65378*":
       tags:
         - save
@@ -5337,6 +5356,19 @@
     "<root>/*/B?SLUS-21935*":
       tags:
         - save
+"Cabela's Outdoor Adventures [2005] (PS2)":
+  files:
+    "<root>/*/B?SLES-53749*":
+      tags:
+        - save
+    "<root>/*/B?SLUS-21192*":
+      tags:
+        - save
+"Cabela's Outdoor Adventures [2009] (PS2)":
+  files:
+    "<root>/*/B?SLUS-21906*":
+      tags:
+        - save
 "Cabela's Trophy Bucks (PS2)":
   files:
     "<root>/*/B?SLUS-21624*":
@@ -5695,6 +5727,9 @@
 "Castlevania (PS2)":
   files:
     "<root>/*/B?SLES-52118*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25082*":
       tags:
         - save
     "<root>/*/B?SLPM-65444*":
@@ -7033,6 +7068,16 @@
     "<root>/*/B?SLPM-66090*":
       tags:
         - save
+"Crash Bandicoot - Return of the Demon King (PS2)":
+  files:
+    "<root>/*/B?SLPM-64513*":
+      tags:
+        - save
+"Crash Bandicoot - Return of the Demon King [English Dub Edition] (PS2)":
+  files:
+    "<root>/*/B?SLPM-64509*":
+      tags:
+        - save
 "Crash Bandicoot - The Wrath of Cortex (PS2)":
   files:
     "<root>/*/B?SLES-50386*":
@@ -7459,11 +7504,6 @@
     "<root>/*/B?SLPM-66905*":
       tags:
         - save
-"D.C. Da Capo The Origin [First Limited Edition] (PS2)":
-  files:
-    "<root>/*/B?PAPX-90524*":
-      tags:
-        - save
 "D.C.I.F. - Da Capo Innocent Finale [Standard Edition] (PS2)":
   files:
     "<root>/*/B?SLPM-55156*":
@@ -7674,6 +7714,11 @@
     "<root>/*/B?SLES-50816*":
       tags:
         - save
+"DTM Race Driver 2 - The Ultimate Racing Simulator (PS2)":
+  files:
+    "<root>/*/B?SLES-52638*":
+      tags:
+        - save
 "DTM Race Driver 3 - The Ultimate Racing Simulator (PS2)":
   files:
     "<root>/*/B?SLES-53088*":
@@ -7728,6 +7773,11 @@
 "DVD Player Version 3.00 (PS2)":
   files:
     "<root>/*/B?PBPX-95228*":
+      tags:
+        - save
+"DVD Player Version 3.04 (PS2)":
+  files:
+    "<root>/*/B?PDPX-99109*":
       tags:
         - save
 "Da Capo Four Seasons (PS2)":
@@ -7995,6 +8045,9 @@
         - save
 "Dark Angel - Vampire Apocalypse (PS2)":
   files:
+    "<root>/*/B?SLPM-64537*":
+      tags:
+        - save
     "<root>/*/B?SLUS-20131*":
       tags:
         - save
@@ -8935,6 +8988,9 @@
       tags:
         - save
     "<root>/*/B?SLPM-65038*":
+      tags:
+        - save
+    "<root>/*/B?SLPM-67502*":
       tags:
         - save
     "<root>/*/B?SLUS-20216*":
@@ -10986,11 +11042,6 @@
     "<root>/*/B?SLPM-66139*":
       tags:
         - save
-"Duel Savior Destiny [Messiah Box] (PS2)":
-  files:
-    "<root>/*/B?ALCH-00028*":
-      tags:
-        - save
 "Dugout '03 - The Turning Point (PS2)":
   files:
     "<root>/*/B?SLPS-20296*":
@@ -11177,6 +11228,11 @@
 "Désastreuses Aventures des orphelins Baudelaire, Les (PS2)":
   files:
     "<root>/*/B?SLES-52808*":
+      tags:
+        - save
+"E.O.E. - Eve of Extinction (PS2)":
+  files:
+    "<root>/*/B?SLPM-67521*":
       tags:
         - save
 "EA SPORTS RUGBY 2004 (PS2)":
@@ -12650,6 +12706,9 @@
     "<root>/*/B?SLES-50875*":
       tags:
         - save
+    "<root>/*/B?SLPM-64533*":
+      tags:
+        - save
     "<root>/*/B?SLPS-20199*":
       tags:
         - save
@@ -13050,6 +13109,9 @@
         - save
 "FIFA Soccer 2004 (PS2)":
   files:
+    "<root>/*/B?SLKA-25087*":
+      tags:
+        - save
     "<root>/*/B?SLUS-20750*":
       tags:
         - save
@@ -13060,6 +13122,9 @@
         - save
 "FIFA Soccer 2005 (PS2)":
   files:
+    "<root>/*/B?SLKA-25209*":
+      tags:
+        - save
     "<root>/*/B?SLUS-21051*":
       tags:
         - save
@@ -13470,6 +13535,11 @@
 "Fate-stay Night - Realta Nua [PlayStation2 the Best] (PS2)":
   files:
     "<root>/*/B?SLPM-74270*":
+      tags:
+        - save
+"Fatman & Slim (PS2)":
+  files:
+    "<root>/*/B?SLES-51425*":
       tags:
         - save
 "Fear, The [Disc 1 of 4] (PS2)":
@@ -14179,6 +14249,9 @@
     "<root>/*/B?SLES-54003*":
       tags:
         - save
+    "<root>/*/B?SLKA-25401*":
+      tags:
+        - save
     "<root>/*/B?SLUS-21251*":
       tags:
         - save
@@ -14561,6 +14634,9 @@
       tags:
         - save
     "<root>/*/B?SLPM-65548*":
+      tags:
+        - save
+    "<root>/*/B?SLUS-20658*":
       tags:
         - save
 "Freedom Fighters [EA Best Hits] (PS2)":
@@ -15985,6 +16061,16 @@
     "<root>/*/B?SLPM-74238*":
       tags:
         - save
+"Geomho 2 (PS2)":
+  files:
+    "<root>/*/B?SLKA-25009*":
+      tags:
+        - save
+"Geomho 3 (PS2)":
+  files:
+    "<root>/*/B?SLKA-25199*":
+      tags:
+        - save
 "Georama Sensen Ijou Nashi (PS2)":
   files:
     "<root>/*/B?SLPM-66038*":
@@ -16073,6 +16159,11 @@
 "Getsumento Heiki Mina - Futatsu no Project M [Standard Edition] (PS2)":
   files:
     "<root>/*/B?SLPM-66754*":
+      tags:
+        - save
+"Geunyukman Generations (PS2)":
+  files:
+    "<root>/*/B?SLKA-15034*":
       tags:
         - save
 "Ghost Hunter (PS2)":
@@ -16444,6 +16535,11 @@
     "<root>/*/B?SCKA-30003*":
       tags:
         - save
+"God of War 2 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-30007*":
+      tags:
+        - save
 "God of War II (PS2)":
   files:
     "<root>/*/B?SCAJ-20190*":
@@ -16453,6 +16549,9 @@
       tags:
         - save
     "<root>/*/B?SCES-54206*":
+      tags:
+        - save
+    "<root>/*/B?SCKA-30006*":
       tags:
         - save
     "<root>/*/B?SCUS-97481*":
@@ -16881,6 +16980,9 @@
     "<root>/*/B?SCES-51719*":
       tags:
         - save
+    "<root>/*/B?SCKA-30001*":
+      tags:
+        - save
     "<root>/*/B?SCPS-17001*":
       tags:
         - save
@@ -16901,6 +17003,11 @@
 "Gran Turismo 4 - Online Test Version (PS2)":
   files:
     "<root>/*/B?PAPX-90523*":
+      tags:
+        - save
+"Gran Turismo 4 - Prologue (PS2)":
+  files:
+    "<root>/*/B?SCKA-20022*":
       tags:
         - save
 "Gran Turismo 4 - TOYOTA Prius [Trial] (PS2)":
@@ -16959,6 +17066,11 @@
     "<root>/*/B?PBPX-95601*":
       tags:
         - save
+"Gran Turismo 4 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-30004*":
+      tags:
+        - save
 "Gran Turismo 4 [PlayStation2 the Best] (PS2)":
   files:
     "<root>/*/B?SCAJ-30008*":
@@ -16975,6 +17087,16 @@
 "Gran Turismo 4 [Trial] (PS2)":
   files:
     "<root>/*/B?PCPX-96649*":
+      tags:
+        - save
+"Gran Turismo Concept - 2002 Tokyo-Seoul (PS2)":
+  files:
+    "<root>/*/B?SCPS-56005*":
+      tags:
+        - save
+"Gran Turismo Concept - 2002 Tokyo-Seoul [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20029*":
       tags:
         - save
 "Gran Turismo Concept - Airtrek Turbo Special Edition [Trial] (PS2)":
@@ -17027,6 +17149,11 @@
       tags:
         - save
     "<root>/*/B?SLUS-20630*":
+      tags:
+        - save
+"Grand Slam 2003 Tennis (PS2)":
+  files:
+    "<root>/*/B?SLKA-15013*":
       tags:
         - save
 "Grand Theft Auto - Liberty City Stories (PS2)":
@@ -18092,9 +18219,22 @@
     "<root>/*/B?SLKA-25193*":
       tags:
         - save
+    "<root>/*/B?SLPM-67518*":
+      tags:
+        - save
 "Gwimuja Muroejeon (PS2)":
   files:
     "<root>/*/B?SLKA-25092*":
+      tags:
+        - save
+"Gyeoljeon (PS2)":
+  files:
+    "<root>/*/B?SLPM-67514*":
+      tags:
+        - save
+"Gyeoljeon II (PS2)":
+  files:
+    "<root>/*/B?SLPM-67531*":
       tags:
         - save
 "H2O (PS2)":
@@ -18260,11 +18400,6 @@
     "<root>/*/B?SLPM-55208*":
       tags:
         - save
-"Hakushaku to Yousei - Yume to Kizuna ni Omoi o Hasete [First Limited Edition] (PS2)":
-  files:
-    "<root>/*/B?CPCS-01020*":
-      tags:
-        - save
 "Hakushaku to Yousei - Yume to Kizuna ni Omoi o Hasete [Standard Edition] (PS2)":
   files:
     "<root>/*/B?SLPM-55057*":
@@ -18313,6 +18448,11 @@
 "Hana to Otome ni Shukufuku o - Harukaze no Okurimono [St. Lupinus Box] (PS2)":
   files:
     "<root>/*/B?SLPM-55263*":
+      tags:
+        - save
+"Hana to Otome ni Shukufuku wo - Harukaze no Okurimono [Saint Box] (PS2)":
+  files:
+    "<root>/*/B?ALCH-00028*":
       tags:
         - save
 "Hana to Taiyou to Ame to [Super Best Collection] (PS2)":
@@ -20509,6 +20649,9 @@
         - save
 "Inuyasha - Feudal Combat (PS2)":
   files:
+    "<root>/*/B?SLKA-25296*":
+      tags:
+        - save
     "<root>/*/B?SLUS-21193*":
       tags:
         - save
@@ -20954,6 +21097,14 @@
       tags:
         - save
     "<root>/*/B?SCPS-55004*":
+      tags:
+        - save
+"Jak x Daxter - Kyuu Sekai no Isan [Demo] (PS2)":
+  files:
+    "<root>/*/B?PAPX-90222*":
+      tags:
+        - save
+    "<root>/*/B?PAPX-90223*":
       tags:
         - save
 "Jak x Daxter - Kyuu Sekai no Isan [PlayStation2 the Best] (PS2)":
@@ -21407,6 +21558,11 @@
     "<root>/*/B?SLPM-67550*":
       tags:
         - save
+"Jin Samguk Mussang 2 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25212*":
+      tags:
+        - save
 "Jin Samguk Mussang 2 [Premium Package] (PS2)":
   files:
     "<root>/*/B?SLKA-25113*":
@@ -21420,6 +21576,9 @@
 "Jin Samguk Mussang 3 - Empires (PS2)":
   files:
     "<root>/*/B?SLKA-25187*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25391*":
       tags:
         - save
 "Jin Samguk Mussang 3 - Maengjangjeon (PS2)":
@@ -21437,14 +21596,34 @@
     "<root>/*/B?SLKA-25289*":
       tags:
         - save
+"Jin Samguk Mussang 4 - Empires (PS2)":
+  files:
+    "<root>/*/B?SLKA-25390*":
+      tags:
+        - save
 "Jin Samguk Mussang 4 - Empires [PlayStation 2 BigHit Series] (PS2)":
   files:
     "<root>/*/B?SLKA-25417*":
       tags:
         - save
+"Jin Samguk Mussang 4 - Empires [Premium Package] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25340*":
+      tags:
+        - save
 "Jin Samguk Mussang 4 - Maengjangjeon (PS2)":
   files:
     "<root>/*/B?SLKA-25329*":
+      tags:
+        - save
+"Jin Samguk Mussang 4 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25143*":
+      tags:
+        - save
+"Jin Samguk Mussang 4 [Premium Package] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25339*":
       tags:
         - save
 "Jin Samguk Mussang 5 Special (PS2)":
@@ -21881,6 +22060,11 @@
     "<root>/*/B?SLES-54694*":
       tags:
         - save
+"K-1 World GP 2006 (PS2)":
+  files:
+    "<root>/*/B?SCKA-20092*":
+      tags:
+        - save
 "K-1 World Grand Prix (PS2)":
   files:
     "<root>/*/B?SLUS-20682*":
@@ -21929,6 +22113,11 @@
     "<root>/*/B?SLKA-25223*":
       tags:
         - save
+"K-League Winning Eleven 9 - Asia Championship (PS2)":
+  files:
+    "<root>/*/B?SLKA-25321*":
+      tags:
+        - save
 "K.O. King (PS2)":
   files:
     "<root>/*/B?SLES-54537*":
@@ -21955,6 +22144,11 @@
 "KOF: Maximum Impact (PS2)":
   files:
     "<root>/*/B?SLKA-25211*":
+      tags:
+        - save
+"KOF: Maximum Impact [Limited Edition] (PS2)":
+  files:
+    "<root>/*/B?SLKA-25186*":
       tags:
         - save
 "Ka (PS2)":
@@ -22455,6 +22649,16 @@
 "Katakamuna - Ushinawareta Ingaritsu [Deluxe Pack] (PS2)":
   files:
     "<root>/*/B?ALCH-00001*":
+      tags:
+        - save
+"Katamari - Roll It! Prince! (PS2)":
+  files:
+    "<root>/*/B?SCKA-20025*":
+      tags:
+        - save
+"Katamari - Roll It! Prince! [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20125*":
       tags:
         - save
 "Katamari Damacy (PS2)":
@@ -23536,6 +23740,16 @@
 "Kino no Tabi II - The Beautiful World [Dengeki SP] (PS2)":
   files:
     "<root>/*/B?SLPS-25754*":
+      tags:
+        - save
+"Kiosk 2-11 Winter 2003 (PS2)":
+  files:
+    "<root>/*/B?SCUS-97324*":
+      tags:
+        - save
+"Kiosk 2-12 Spring 2004 (PS2)":
+  files:
+    "<root>/*/B?SCUS-97383*":
       tags:
         - save
 "Kiosk Demo Disc 2.3 (PS2)":
@@ -25240,8 +25454,26 @@
     "<root>/*/B?SCUS-97653*":
       tags:
         - save
+"MLB 06 - The Show (PS2)":
+  files:
+    "<root>/*/B?SCKA-20071*":
+      tags:
+        - save
+"MLB 07 - The Show (PS2)":
+  files:
+    "<root>/*/B?SCKA-20091*":
+      tags:
+        - save
+"MLB 10 - The Show (PS2)":
+  files:
+    "<root>/*/B?SCKA-20140*":
+      tags:
+        - save
 "MLB 11 - The Show (PS2)":
   files:
+    "<root>/*/B?SCKA-20142*":
+      tags:
+        - save
     "<root>/*/B?SCUS-97657*":
       tags:
         - save
@@ -26051,6 +26283,11 @@
     "<root>/*/B?SLUS-28053*":
       tags:
         - save
+"Magye Jeongi Disgaea (PS2)":
+  files:
+    "<root>/*/B?SLKA-25048*":
+      tags:
+        - save
 "Mahjong Goku Taisei (PS2)":
   files:
     "<root>/*/B?SLPS-20041*":
@@ -26446,6 +26683,11 @@
       tags:
         - save
     "<root>/*/B?SLUS-21735*":
+      tags:
+        - save
+"Mana Khemia - Alchemists of Al-Revis [Premium Box] (PS2)":
+  files:
+    "<root>/*/B?GUST-00009*":
       tags:
         - save
 "Mana Khemia 2 - Fall Of Alchemy (PS2)":
@@ -27415,6 +27657,9 @@
     "<root>/*/B?SLPM-65078*":
       tags:
         - save
+    "<root>/*/B?SLPM-67515*":
+      tags:
+        - save
     "<root>/*/B?SLUS-20144*":
       tags:
         - save
@@ -27516,6 +27761,9 @@
     "<root>/*/B?SLES-82032*":
       tags:
         - save
+    "<root>/*/B?SLKA-25251*":
+      tags:
+        - save
     "<root>/*/B?SLPM-65790*":
       tags:
         - save
@@ -27571,6 +27819,9 @@
     "<root>/*/B?SLES-82048*":
       tags:
         - save
+    "<root>/*/B?SLKA-25353*":
+      tags:
+        - save
     "<root>/*/B?SLUS-21359*":
       tags:
         - save
@@ -27593,6 +27844,9 @@
     "<root>/*/B?SLES-82049*":
       tags:
         - save
+    "<root>/*/B?SLKA-25354*":
+      tags:
+        - save
     "<root>/*/B?SLUS-21243*":
       tags:
         - save
@@ -27608,6 +27862,9 @@
       tags:
         - save
     "<root>/*/B?SLES-82053*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25355*":
       tags:
         - save
     "<root>/*/B?SLUS-21360*":
@@ -28041,6 +28298,9 @@
     "<root>/*/B?SCAJ-20181*":
       tags:
         - save
+    "<root>/*/B?SCKA-20085*":
+      tags:
+        - save
     "<root>/*/B?SCPS-15113*":
       tags:
         - save
@@ -28282,6 +28542,9 @@
         - save
 "Mobile Suit Gundam - Gundam vs. Z-Gundam (PS2)":
   files:
+    "<root>/*/B?SLKA-25268*":
+      tags:
+        - save
     "<root>/*/B?SLPS-25419*":
       tags:
         - save
@@ -28620,6 +28883,11 @@
 "Monster Hunter 2 (PS2)":
   files:
     "<root>/*/B?SLPM-66280*":
+      tags:
+        - save
+"Monster Hunter 2 [DX Hunters Box] (PS2)":
+  files:
+    "<root>/*/B?CPCS-01020*":
       tags:
         - save
 "Monster Hunter 2 [PlayStation2 the Best] (PS2)":
@@ -30409,11 +30677,6 @@
     "<root>/*/B?SLES-50556*":
       tags:
         - save
-"NadePro!! Kisama mo Seiyuu Yatte Miro! [Limited Edition] (PS2)":
-  files:
-    "<root>/*/B?GUST-00009*":
-      tags:
-        - save
 "NadePro!! Kisama mo Seiyuu Yatte Miro! [Standard Edition] (PS2)":
   files:
     "<root>/*/B?SLPM-55223*":
@@ -30522,6 +30785,11 @@
 "Naruto - Konoha Spirits (PS2)":
   files:
     "<root>/*/B?SLPS-25714*":
+      tags:
+        - save
+"Naruto - Konoha Spirits!! (PS2)":
+  files:
+    "<root>/*/B?SLKA-25366*":
       tags:
         - save
 "Naruto - Narutimett Hero (PS2)":
@@ -30958,6 +31226,9 @@
       tags:
         - save
     "<root>/*/B?SLKA-25192*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-90503*":
       tags:
         - save
     "<root>/*/B?SLPM-65471*":
@@ -32032,6 +32303,16 @@
     "<root>/*/B?SCED-50732*":
       tags:
         - save
+"Official PS2 Magazine Demo 22 Special Ed - It's Here (PS2)":
+  files:
+    "<root>/*/B?SCED-52196*":
+      tags:
+        - save
+"Official PS2 Magazine French Christmas Special (PS2)":
+  files:
+    "<root>/*/B?SCED-53854*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine - German Kids Special (PS2)":
   files:
     "<root>/*/B?SCED-53611*":
@@ -32045,6 +32326,9 @@
 "Official PlayStation 2 Magazine Demo 10 (PS2)":
   files:
     "<root>/*/B?SCED-50145*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50404*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 100 (PS2)":
@@ -32062,6 +32346,12 @@
     "<root>/*/B?SCED-50146*":
       tags:
         - save
+    "<root>/*/B?SCED-50460*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50463*":
+      tags:
+        - save
     "<root>/*/B?SLES-50460*":
       tags:
         - save
@@ -32070,14 +32360,37 @@
     "<root>/*/B?SCED-50147*":
       tags:
         - save
+    "<root>/*/B?SCED-50506*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50543*":
+      tags:
+        - save
+"Official PlayStation 2 Magazine Demo 12/2003 (PS2)":
+  files:
+    "<root>/*/B?SCED-51936*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 13 (PS2)":
   files:
     "<root>/*/B?SCED-50148*":
       tags:
         - save
+    "<root>/*/B?SCED-50593*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50594*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 14 (PS2)":
   files:
     "<root>/*/B?SCED-50149*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50610*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50622*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 15 (PS2)":
@@ -32099,13 +32412,25 @@
     "<root>/*/B?SCED-50675*":
       tags:
         - save
+    "<root>/*/B?SCED-50736*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 17 (PS2)":
   files:
     "<root>/*/B?SCED-50152*":
       tags:
         - save
+    "<root>/*/B?SCED-50697*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 18 (PS2)":
   files:
+    "<root>/*/B?SCED-50153*":
+      tags:
+        - save
+    "<root>/*/B?SCED-50698*":
+      tags:
+        - save
     "<root>/*/B?SCED-50825*":
       tags:
         - save
@@ -32121,6 +32446,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 20 (PS2)":
   files:
+    "<root>/*/B?SCED-50699*":
+      tags:
+        - save
     "<root>/*/B?SCED-50743*":
       tags:
         - save
@@ -32129,6 +32457,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 21 (PS2)":
   files:
+    "<root>/*/B?SCED-50700*":
+      tags:
+        - save
     "<root>/*/B?SCED-50742*":
       tags:
         - save
@@ -32137,6 +32468,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 22 (PS2)":
   files:
+    "<root>/*/B?SCED-50701*":
+      tags:
+        - save
     "<root>/*/B?SCED-50744*":
       tags:
         - save
@@ -32161,9 +32495,15 @@
     "<root>/*/B?SCED-51147*":
       tags:
         - save
+    "<root>/*/B?SCED-51185*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 25 (PS2)":
   files:
     "<root>/*/B?SCED-50747*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51262*":
       tags:
         - save
     "<root>/*/B?SCED-51279*":
@@ -32182,6 +32522,9 @@
     "<root>/*/B?SCED-50749*":
       tags:
         - save
+    "<root>/*/B?SCED-51319*":
+      tags:
+        - save
     "<root>/*/B?SCED-51359*":
       tags:
         - save
@@ -32190,9 +32533,15 @@
     "<root>/*/B?SCED-50750*":
       tags:
         - save
+    "<root>/*/B?SCED-51376*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 29 (PS2)":
   files:
     "<root>/*/B?SCED-51384*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51432*":
       tags:
         - save
     "<root>/*/B?SCED-51440*":
@@ -32206,6 +32555,12 @@
 "Official PlayStation 2 Magazine Demo 30 (PS2)":
   files:
     "<root>/*/B?SCED-51457*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51483*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51485*":
       tags:
         - save
     "<root>/*/B?SCED-51489*":
@@ -32222,12 +32577,18 @@
     "<root>/*/B?SCED-51556*":
       tags:
         - save
+    "<root>/*/B?SCED-51566*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 32 (PS2)":
   files:
     "<root>/*/B?SCED-51530*":
       tags:
         - save
     "<root>/*/B?SCED-51558*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51567*":
       tags:
         - save
     "<root>/*/B?SCED-51656*":
@@ -32241,9 +32602,18 @@
     "<root>/*/B?SCED-51559*":
       tags:
         - save
+    "<root>/*/B?SCED-51568*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 34 (PS2)":
   files:
     "<root>/*/B?SCED-51532*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51560*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51569*":
       tags:
         - save
     "<root>/*/B?SCED-51760*":
@@ -32257,9 +32627,15 @@
     "<root>/*/B?SCED-51561*":
       tags:
         - save
+    "<root>/*/B?SCED-51570*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 36 (PS2)":
   files:
     "<root>/*/B?SCED-51534*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51571*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 37 (PS2)":
@@ -32270,14 +32646,26 @@
     "<root>/*/B?SCED-51563*":
       tags:
         - save
+    "<root>/*/B?SCED-51572*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 38 (PS2)":
   files:
     "<root>/*/B?SCED-51538*":
       tags:
         - save
+    "<root>/*/B?SCED-51573*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51935*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 39 (PS2)":
   files:
     "<root>/*/B?SCED-51540*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52037*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 40 (PS2)":
@@ -32286,6 +32674,9 @@
       tags:
         - save
     "<root>/*/B?SCED-51565*":
+      tags:
+        - save
+    "<root>/*/B?SCED-51575*":
       tags:
         - save
     "<root>/*/B?SCED-52053*":
@@ -32300,6 +32691,9 @@
 "Official PlayStation 2 Magazine Demo 41 (PS2)":
   files:
     "<root>/*/B?SCED-51536*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52068*":
       tags:
         - save
     "<root>/*/B?SCED-52081*":
@@ -32317,6 +32711,9 @@
 "Official PlayStation 2 Magazine Demo 42 (PS2)":
   files:
     "<root>/*/B?SCED-51539*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52069*":
       tags:
         - save
     "<root>/*/B?SCED-52270*":
@@ -32368,6 +32765,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 47 (PS2)":
   files:
+    "<root>/*/B?SCED-52087*":
+      tags:
+        - save
     "<root>/*/B?SCED-52162*":
       tags:
         - save
@@ -32387,6 +32787,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 49 (PS2)":
   files:
+    "<root>/*/B?SCED-52076*":
+      tags:
+        - save
     "<root>/*/B?SCED-52164*":
       tags:
         - save
@@ -32400,6 +32803,12 @@
         - save
 "Official PlayStation 2 Magazine Demo 50 (PS2)":
   files:
+    "<root>/*/B?SCED-52090*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52165*":
+      tags:
+        - save
     "<root>/*/B?SCED-52785*":
       tags:
         - save
@@ -32411,17 +32820,35 @@
     "<root>/*/B?SCED-52091*":
       tags:
         - save
+    "<root>/*/B?SCED-52166*":
+      tags:
+        - save
     "<root>/*/B?SCED-52786*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 52 (PS2)":
   files:
+    "<root>/*/B?SCED-52092*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52167*":
+      tags:
+        - save
     "<root>/*/B?SCED-52938*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 53 (PS2)":
   files:
+    "<root>/*/B?SCED-52080*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52168*":
+      tags:
+        - save
     "<root>/*/B?SCED-52990*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52991*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 54 (PS2)":
@@ -32429,11 +32856,23 @@
     "<root>/*/B?SCED-52169*":
       tags:
         - save
+    "<root>/*/B?SCED-53056*":
+      tags:
+        - save
     "<root>/*/B?SCED-53067*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53068*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 55 (PS2)":
   files:
+    "<root>/*/B?SCED-52120*":
+      tags:
+        - save
+    "<root>/*/B?SCED-52170*":
+      tags:
+        - save
     "<root>/*/B?SCED-53123*":
       tags:
         - save
@@ -32450,6 +32889,9 @@
         - save
 "Official PlayStation 2 Magazine Demo 57 (PS2)":
   files:
+    "<root>/*/B?SCED-53159*":
+      tags:
+        - save
     "<root>/*/B?SCED-53160*":
       tags:
         - save
@@ -32461,15 +32903,27 @@
     "<root>/*/B?SCED-53161*":
       tags:
         - save
+    "<root>/*/B?SCED-53206*":
+      tags:
+        - save
     "<root>/*/B?SCED-53225*":
       tags:
         - save
     "<root>/*/B?SCED-53288*":
       tags:
         - save
+    "<root>/*/B?SCED-53325*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53348*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 59 (PS2)":
   files:
     "<root>/*/B?SCED-53162*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53207*":
       tags:
         - save
     "<root>/*/B?SCED-53289*":
@@ -32485,12 +32939,18 @@
     "<root>/*/B?SCED-53163*":
       tags:
         - save
+    "<root>/*/B?SCED-53208*":
+      tags:
+        - save
     "<root>/*/B?SCED-53290*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 61 (PS2)":
   files:
     "<root>/*/B?SCED-53164*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53209*":
       tags:
         - save
     "<root>/*/B?SCED-53291*":
@@ -32501,12 +32961,18 @@
     "<root>/*/B?SCED-53165*":
       tags:
         - save
+    "<root>/*/B?SCED-53210*":
+      tags:
+        - save
     "<root>/*/B?SCED-53292*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 63 (PS2)":
   files:
     "<root>/*/B?SCED-53166*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53211*":
       tags:
         - save
     "<root>/*/B?SCED-53293*":
@@ -32517,9 +32983,15 @@
     "<root>/*/B?SCED-53167*":
       tags:
         - save
+    "<root>/*/B?SCED-53212*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 65 (PS2)":
   files:
     "<root>/*/B?SCED-53168*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53213*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 66 (PS2)":
@@ -32527,9 +32999,24 @@
     "<root>/*/B?SCED-53169*":
       tags:
         - save
+    "<root>/*/B?SCED-53214*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 67 (PS2)":
   files:
     "<root>/*/B?SCED-53170*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53215*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53916*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53932*":
+      tags:
+        - save
+    "<root>/*/B?SCED-53939*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 68 (PS2)":
@@ -32537,8 +33024,14 @@
     "<root>/*/B?SCED-53171*":
       tags:
         - save
+    "<root>/*/B?SCED-53216*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 69 (PS2)":
   files:
+    "<root>/*/B?SCED-53217*":
+      tags:
+        - save
     "<root>/*/B?SCED-53978*":
       tags:
         - save
@@ -32568,9 +33061,27 @@
     "<root>/*/B?SCED-54043*":
       tags:
         - save
+    "<root>/*/B?SCED-54050*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54070*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54079*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54099*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 72 (PS2)":
   files:
     "<root>/*/B?SCED-54044*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54051*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54144*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 73 (PS2)":
@@ -32578,9 +33089,18 @@
     "<root>/*/B?SCED-54045*":
       tags:
         - save
+    "<root>/*/B?SCED-54052*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54176*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 74 (PS2)":
   files:
     "<root>/*/B?SCED-54046*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54053*":
       tags:
         - save
     "<root>/*/B?SCED-54202*":
@@ -32591,9 +33111,15 @@
     "<root>/*/B?SCED-54047*":
       tags:
         - save
+    "<root>/*/B?SCED-54054*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 76 (PS2)":
   files:
     "<root>/*/B?SCED-54048*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54055*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 77 (PS2)":
@@ -32601,14 +33127,29 @@
     "<root>/*/B?SCED-54049*":
       tags:
         - save
+    "<root>/*/B?SCED-54056*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 78 (PS2)":
   files:
+    "<root>/*/B?SCED-54057*":
+      tags:
+        - save
     "<root>/*/B?SCED-54403*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54480*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 79 (PS2)":
   files:
+    "<root>/*/B?SCED-54058*":
+      tags:
+        - save
     "<root>/*/B?SCED-54404*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54481*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 8 (PS2)":
@@ -32621,7 +33162,13 @@
         - save
 "Official PlayStation 2 Magazine Demo 80 (PS2)":
   files:
+    "<root>/*/B?SCED-54059*":
+      tags:
+        - save
     "<root>/*/B?SCED-54405*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54567*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 81 (PS2)":
@@ -32632,9 +33179,15 @@
     "<root>/*/B?SCED-54603*":
       tags:
         - save
+    "<root>/*/B?SCED-54605*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 82 (PS2)":
   files:
     "<root>/*/B?SCED-54407*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54642*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 83 (PS2)":
@@ -32642,9 +33195,15 @@
     "<root>/*/B?SCED-54408*":
       tags:
         - save
+    "<root>/*/B?SCED-54692*":
+      tags:
+        - save
 "Official PlayStation 2 Magazine Demo 84 (PS2)":
   files:
     "<root>/*/B?SCED-54409*":
+      tags:
+        - save
+    "<root>/*/B?SCED-54758*":
       tags:
         - save
 "Official PlayStation 2 Magazine Demo 85 (PS2)":
@@ -33394,6 +33953,9 @@
 "Onimusha - Warlords (PS2)":
   files:
     "<root>/*/B?SLES-50247*":
+      tags:
+        - save
+    "<root>/*/B?SLPM-67507*":
       tags:
         - save
     "<root>/*/B?SLUS-20018*":
@@ -34303,11 +34865,6 @@
     "<root>/*/B?SLPM-55269*":
       tags:
         - save
-"Pandora - Kimi no Namae o Boku ha Shiru [Limited Edition] (PS2)":
-  files:
-    "<root>/*/B?PDPX-99109*":
-      tags:
-        - save
 "Panel Quiz Attack 25 (PS2)":
   files:
     "<root>/*/B?SLPS-25148*":
@@ -34741,6 +35298,16 @@
 "Pipo Saru 2001 [Trial] (PS2)":
   files:
     "<root>/*/B?PCPX-96319*":
+      tags:
+        - save
+"Piposarugetchu 3 (PS2)":
+  files:
+    "<root>/*/B?SCKA-20062*":
+      tags:
+        - save
+"Piposarugetchu 3 [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20124*":
       tags:
         - save
 "Pippa Funnell - Ranch Rescue (PS2)":
@@ -35586,6 +36153,9 @@
       tags:
         - save
     "<root>/*/B?SLES-51918*":
+      tags:
+        - save
+    "<root>/*/B?SLES-51961*":
       tags:
         - save
     "<root>/*/B?SLKA-25120*":
@@ -36571,6 +37141,9 @@
     "<root>/*/B?SCAJ-20029*":
       tags:
         - save
+    "<root>/*/B?SCKA-20009*":
+      tags:
+        - save
     "<root>/*/B?SLES-51952*":
       tags:
         - save
@@ -36587,6 +37160,9 @@
         - save
 "R-Type Final [Trial] (PS2)":
   files:
+    "<root>/*/B?SCKA-90009*":
+      tags:
+        - save
     "<root>/*/B?SLPM-60202*":
       tags:
         - save
@@ -37038,6 +37614,36 @@
     "<root>/*/B?SLES-55019*":
       tags:
         - save
+"Ratchet & Clank - Tool Warrior Jackpot (PS2)":
+  files:
+    "<root>/*/B?SCKA-20011*":
+      tags:
+        - save
+"Ratchet & Clank - Tool Warrior Jackpot [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20046*":
+      tags:
+        - save
+"Ratchet & Clank - Tool Warrior Reloaded [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20037*":
+      tags:
+        - save
+"Ratchet & Clank - Tool Warrior Reloaded [Public Beta] (PS2)":
+  files:
+    "<root>/*/B?SCKA-80003*":
+      tags:
+        - save
+"Ratchet & Clank - Tool Warrior's Crisis (PS2)":
+  files:
+    "<root>/*/B?SCKA-20060*":
+      tags:
+        - save
+"Ratchet & Clank - Tool Warrior's Crisis [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20108*":
+      tags:
+        - save
 "Ratchet & Clank - Up Your Arsenal (PS2)":
   files:
     "<root>/*/B?SCUS-97353*":
@@ -37056,6 +37662,11 @@
 "Ratchet & Clank - Up Your Arsenal [Regular Demo] (PS2)":
   files:
     "<root>/*/B?SCUS-97411*":
+      tags:
+        - save
+"Ratchet & Clank - Vacation with Tools (PS2)":
+  files:
+    "<root>/*/B?SCKA-20120*":
       tags:
         - save
 "Ratchet & Clank 2 - Going Commando & Jak II [Demo] (PS2)":
@@ -37568,6 +38179,9 @@
 "Reign of Fire (PS2)":
   files:
     "<root>/*/B?SLES-50873*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25011*":
       tags:
         - save
     "<root>/*/B?SLUS-20556*":
@@ -38289,6 +38903,16 @@
     "<root>/*/B?SCED-53349*":
       tags:
         - save
+"Roll Roll Sticky Sticky - Katamari Damacy (PS2)":
+  files:
+    "<root>/*/B?SCKA-20051*":
+      tags:
+        - save
+"Roll Roll Sticky Sticky - Katamari Damacy [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20135*":
+      tags:
+        - save
 "Roller Coaster Funfare (PS2)":
   files:
     "<root>/*/B?SLES-55131*":
@@ -38551,6 +39175,9 @@
 "Rumble Roses (PS2)":
   files:
     "<root>/*/B?SLES-52535*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25234*":
       tags:
         - save
     "<root>/*/B?SLPM-65885*":
@@ -38921,6 +39548,12 @@
     "<root>/*/B?SCES-51618*":
       tags:
         - save
+    "<root>/*/B?SCKA-20007*":
+      tags:
+        - save
+    "<root>/*/B?SCKA-20013*":
+      tags:
+        - save
     "<root>/*/B?SCPS-15044*":
       tags:
         - save
@@ -38941,6 +39574,11 @@
 "SOCOM - U.S. Navy SEALs - Combined Assault [Demo] (PS2)":
   files:
     "<root>/*/B?SCUS-97560*":
+      tags:
+        - save
+"SOCOM - U.S. Navy SEALs [BANG] (PS2)":
+  files:
+    "<root>/*/B?SCKA-24008*":
       tags:
         - save
 "SOCOM - U.S. Navy SEALs [Beta & Full Release] (PS2)":
@@ -38968,10 +39606,18 @@
     "<root>/*/B?SCES-53300*":
       tags:
         - save
+    "<root>/*/B?SCKA-20064*":
+      tags:
+        - save
     "<root>/*/B?SCUS-97474*":
       tags:
         - save
     "<root>/*/B?SLES-53300*":
+      tags:
+        - save
+"SOCOM 3 - U.S. Navy SEALs [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20116*":
       tags:
         - save
 "SOCOM 3 - U.S. Navy SEALs [Public Beta v.1] (PS2)":
@@ -38992,6 +39638,9 @@
     "<root>/*/B?SCES-52306*":
       tags:
         - save
+    "<root>/*/B?SCKA-20020*":
+      tags:
+        - save
     "<root>/*/B?SCUS-97275*":
       tags:
         - save
@@ -39003,6 +39652,11 @@
 "SOCOM II - U.S. Navy SEALs [Greatest Hits] (PS2)":
   files:
     "<root>/*/B?SCUS-97511*":
+      tags:
+        - save
+"SOCOM II - U.S. Navy SEALs [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20053*":
       tags:
         - save
 "SOCOM II - U.S. Navy SEALs [Public Beta v1.0] (PS2)":
@@ -39508,6 +40162,11 @@
     "<root>/*/B?SLKA-25127*":
       tags:
         - save
+"Samgukji Jeongi (PS2)":
+  files:
+    "<root>/*/B?SLPM-67522*":
+      tags:
+        - save
 "Samgukji Jeongi 2 (PS2)":
   files:
     "<root>/*/B?SLKA-25088*":
@@ -39591,6 +40250,11 @@
       tags:
         - save
     "<root>/*/B?SLUS-20972*":
+      tags:
+        - save
+"Samurai Spirits - 6beonui Seungbu (PS2)":
+  files:
+    "<root>/*/B?SLKA-25433*":
       tags:
         - save
 "Samurai Spirits - Rokuban Shoubu [NeoGeo Online Collection Vol. 12] (PS2)":
@@ -40550,6 +41214,11 @@
 "Sega Rally Championship '95 [Sega Rally 2007 Bundle] (PS2)":
   files:
     "<root>/*/B?SLPM-62703*":
+      tags:
+        - save
+"Sega Rally Championship (PS2)":
+  files:
+    "<root>/*/B?SLKA-15059*":
       tags:
         - save
 "Sega Soccer Slam (PS2)":
@@ -42425,6 +43094,9 @@
         - save
 "Sidewinder F (PS2)":
   files:
+    "<root>/*/B?SLPM-67538*":
+      tags:
+        - save
     "<root>/*/B?SLPS-25076*":
       tags:
         - save
@@ -42476,6 +43148,11 @@
     "<root>/*/B?SLPM-64549*":
       tags:
         - save
+"Siksin-ui Seong II (PS2)":
+  files:
+    "<root>/*/B?SLKA-15003*":
+      tags:
+        - save
 "Silent Hill - Origins (PS2)":
   files:
     "<root>/*/B?SLES-55147*":
@@ -42501,6 +43178,9 @@
 "Silent Hill 2 (PS2)":
   files:
     "<root>/*/B?SLES-50382*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25001*":
       tags:
         - save
     "<root>/*/B?SLPM-65051*":
@@ -42568,6 +43248,9 @@
     "<root>/*/B?SLES-52445*":
       tags:
         - save
+    "<root>/*/B?SLKA-25149*":
+      tags:
+        - save
     "<root>/*/B?SLPM-65574*":
       tags:
         - save
@@ -42582,6 +43265,11 @@
 "Silent Hill 4 [KONAMI The BEST] (PS2)":
   files:
     "<root>/*/B?SLPM-66032*":
+      tags:
+        - save
+"Silent Hill Origins (PS2)":
+  files:
+    "<root>/*/B?SLKA-25422*":
       tags:
         - save
 "Silent Line - Armored Core (PS2)":
@@ -44685,6 +45373,14 @@
     "<root>/*/B?SCUS-97457*":
       tags:
         - save
+"Sly 2 - The Great Operation of the Phantom Thief Brothers! (PS2)":
+  files:
+    "<root>/*/B?SCKA-20044*":
+      tags:
+        - save
+    "<root>/*/B?SCKA-20074*":
+      tags:
+        - save
 "Sly 3 - Honor Among Thieves (PS2)":
   files:
     "<root>/*/B?SCUS-97464*":
@@ -44710,9 +45406,37 @@
     "<root>/*/B?SCED-53802*":
       tags:
         - save
+"Sly 3 - The Last Master Thief (PS2)":
+  files:
+    "<root>/*/B?SCKA-20063*":
+      tags:
+        - save
+    "<root>/*/B?SCKA-20111*":
+      tags:
+        - save
 "Sly Cooper (PS2)":
   files:
     "<root>/*/B?SCAJ-20017*":
+      tags:
+        - save
+"Sly Cooper - In Search of the Legendary Secret Manual (PS2)":
+  files:
+    "<root>/*/B?SCKA-20004*":
+      tags:
+        - save
+"Sly Cooper - In Search of the Legendary Secret Manual [BANG] (PS2)":
+  files:
+    "<root>/*/B?SCKA-24004*":
+      tags:
+        - save
+"Sly Cooper - In Search of the Legendary Secret Manual [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20030*":
+      tags:
+        - save
+"Sly Cooper - In Search of the Legendary Secret Manual [Trial] (PS2)":
+  files:
+    "<root>/*/B?SCKA-90004*":
       tags:
         - save
 "Sly Cooper and the Thievius Raccoonus (PS2)":
@@ -46824,6 +47548,11 @@
     "<root>/*/B?SLPM-64550*":
       tags:
         - save
+"Super Puzzle Bobble 2 [BANG] (PS2)":
+  files:
+    "<root>/*/B?SLKA-19002*":
+      tags:
+        - save
 "Super Puzzle Bobble Collection [Disc 1 of 2] (PS2)":
   files:
     "<root>/*/B?SLKA-15043*":
@@ -46901,11 +47630,17 @@
         - save
 "Super Robot Taisen Z (PS2)":
   files:
+    "<root>/*/B?SCKA-20131*":
+      tags:
+        - save
     "<root>/*/B?SLPS-25887*":
       tags:
         - save
 "Super Robot Taisen Z - Special Disc (PS2)":
   files:
+    "<root>/*/B?SCKA-20136*":
+      tags:
+        - save
     "<root>/*/B?SLPS-25920*":
       tags:
         - save
@@ -48002,6 +48737,9 @@
         - save
 "Tamamayu Story 2 (PS2)":
   files:
+    "<root>/*/B?SLKA-25042*":
+      tags:
+        - save
     "<root>/*/B?SLPS-25054*":
       tags:
         - save
@@ -49584,6 +50322,11 @@
 "The Shield - The Game (PS2)":
   files:
     "<root>/*/B?SLES-54720*":
+      tags:
+        - save
+"The Shooting - Double Flame Dragon (PS2)":
+  files:
+    "<root>/*/B?SLKA-15029*":
       tags:
         - save
 "The Simpsons - Hit & Run (PS2)":
@@ -51856,6 +52599,11 @@
     "<root>/*/B?SLUS-20252*":
       tags:
         - save
+"UFC - Ultimate Fighting Championship 2 - Tapout (PS2)":
+  files:
+    "<root>/*/B?SLPM-64539*":
+      tags:
+        - save
 "UFC 2004 - Ultimate Fighting Championship (PS2)":
   files:
     "<root>/*/B?SLPS-25355*":
@@ -52464,6 +53212,9 @@
 "Vexx (PS2)":
   files:
     "<root>/*/B?SLES-50481*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25121*":
       tags:
         - save
     "<root>/*/B?SLUS-20383*":
@@ -53665,6 +54416,11 @@
     "<root>/*/B?SCAJ-20183*":
       tags:
         - save
+"Wild Arms - The Vth Vanguard [Trial] (PS2)":
+  files:
+    "<root>/*/B?PAPX-90524*":
+      tags:
+        - save
 "Wild Arms 5 (PS2)":
   files:
     "<root>/*/B?SLES-54972*":
@@ -54257,6 +55013,11 @@
     "<root>/*/B?SLPM-66374*":
       tags:
         - save
+"World Soccer Winning Eleven 10 - Liveware Edition (PS2)":
+  files:
+    "<root>/*/B?SLKA-25153*":
+      tags:
+        - save
 "World Soccer Winning Eleven 2008 (PS2)":
   files:
     "<root>/*/B?SLKA-25409*":
@@ -54265,6 +55026,9 @@
 "World Soccer Winning Eleven 2009 (PS2)":
   files:
     "<root>/*/B?SLAJ-25111*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-25455*":
       tags:
         - save
     "<root>/*/B?SLPM-55131*":
@@ -54304,6 +55068,9 @@
         - save
 "World Soccer Winning Eleven 2012 (PS2)":
   files:
+    "<root>/*/B?SLKA-25480*":
+      tags:
+        - save
     "<root>/*/B?SLPM-55294*":
       tags:
         - save
@@ -54348,14 +55115,27 @@
     "<root>/*/B?SLPM-65497*":
       tags:
         - save
+"World Soccer Winning Eleven 7 International (PS2)":
+  files:
+    "<root>/*/B?SLKA-25117*":
+      tags:
+        - save
 "World Soccer Winning Eleven 8 (PS2)":
   files:
+    "<root>/*/B?SLKA-25203*":
+      tags:
+        - save
     "<root>/*/B?SLPM-65657*":
       tags:
         - save
 "World Soccer Winning Eleven 8 - Asia Championship (PS2)":
   files:
     "<root>/*/B?SCCS-40022*":
+      tags:
+        - save
+"World Soccer Winning Eleven 8 - International (PS2)":
+  files:
+    "<root>/*/B?SLKA-25262*":
       tags:
         - save
 "World Soccer Winning Eleven 9 (PS2)":
@@ -54680,6 +55460,9 @@
 "XII Stag (PS2)":
   files:
     "<root>/*/B?SLES-51704*":
+      tags:
+        - save
+    "<root>/*/B?SLKA-15011*":
       tags:
         - save
     "<root>/*/B?SLPM-62318*":
@@ -55442,6 +56225,26 @@
     "<root>/*/B?SLPS-25488*":
       tags:
         - save
+"Zero (PS2)":
+  files:
+    "<root>/*/B?SCPS-56008*":
+      tags:
+        - save
+"Zero - Akai Chou [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20128*":
+      tags:
+        - save
+"Zero - Red Butterfly (PS2)":
+  files:
+    "<root>/*/B?SCKA-20023*":
+      tags:
+        - save
+"Zero - Shisei no Koe (PS2)":
+  files:
+    "<root>/*/B?SCAJ-20139*":
+      tags:
+        - save
 "Zero 4 Champ Series - Drift Champ (PS2)":
   files:
     "<root>/*/B?SLPM-65071*":
@@ -55455,6 +56258,11 @@
 "Zero Pilot - Zero (PS2)":
   files:
     "<root>/*/B?SLPM-66459*":
+      tags:
+        - save
+"Zero [PlayStation 2 BigHit Series] (PS2)":
+  files:
+    "<root>/*/B?SCKA-20127*":
       tags:
         - save
 "Zero no Tsukaima - Fantasy Force (PS2)":
@@ -55674,6 +56482,16 @@
     "<root>/*/B?SLUS-20545*":
       tags:
         - save
+"Zone of the Enders - The 2nd Runner - Special Edition (PS2)":
+  files:
+    "<root>/*/B?SLKA-25470*":
+      tags:
+        - save
+"Zone of the Enders - The 2nd Runner SE (PS2)":
+  files:
+    "<root>/*/B?SLKA-25066*":
+      tags:
+        - save
 "Zone of the Enders - The 2nd Runner Special Edition (PS2)":
   files:
     "<root>/*/B?SLES-51113*":
@@ -55804,147 +56622,5 @@
 "めもりーず おふ #5 - Togireta Film (PS2)":
   files:
     "<root>/*/B?SLPM-66147*":
-      tags:
-        - save
-"ジャック×ダクスター 旧世界の遺産 [体験版] (PS2)":
-  files:
-    "<root>/*/B?PAPX-90222*":
-      tags:
-        - save
-    "<root>/*/B?PAPX-90223*":
-      tags:
-        - save
-"零 ～제로～ (PS2)":
-  files:
-    "<root>/*/B?SCPS-56008*":
-      tags:
-        - save
-"鬼武者 2 (PS2)":
-  files:
-    "<root>/*/B?SLPM-67518*":
-      tags:
-        - save
-"검호 2 (PS2)":
-  files:
-    "<root>/*/B?SLKA-25009*":
-      tags:
-        - save
-"결전 (PS2)":
-  files:
-    "<root>/*/B?SLPM-67514*":
-      tags:
-        - save
-"결전 ＩＩ (PS2)":
-  files:
-    "<root>/*/B?SLPM-67531*":
-      tags:
-        - save
-"괴혼 굴려라! 왕자님! (PS2)":
-  files:
-    "<root>/*/B?SCKA-20025*":
-      tags:
-        - save
-"그랜드 슬램 2003 테니스 (PS2)":
-  files:
-    "<root>/*/B?SLKA-15013*":
-      tags:
-        - save
-"근육맨 제네레이션즈 (PS2)":
-  files:
-    "<root>/*/B?SLKA-15034*":
-      tags:
-        - save
-"기동전사 건담 - 건담 vs. Z 건담 (PS2)":
-  files:
-    "<root>/*/B?SLKA-25268*":
-      tags:
-        - save
-"나루토: 나뭇잎 스피릿츠!! (PS2)":
-  files:
-    "<root>/*/B?SLKA-25366*":
-      tags:
-        - save
-"데굴 데굴~ 쫀득 쫀득~ 괴혼 (PS2)":
-  files:
-    "<root>/*/B?SCKA-20051*":
-      tags:
-        - save
-"라쳇 & 클랭크 - 공구전사 대박몰이 (PS2)":
-  files:
-    "<root>/*/B?SCKA-20011*":
-      tags:
-        - save
-"라쳇 & 클랭크: 공구전사 위기일발 (PS2)":
-  files:
-    "<root>/*/B?SCKA-20060*":
-      tags:
-        - save
-"마계전기 Disgaea (PS2)":
-  files:
-    "<root>/*/B?SLKA-25048*":
-      tags:
-        - save
-"삼국지전기 (PS2)":
-  files:
-    "<root>/*/B?SLPM-67522*":
-      tags:
-        - save
-"슬라이 쿠퍼 - 전설의 비법서를 찾아서 (PS2)":
-  files:
-    "<root>/*/B?SCKA-20004*":
-      tags:
-        - save
-"슬라이 쿠퍼 - 전설의 비법서를 찾아서 [PlayStation 2 BigHit Series] (PS2)":
-  files:
-    "<root>/*/B?SCKA-20030*":
-      tags:
-        - save
-"슬라이 쿠퍼 - 전설의 비법서를 찾아서 [Trial] (PS2)":
-  files:
-    "<root>/*/B?SCKA-90004*":
-      tags:
-        - save
-"슬라이 쿠퍼 2 - 괴도 브라더스 대작전! (PS2)":
-  files:
-    "<root>/*/B?SCKA-20044*":
-      tags:
-        - save
-    "<root>/*/B?SCKA-20074*":
-      tags:
-        - save
-"슬라이 쿠퍼 3 - 최후의 대도 (PS2)":
-  files:
-    "<root>/*/B?SCKA-20063*":
-      tags:
-        - save
-    "<root>/*/B?SCKA-20111*":
-      tags:
-        - save
-"이누야샤 오의난무 (PS2)":
-  files:
-    "<root>/*/B?SLKA-25296*":
-      tags:
-        - save
-"제로 ~붉은 나비~ (PS2)":
-  files:
-    "<root>/*/B?SCKA-20023*":
-      tags:
-        - save
-"진・삼국무쌍 4 [Premium Package] (PS2)":
-  files:
-    "<root>/*/B?SLKA-25339*":
-      tags:
-        - save
-"진・삼국무쌍 4 엠파이어스 [Premium Package] (PS2)":
-  files:
-    "<root>/*/B?SLKA-25340*":
-      tags:
-        - save
-"크래쉬 밴디쿳 마왕의 부활 (PS2)":
-  files:
-    "<root>/*/B?SLPM-64509*":
-      tags:
-        - save
-    "<root>/*/B?SLPM-64513*":
       tags:
         - save

@@ -88415,13 +88415,7 @@
     "<root>/saves/**/Dicing Knight (*":
       tags:
         - save
-    "<root>/saves/**/Dicing Knight.*":
-      tags:
-        - save
     "<root>/states/**/Dicing Knight (*":
-      tags:
-        - save
-    "<root>/states/**/Dicing Knight.*":
       tags:
         - save
 "Dicing Knight. (RetroArch)":
@@ -95975,13 +95969,7 @@
     "<root>/saves/**/Donkey (*":
       tags:
         - save
-    "<root>/saves/**/Donkey.*":
-      tags:
-        - save
     "<root>/states/**/Donkey (*":
-      tags:
-        - save
-    "<root>/states/**/Donkey.*":
       tags:
         - save
 "Donkey Kong (RetroArch)":
@@ -277891,13 +277879,7 @@
     "<root>/saves/**/Oujisama Lv1 (*":
       tags:
         - save
-    "<root>/saves/**/Oujisama Lv1.*":
-      tags:
-        - save
     "<root>/states/**/Oujisama Lv1 (*":
-      tags:
-        - save
-    "<root>/states/**/Oujisama Lv1.*":
       tags:
         - save
 "Oujisama Lv1.5 - Oujisama no Tamago (RetroArch)":
@@ -289007,13 +288989,7 @@
     "<root>/saves/**/Pia Carrot e Youkoso!! 2 (*":
       tags:
         - save
-    "<root>/saves/**/Pia Carrot e Youkoso!! 2.*":
-      tags:
-        - save
     "<root>/states/**/Pia Carrot e Youkoso!! 2 (*":
-      tags:
-        - save
-    "<root>/states/**/Pia Carrot e Youkoso!! 2.*":
       tags:
         - save
 "Pia Carrot e Youkoso!! 2.2 (RetroArch)":
@@ -289049,13 +289025,7 @@
     "<root>/saves/**/Pia Carrot e Youkoso!! 3 (*":
       tags:
         - save
-    "<root>/saves/**/Pia Carrot e Youkoso!! 3.*":
-      tags:
-        - save
     "<root>/states/**/Pia Carrot e Youkoso!! 3 (*":
-      tags:
-        - save
-    "<root>/states/**/Pia Carrot e Youkoso!! 3.*":
       tags:
         - save
 "Pia Carrot e Youkoso!! 3.3 (RetroArch)":
@@ -327925,13 +327895,7 @@
     "<root>/saves/**/SD Gundam - GGeneration-F (*":
       tags:
         - save
-    "<root>/saves/**/SD Gundam - GGeneration-F.*":
-      tags:
-        - save
     "<root>/states/**/SD Gundam - GGeneration-F (*":
-      tags:
-        - save
-    "<root>/states/**/SD Gundam - GGeneration-F.*":
       tags:
         - save
 "SD Gundam - GGeneration-F.I.F (RetroArch)":
