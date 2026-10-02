@@ -21,7 +21,7 @@ data folder as a root and list the manifests you want.
 ```yaml
 manifest:
   secondary:
-    - url: https://raw.githubusercontent.com/<owner>/ludusavi-emulator-manifests/main/manifests/retroarch.yaml
+    - url: https://raw.githubusercontent.com/sharkusmanch/ludusavi-emulator-manifests/main/manifests/retroarch.yaml
 roots:
   - path: ~/.var/app/org.libretro.RetroArch/config/retroarch
     store: other
