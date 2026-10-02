@@ -6,13 +6,42 @@ one blob per emulator.
 
 A scheduled GitHub Actions workflow rebuilds `manifests/*.yaml` from public game databases.
 
-| Manifest | Root to add (store: other) | Keyed by | Games | Source |
+| Manifest | System | Root to add (store: other) | Keyed by | Source |
 |---|---|---|---|---|
-| `retroarch.yaml` | folder containing `saves/` and `states/` | ROM file name | ~32,000 | libretro-database No-Intro/Redump DATs + `aliases.json` |
-| `pcsx2.yaml` | PCSX2 `memcards` folder (folder memory cards only) | disc serial | ~9,000 | PCSX2 `GameIndex.yaml` |
-| `ppsspp.yaml` | PPSSPP `PSP` folder | game ID | ~3,100 | libretro-database PSP DATs |
-| `dolphin.yaml` | Dolphin user folder (GCI folders, not raw cards) | game ID | ~4,500 | GameTDB via Dolphin |
-| `azahar.yaml` | Azahar/Citra user folder | title ID | ~3,100 | hax0kartik/3dsdb |
+| `retroarch.yaml` | many | folder containing `saves/` and `states/` | ROM file name | libretro-database No-Intro/Redump DATs + `aliases.json` |
+| `duckstation.yaml` | PS1 | DuckStation data folder (`memcards/`, `savestates/`) | card title and disc serial | DuckStation `gamedb.yaml` + `discsets.yaml` |
+| `pcsx2.yaml` | PS2 | PCSX2 `memcards` folder (folder memory cards only) | disc serial | PCSX2 `GameIndex.yaml` |
+| `rpcs3.yaml` | PS3 | RPCS3 config folder (contains `dev_hdd0/`) | serial | RPCS3 compatibility API + Redump PS3 DAT |
+| `shadps4.yaml` | PS4 | shadPS4 user folder | serial | andshrew/PlayStation-Titles |
+| `ppsspp.yaml` | PSP | PPSSPP `PSP` folder | game ID | libretro-database PSP DATs |
+| `vita3k.yaml` | PS Vita | Vita3K data folder (contains `ux0/`) | title ID | Vita3K compatibility list + No-Intro Vita DAT |
+| `dolphin.yaml` | GameCube, Wii | Dolphin user folder (GCI folders, not raw cards) | game ID | GameTDB via Dolphin |
+| `cemu.yaml` | Wii U | Cemu `mlc01` folder | title ID | WiiUBrew title database |
+| `azahar.yaml` | 3DS | Azahar/Citra user folder | title ID | hax0kartik/3dsdb |
+| `switch.yaml` | Switch | user folder of Eden, Citron, Suyu or yuzu (contains `nand/`) | title ID | blawar/titledb |
+| `ryujinx.yaml` | Switch | Ryujinx data folder (contains `bis/`) | not per game - one entry | static |
+| `xenia.yaml` | Xbox 360 | Xenia `content` folder (master or Canary) | title ID | xenia-manager/database + IronRingX/xbox360-gamelist |
+| `scummvm.yaml` | ScummVM | ScummVM save folder | game ID | scummvm-web `games.yaml` |
+
+**Tested against real saves:** RetroArch, PCSX2, PPSSPP, Dolphin (GameCube) and Azahar. The other
+manifests were built from each emulator's source code and checked only against synthetic folder
+layouts - please report mismatches.
+
+### Default folder locations
+
+| Emulator | Linux | Windows |
+|---|---|---|
+| DuckStation | `~/.local/share/duckstation` | `Documents\DuckStation`, else `%LOCALAPPDATA%\DuckStation` |
+| RPCS3 | `~/.config/rpcs3` | folder containing `rpcs3.exe` |
+| shadPS4 | `~/.local/share/shadPS4` | `%APPDATA%\shadPS4` |
+| Vita3K | `~/.local/share/Vita3K/Vita3K` | `%APPDATA%\Vita3K\Vita3K` |
+| Eden / Citron / Suyu / yuzu | `~/.local/share/<name>` | `%APPDATA%\<name>` |
+| Ryujinx | `~/.config/Ryujinx` | `%APPDATA%\Ryujinx` |
+| Cemu | `~/.local/share/Cemu/mlc01` | `%APPDATA%\Cemu\mlc01` |
+| Xenia | `~/.local/share/Xenia/content` | `content` next to the exe (Canary), `Documents\Xenia\content` (master) |
+
+Portable installs, Flatpaks and custom paths differ: point the root at wherever the folders named
+in the first table actually are.
 
 ## Use
 
@@ -58,13 +87,31 @@ Ludusavi's primary manifest.
 `generate.py` (Python standard library only) downloads each source, groups IDs by game title and
 writes one entry per title. Regional releases of a game share one entry.
 
+- **DuckStation** - per-game memory cards named by title (`<root>/memcards/<title>_?.mcd`, using
+  the database's `saveName`) or by serial, plus `<root>/savestates/<serial>_*.sav`. Multi-disc
+  games are one entry.
 - **PCSX2** - each serial in `GameIndex.yaml` becomes `<root>/*/B?<serial>*`, matching that game's
   save folders inside any folder memory card.
+- **RPCS3** - `<root>/dev_hdd0/home/*/savedata/<serial>*`, save states and PS1-classic cards. Save
+  folder names are chosen by each game; nearly all start with the serial, but not all.
+- **shadPS4** - `<root>/home/*/savedata/<serial>` (v0.16+) and `<root>/savedata/*/<serial>` (older).
 - **PPSSPP** - each serial becomes `<root>/SAVEDATA/<id>*` and `<root>/PPSSPP_STATE/<id>_*`.
+- **Vita3K** - `<root>/ux0/user/*/savedata/<title id>`.
 - **Dolphin** - each GameTDB ID becomes a GCI glob (`<root>/GC/*/*/<maker>-<code>-*.gci`), a Wii
   title folder (`<root>/Wii/title/00010000/<hex id>`) and its save states.
+- **Cemu** - `<root>/usr/save/00050000/<title id low half>`. Titles the wiki has no name for are
+  listed by ID.
 - **Azahar** - each title ID becomes its `title/00040000/<id>` and matching `extdata` folder under
   `<root>/sdmc/Nintendo 3DS/*/*/`.
+- **Switch (yuzu family)** - `<root>/nand/user/save/0000000000000000/*/<title id>` and the cache
+  save folder.
+- **Ryujinx** - saves live in numbered folders with no title ID in the path, so this is a single
+  "all saves" entry.
+- **Xenia** - `<root>/<title id>/00000001` (master) and `<root>/*/<title id>/00000001` (Canary).
+  DLC and title updates are left out.
+- **ScummVM** - `<root>/<game id>.*` and `<root>/<game id>-*.*`, which is how ScummVM names saves
+  for a game added with its default name; games whose engine uses fixed save names are listed
+  explicitly. Renamed targets are not matched.
 - **RetroArch** - see below.
 
 Each emulator also gets a `(system)` entry for shared files that belong to no single game.
@@ -112,7 +159,8 @@ python tools/check_coverage.py preview.json <root> [<root> ...]
 - Same-titled games on different RetroArch systems share one entry, and so do saves for one game
   made by different cores.
 - Single-file memory cards (PCSX2 `.ps2`, Dolphin `.raw`) cannot be split per game.
-- Wii entries are generated but untested.
+- A manifest is not regenerated if a source is unreachable or the result would shrink by more
+  than 10%; the previous file stays in place and the workflow run fails.
 - Ludusavi stores backups by absolute path; restoring on another machine needs
   [redirects](https://github.com/mtkennerly/ludusavi/blob/master/docs/help/redirects.md).
 
@@ -124,3 +172,11 @@ Not affiliated with Ludusavi or any of these projects.
 - [PCSX2](https://github.com/PCSX2/pcsx2) `GameIndex.yaml`
 - [GameTDB](https://www.gametdb.com) via [Dolphin](https://github.com/dolphin-emu/dolphin)
 - [hax0kartik/3dsdb](https://github.com/hax0kartik/3dsdb)
+- [DuckStation](https://github.com/stenzek/duckstation) `gamedb.yaml`
+- [RPCS3](https://rpcs3.net/compatibility) compatibility list
+- [andshrew/PlayStation-Titles](https://github.com/andshrew/PlayStation-Titles)
+- [Vita3K](https://vita3k.org/compatibility) compatibility list
+- [blawar/titledb](https://github.com/blawar/titledb)
+- [WiiUBrew](https://wiiubrew.org/wiki/Title_database) title database
+- [xenia-manager/database](https://github.com/xenia-manager/database) and [IronRingX/xbox360-gamelist](https://github.com/IronRingX/xbox360-gamelist)
+- [scummvm-web](https://github.com/scummvm/scummvm-web)
