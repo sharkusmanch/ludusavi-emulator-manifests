@@ -3250,6 +3250,14 @@
     "<root>/harryhh.*":
       tags:
         - save
+"Harvester (ScummVM)":
+  files:
+    "<root>/harvester-*.*":
+      tags:
+        - save
+    "<root>/harvester.*":
+      tags:
+        - save
 "Haunting At Cliffhouse (ScummVM)":
   files:
     "<root>/hauntingcliffhouse-*.*":

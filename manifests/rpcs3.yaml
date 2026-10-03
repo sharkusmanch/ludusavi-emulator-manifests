@@ -85122,16 +85122,18 @@
     "<root>/dev_hdd0/home/*/savedata/BLJM61119*":
       tags:
         - save
-    "<root>/dev_hdd0/home/*/savedata/BLJM61262*":
-      tags:
-        - save
     "<root>/dev_hdd0/savedata/vmc/BLJM61119_mc?.VM1":
       tags:
         - save
-    "<root>/dev_hdd0/savedata/vmc/BLJM61262_mc?.VM1":
+    "<root>/savestates/BLJM61119":
       tags:
         - save
-    "<root>/savestates/BLJM61119":
+"Winning Post 8 2015 (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/BLJM61262*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/BLJM61262_mc?.VM1":
       tags:
         - save
     "<root>/savestates/BLJM61262":

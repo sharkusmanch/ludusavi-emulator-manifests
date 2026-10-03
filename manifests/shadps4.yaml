@@ -122244,6 +122244,20 @@
     "<root>/savedata/*/CUSA60098":
       tags:
         - save
+"HAPPY WEEKEND (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59533":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59898":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59533":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59898":
+      tags:
+        - save
 "HARDCORE MECHA (PS4)":
   files:
     "<root>/home/*/savedata/CUSA14039":

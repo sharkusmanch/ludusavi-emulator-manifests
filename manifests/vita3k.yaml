@@ -2103,6 +2103,9 @@
     "<root>/ux0/user/*/savedata/PCSE01152":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10055":
+      tags:
+        - save
 "Curses 'N Chaos (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00853":
@@ -10180,6 +10183,11 @@
 "Saka-Ban (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90088":
+      tags:
+        - save
+"Sakatsuku: Pro Soccer Club o Tsukurou! (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00198":
       tags:
         - save
 "Saki Zenkoku Hen (Vita)":
