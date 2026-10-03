@@ -9,7 +9,7 @@ A scheduled GitHub Actions workflow rebuilds `manifests/*.yaml` from public game
 | Manifest | System | Root to add (store: other) | Keyed by | Source |
 |---|---|---|---|---|
 | `retroarch.yaml` | many | folder containing `saves/` and `states/` | ROM file name | libretro-database No-Intro/Redump DATs + `aliases.json` |
-| `duckstation.yaml` | PS1 | DuckStation data folder (`memcards/`, `savestates/`) | card title and disc serial | DuckStation `gamedb.yaml` + `discsets.yaml` |
+| `duckstation.yaml` | PS1 | DuckStation data folder (`memcards/`, `savestates/`), or either of those folders on its own | card title and disc serial | DuckStation `gamedb.yaml` + `discsets.yaml` |
 | `pcsx2.yaml` | PS2 | PCSX2 `memcards` folder (folder memory cards only) | disc serial | PCSX2 `GameIndex.yaml` |
 | `rpcs3.yaml` | PS3 | RPCS3 config folder (contains `dev_hdd0/`) | serial | RPCS3 compatibility API + Redump PS3 DAT |
 | `shadps4.yaml` | PS4 | shadPS4 user folder | serial | andshrew/PlayStation-Titles |

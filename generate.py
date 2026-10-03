@@ -258,7 +258,8 @@ def retroarch(aliases):
 
 
 def duckstation():
-    """Root = DuckStation data folder (contains memcards/, savestates/). Per-game card modes only."""
+    """Root = DuckStation data folder (contains memcards/, savestates/), or the memcards or
+    savestates folder itself when only that is synced. Per-game card modes only."""
     games = defaultdict(set)
 
     def card(title):
@@ -292,12 +293,16 @@ def duckstation():
         else:
             n = re.sub(r"\s*\(Disc \d+\)$", "", n)
         key = f"{clean(n)} (PS1)"
-        for t in titles:
-            games[key].add(f"<root>/memcards/{card(t)}_?.mcd")
-        games[key].add(f"<root>/memcards/{serial}_?.mcd")
-        games[key].add(f"<root>/savestates/{serial}_*.sav")
-    games["DuckStation (system)"].update({"<root>/memcards/shared_card_?.mcd", "<root>/savestates/savestate_*.sav",
-                                          "<root>/savestates/resume.sav"})
+        for sub in ("memcards/", ""):
+            for t in titles:
+                games[key].add(f"<root>/{sub}{card(t)}_?.mcd")
+            games[key].add(f"<root>/{sub}{serial}_?.mcd")
+        for sub in ("savestates/", ""):
+            games[key].add(f"<root>/{sub}{serial}_*.sav")
+    for sub in ("memcards/", ""):
+        games["DuckStation (system)"].add(f"<root>/{sub}shared_card_?.mcd")
+    for sub in ("savestates/", ""):
+        games["DuckStation (system)"].update({f"<root>/{sub}savestate_*.sav", f"<root>/{sub}resume.sav"})
     write("duckstation", games, "Source: DuckStation gamedb.yaml + discsets.yaml")
 
 
