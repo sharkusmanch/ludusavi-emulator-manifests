@@ -25996,6 +25996,14 @@
     "<root>/savedata/*/CUSA28898":
       tags:
         - save
+"Armed Goblin Hunter (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60145":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60145":
+      tags:
+        - save
 "Armed and Gelatinous: Couch Edition (PS4)":
   files:
     "<root>/home/*/savedata/CUSA03255":
@@ -193852,6 +193860,14 @@
     "<root>/savedata/*/CUSA11949":
       tags:
         - save
+"Phantom Floor (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59807":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59807":
+      tags:
+        - save
 "Phantom Fury (PS4)":
   files:
     "<root>/home/*/savedata/CUSA46859":
@@ -215173,10 +215189,12 @@
     "<root>/home/*/savedata/CUSA59887":
       tags:
         - save
-    "<root>/home/*/savedata/CUSA60034":
+    "<root>/savedata/*/CUSA59887":
       tags:
         - save
-    "<root>/savedata/*/CUSA59887":
+"Rhythm Roll Demo (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60034":
       tags:
         - save
     "<root>/savedata/*/CUSA60034":
@@ -245384,6 +245402,14 @@
     "<root>/savedata/*/CUSA14627":
       tags:
         - save
+"Squishy's Leap (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60152":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60152":
+      tags:
+        - save
 "Stable Stories - Forest and Meadow Ride (PS4)":
   files:
     "<root>/home/*/savedata/CUSA50062":
@@ -263884,6 +263910,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA27376":
+      tags:
+        - save
+"The Canon Keeper PS4 & PS5 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60116":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60116":
       tags:
         - save
 "The Capybara P (PS4)":
@@ -295710,6 +295744,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA00945":
+      tags:
+        - save
+"Vixen 357 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58428":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58428":
       tags:
         - save
 "Vlad Circus: Curse of Asmodeus (PS4)":

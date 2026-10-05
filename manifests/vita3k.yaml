@@ -7983,6 +7983,11 @@
     "<root>/ux0/user/*/savedata/PCSG00052":
       tags:
         - save
+"NextRev Eiken (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00174":
+      tags:
+        - save
 "NextRev FP Ginnou Kentei Shiken Ni-Kyu (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00085":
@@ -9967,6 +9972,11 @@
     "<root>/ux0/user/*/savedata/PCSE00737":
       tags:
         - save
+"SAMURAI WARRIORS: Chronicles 3 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00471":
+      tags:
+        - save
 "SAMURAI WARRIORS: Chronicles 3 DEMO (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90153":
@@ -10223,6 +10233,11 @@
     "<root>/ux0/user/*/savedata/PCSG00041":
       tags:
         - save
+"Samurai Warriors 2: Empires HD Version (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00230":
+      tags:
+        - save
 "Samurai Warriors 4 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00503":
@@ -10343,6 +10358,9 @@
     "<root>/ux0/user/*/savedata/PCSE01505":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10308":
+      tags:
+        - save
 "Scram Kitty DX (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00638":
@@ -10415,11 +10433,6 @@
 "Sengoku Musou 2 with Moushouden & Empires HD Version (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00233":
-      tags:
-        - save
-"Sengoku Musou Chronicle 3 (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSG00471":
       tags:
         - save
 "Sengoku Musou: Sanada Maru (Vita)":

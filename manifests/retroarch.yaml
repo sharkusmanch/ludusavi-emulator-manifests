@@ -34958,6 +34958,20 @@
     "<root>/states/**/BattleTech.*":
       tags:
         - save
+"BattleTech - A Game of Armored Combat (RetroArch)":
+  files:
+    "<root>/saves/**/BattleTech - A Game of Armored Combat (*":
+      tags:
+        - save
+    "<root>/saves/**/BattleTech - A Game of Armored Combat.*":
+      tags:
+        - save
+    "<root>/states/**/BattleTech - A Game of Armored Combat (*":
+      tags:
+        - save
+    "<root>/states/**/BattleTech - A Game of Armored Combat.*":
+      tags:
+        - save
 "BattleTech - Gray Death Legion (RetroArch)":
   files:
     "<root>/saves/**/BattleTech - Gray Death Legion (*":
@@ -35096,20 +35110,6 @@
       tags:
         - save
     "<root>/states/**/Battleships.*":
-      tags:
-        - save
-"Battletech - A Game of Armored Combat (RetroArch)":
-  files:
-    "<root>/saves/**/Battletech - A Game of Armored Combat (*":
-      tags:
-        - save
-    "<root>/saves/**/Battletech - A Game of Armored Combat.*":
-      tags:
-        - save
-    "<root>/states/**/Battletech - A Game of Armored Combat (*":
-      tags:
-        - save
-    "<root>/states/**/Battletech - A Game of Armored Combat.*":
       tags:
         - save
 "Battletoad II (RetroArch)":
