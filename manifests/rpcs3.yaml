@@ -2415,6 +2415,28 @@
     "<root>/savestates/NPUB31307":
       tags:
         - save
+"Animax (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB01355*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB01355_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB01355":
+      tags:
+        - save
+"Animax Plus (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPJB00734*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPJB00734_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPJB00734":
+      tags:
+        - save
 "Anna - Extended Edition (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/NPEB01844*":
@@ -4954,6 +4976,17 @@
       tags:
         - save
     "<root>/savestates/NPUB30733":
+      tags:
+        - save
+"BIT.TRIP Presents: Runner 2: Future Legend of Rhythm Alien Demo (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPUB90942*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPUB90942_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPUB90942":
       tags:
         - save
 "Babel Rising (PS3)":
@@ -8908,6 +8941,17 @@
       tags:
         - save
     "<root>/savestates/NPJA90172":
+      tags:
+        - save
+"Blinkbox (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB01847*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB01847_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB01847":
       tags:
         - save
 "Blitz: The League II (PS3)":
@@ -14896,6 +14940,17 @@
     "<root>/savestates/NPJB00060":
       tags:
         - save
+"Dailyburn (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPUP31344*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPUP31344_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPUP31344":
+      tags:
+        - save
 "Daisenryaku Perfect: Senjou no Hasha (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLJS10122*":
@@ -17481,6 +17536,17 @@
       tags:
         - save
     "<root>/savestates/NPUB90931":
+      tags:
+        - save
+"Demand 5 Beta (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/BLET70037*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/BLET70037_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/BLET70037":
       tags:
         - save
 "Demo & Trailer Collection for Asia (PS3)":
@@ -22504,6 +22570,17 @@
       tags:
         - save
     "<root>/savestates/BCKS10148":
+      tags:
+        - save
+"Echochrome II a Soundtrack (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEA00286*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEA00286_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEA00286":
       tags:
         - save
 "Echochrome: Original Soundtrack (PS3)":
@@ -28711,6 +28788,17 @@
       tags:
         - save
     "<root>/savestates/BCJS30072":
+      tags:
+        - save
+"GaiamTV (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPUP10034*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPUP10034_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPUP10034":
       tags:
         - save
 "Gal Gun (PS3)":
@@ -43868,6 +43956,17 @@
     "<root>/savestates/NPUB30902":
       tags:
         - save
+"Maxdome (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB01192*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB01192_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB01192":
+      tags:
+        - save
 "Mayhem (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLES01145*":
@@ -52191,6 +52290,17 @@
     "<root>/savestates/BLJM61061":
       tags:
         - save
+"Nobunaga no Yabou Online: Yuushi no Shou (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPJB00425*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPJB00425_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPJB00425":
+      tags:
+        - save
 "Nobunaga no Yabou: Souzou (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLJM61121*":
@@ -54389,9 +54499,6 @@
     "<root>/dev_hdd0/home/*/savedata/NPUA80073*":
       tags:
         - save
-    "<root>/dev_hdd0/home/*/savedata/NPXX00216*":
-      tags:
-        - save
     "<root>/dev_hdd0/savedata/vmc/BCES00548_mc?.VM1":
       tags:
         - save
@@ -54401,9 +54508,6 @@
     "<root>/dev_hdd0/savedata/vmc/NPUA80073_mc?.VM1":
       tags:
         - save
-    "<root>/dev_hdd0/savedata/vmc/NPXX00216_mc?.VM1":
-      tags:
-        - save
     "<root>/savestates/BCES00548":
       tags:
         - save
@@ -54411,9 +54515,6 @@
       tags:
         - save
     "<root>/savestates/NPUA80073":
-      tags:
-        - save
-    "<root>/savestates/NPXX00216":
       tags:
         - save
 "Painkiller - Hell & Damnation (PS3)":
@@ -55934,6 +56035,17 @@
       tags:
         - save
     "<root>/savestates/NPEA90029":
+      tags:
+        - save
+"Plex (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB02214*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB02214_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB02214":
       tags:
         - save
 "Poker Night 2 (PS3)":
@@ -58746,17 +58858,6 @@
     "<root>/savestates/NPUA80643":
       tags:
         - save
-"Ratchet & Clank - A Crack in Time (PS3)":
-  files:
-    "<root>/dev_hdd0/home/*/savedata/BCES00000*":
-      tags:
-        - save
-    "<root>/dev_hdd0/savedata/vmc/BCES00000_mc?.VM1":
-      tags:
-        - save
-    "<root>/savestates/BCES00000":
-      tags:
-        - save
 "Ratchet & Clank - All 4 One (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BCES01142*":
@@ -61064,6 +61165,17 @@
     "<root>/savestates/NPUA70161":
       tags:
         - save
+"Resistance 3 Original Soundtrack (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEA00371*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEA00371_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEA00371":
+      tags:
+        - save
 "Resistance: Fall of Man (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BCES00001*":
@@ -62715,6 +62827,17 @@
     "<root>/savestates/BLJM60316":
       tags:
         - save
+"Ryu ga Gotoku OF THE END Demo (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPJB90345*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPJB90345_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPJB90345":
+      tags:
+        - save
 "Ryu ga Gotoku Zero (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLAS50796*":
@@ -63356,6 +63479,17 @@
       tags:
         - save
     "<root>/savestates/BCES00938":
+      tags:
+        - save
+"SOCOM: Special Forces Original Soundtrack (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEA00307*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEA00307_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEA00307":
       tags:
         - save
 "SOCOM: U.S. Navy SEALs Confrontation (PS3)":
@@ -67732,6 +67866,17 @@
     "<root>/savestates/BCJS70006":
       tags:
         - save
+"Skai (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB01987*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB01987_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB01987":
+      tags:
+        - save
 "Skate (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLES00124*":
@@ -69910,6 +70055,17 @@
       tags:
         - save
     "<root>/savestates/NPUA70251":
+      tags:
+        - save
+"Sound Shapes Kiosk Demo (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPUA70258*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPUA70258_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPUA70258":
       tags:
         - save
 "South Park - The Stick of Truth (PS3)":
@@ -73070,6 +73226,17 @@
     "<root>/savestates/NPUA70105":
       tags:
         - save
+"TVN Player (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB01430*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB01430_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB01430":
+      tags:
+        - save
 "TableTop Cricket (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/NPEB00368*":
@@ -74478,6 +74645,9 @@
     "<root>/dev_hdd0/home/*/savedata/BLES00884*":
       tags:
         - save
+    "<root>/dev_hdd0/home/*/savedata/BLJM60318*":
+      tags:
+        - save
     "<root>/dev_hdd0/home/*/savedata/BLJM60460*":
       tags:
         - save
@@ -74487,6 +74657,9 @@
     "<root>/dev_hdd0/savedata/vmc/BLES00884_mc?.VM1":
       tags:
         - save
+    "<root>/dev_hdd0/savedata/vmc/BLJM60318_mc?.VM1":
+      tags:
+        - save
     "<root>/dev_hdd0/savedata/vmc/BLJM60460_mc?.VM1":
       tags:
         - save
@@ -74494,6 +74667,9 @@
       tags:
         - save
     "<root>/savestates/BLES00884":
+      tags:
+        - save
+    "<root>/savestates/BLJM60318":
       tags:
         - save
     "<root>/savestates/BLJM60460":
@@ -81016,15 +81192,27 @@
     "<root>/dev_hdd0/home/*/savedata/NPEB02359*":
       tags:
         - save
+    "<root>/dev_hdd0/home/*/savedata/NPHB00730*":
+      tags:
+        - save
     "<root>/dev_hdd0/savedata/vmc/NPEB02359_mc?.VM1":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPHB00730_mc?.VM1":
       tags:
         - save
     "<root>/savestates/NPEB02359":
       tags:
         - save
+    "<root>/savestates/NPHB00730":
+      tags:
+        - save
 "Two Worlds 2 (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/BLES00845*":
+      tags:
+        - save
+    "<root>/dev_hdd0/home/*/savedata/BLJM60268*":
       tags:
         - save
     "<root>/dev_hdd0/home/*/savedata/BLUS30550*":
@@ -81033,24 +81221,30 @@
     "<root>/dev_hdd0/savedata/vmc/BLES00845_mc?.VM1":
       tags:
         - save
+    "<root>/dev_hdd0/savedata/vmc/BLJM60268_mc?.VM1":
+      tags:
+        - save
     "<root>/dev_hdd0/savedata/vmc/BLUS30550_mc?.VM1":
       tags:
         - save
     "<root>/savestates/BLES00845":
       tags:
         - save
+    "<root>/savestates/BLJM60268":
+      tags:
+        - save
     "<root>/savestates/BLUS30550":
       tags:
         - save
-"Two Worlds II (PS3)":
+"Two Worlds 2 GOTY (PS3)":
   files:
-    "<root>/dev_hdd0/home/*/savedata/BLJM60268*":
+    "<root>/dev_hdd0/home/*/savedata/NPUB30804*":
       tags:
         - save
-    "<root>/dev_hdd0/savedata/vmc/BLJM60268_mc?.VM1":
+    "<root>/dev_hdd0/savedata/vmc/NPUB30804_mc?.VM1":
       tags:
         - save
-    "<root>/savestates/BLJM60268":
+    "<root>/savestates/NPUB30804":
       tags:
         - save
 "Two Worlds II - Game of the Year Edition (PS3)":
@@ -81062,17 +81256,6 @@
       tags:
         - save
     "<root>/savestates/BLES01484":
-      tags:
-        - save
-"Two Worlds II GOTY (PS3)":
-  files:
-    "<root>/dev_hdd0/home/*/savedata/NPUB30804*":
-      tags:
-        - save
-    "<root>/dev_hdd0/savedata/vmc/NPUB30804_mc?.VM1":
-      tags:
-        - save
-    "<root>/savestates/NPUB30804":
       tags:
         - save
 "UEFA Euro 2008 (PS3)":
@@ -82861,6 +83044,17 @@
     "<root>/savestates/NPUB31447":
       tags:
         - save
+"Viaplay (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPEB00863*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB00863_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPEB00863":
+      tags:
+        - save
 "Video Unlimited Preview (PS3)":
   files:
     "<root>/dev_hdd0/home/*/savedata/NPIA09008*":
@@ -84479,6 +84673,17 @@
       tags:
         - save
     "<root>/savestates/BLUS30502":
+      tags:
+        - save
+"Warriors : Legends of Troy (PS3)":
+  files:
+    "<root>/dev_hdd0/home/*/savedata/NPUB30855*":
+      tags:
+        - save
+    "<root>/dev_hdd0/savedata/vmc/NPUB30855_mc?.VM1":
+      tags:
+        - save
+    "<root>/savestates/NPUB30855":
       tags:
         - save
 "Warriors Orochi 3 (PS3)":
@@ -87027,6 +87232,9 @@
     "<root>/dev_hdd0/home/*/savedata/BLUS30826*":
       tags:
         - save
+    "<root>/dev_hdd0/home/*/savedata/NPEB02034*":
+      tags:
+        - save
     "<root>/dev_hdd0/home/*/savedata/NPUB31509*":
       tags:
         - save
@@ -87036,6 +87244,9 @@
     "<root>/dev_hdd0/savedata/vmc/BLUS30826_mc?.VM1":
       tags:
         - save
+    "<root>/dev_hdd0/savedata/vmc/NPEB02034_mc?.VM1":
+      tags:
+        - save
     "<root>/dev_hdd0/savedata/vmc/NPUB31509_mc?.VM1":
       tags:
         - save
@@ -87043,6 +87254,9 @@
       tags:
         - save
     "<root>/savestates/BLUS30826":
+      tags:
+        - save
+    "<root>/savestates/NPEB02034":
       tags:
         - save
     "<root>/savestates/NPUB31509":

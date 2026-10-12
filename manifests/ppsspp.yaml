@@ -1187,13 +1187,7 @@
     "<root>/PPSSPP_STATE/UCES00302_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00445_*":
-      tags:
-        - save
     "<root>/SAVEDATA/UCES00302*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00445*":
       tags:
         - save
 "Ape Escape - On the Loose (PSP)":
@@ -1538,14 +1532,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULUS10231*":
-      tags:
-        - save
-"Arthur and the Minimoys (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/ULET00435_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00435*":
       tags:
         - save
 "Artlist Collection - The Dog Happy Life - Shiawase Wanko Seikatsu Dai-1-dan (PSP)":
@@ -4570,14 +4556,6 @@
     "<root>/SAVEDATA/UCJS10084*":
       tags:
         - save
-"Clank & Ratchet - Maru Hi Mission - Ignition! (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCJP00154_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00154*":
-      tags:
-        - save
 "Clank & Ratchet - Maruhi Mission Ignition! (PSP)":
   files:
     "<root>/PPSSPP_STATE/NPJG00006_*":
@@ -4913,13 +4891,7 @@
     "<root>/PPSSPP_STATE/ULES00111_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00122_*":
-      tags:
-        - save
     "<root>/SAVEDATA/ULES00111*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00122*":
       tags:
         - save
 "Comic Party Portable (PSP)":
@@ -8317,16 +8289,10 @@
     "<root>/PPSSPP_STATE/UCES00767_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET01067_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCUS94340_*":
       tags:
         - save
     "<root>/SAVEDATA/UCES00767*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET01067*":
       tags:
         - save
     "<root>/SAVEDATA/UCUS94340*":
@@ -8571,13 +8537,7 @@
     "<root>/PPSSPP_STATE/UCES00004_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00005_*":
-      tags:
-        - save
     "<root>/SAVEDATA/UCES00004*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00005*":
       tags:
         - save
 "FIFA 06 (PSP)":
@@ -9716,16 +9676,10 @@
     "<root>/PPSSPP_STATE/ULUS10088_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULUX80153_*":
-      tags:
-        - save
     "<root>/SAVEDATA/ULES00335*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10088*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULUX80153*":
       tags:
         - save
 "Fieldrunners (PSP)":
@@ -10111,9 +10065,6 @@
     "<root>/PPSSPP_STATE/ULES00969_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00966_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULUS10328_*":
       tags:
         - save
@@ -10124,9 +10075,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULES00969*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00966*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10328*":
@@ -10270,14 +10218,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULES00588*":
-      tags:
-        - save
-"Formula One 06 (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCET00359_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00359*":
       tags:
         - save
 "Formula One 2005 Portable (PSP)":
@@ -11838,9 +11778,6 @@
     "<root>/PPSSPP_STATE/ULES01347_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET01349_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULJM05604_*":
       tags:
         - save
@@ -11854,9 +11791,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULES01347*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET01349*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05604*":
@@ -14678,9 +14612,6 @@
         - save
 "Jeanne d'Arc (PSP)":
   files:
-    "<root>/PPSSPP_STATE/UCJP00062_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS10048_*":
       tags:
         - save
@@ -14691,9 +14622,6 @@
       tags:
         - save
     "<root>/PPSSPP_STATE/UCUS98706_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00062*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10048*":
@@ -15006,14 +14934,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM05098*":
-      tags:
-        - save
-"Juiced - Eliminator (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/ULET00391_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00391*":
       tags:
         - save
 "Juiced 2 - Hot Import Nights (PSP)":
@@ -15441,16 +15361,10 @@
     "<root>/PPSSPP_STATE/ULES00146_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00148_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULUS10085_*":
       tags:
         - save
     "<root>/SAVEDATA/ULES00146*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00148*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10085*":
@@ -15464,9 +15378,6 @@
     "<root>/PPSSPP_STATE/ULJM91001_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULJP00572_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULJS00029_*":
       tags:
         - save
@@ -15474,9 +15385,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM91001*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJP00572*":
       tags:
         - save
     "<root>/SAVEDATA/ULJS00029*":
@@ -17426,9 +17334,6 @@
     "<root>/PPSSPP_STATE/UCES00304_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00357_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJB98011_*":
       tags:
         - save
@@ -17457,9 +17362,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00304*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00357*":
       tags:
         - save
     "<root>/SAVEDATA/UCJB98011*":
@@ -17553,12 +17455,6 @@
     "<root>/PPSSPP_STATE/UCET01181_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCJP00161_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/UCJP00164_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS10087_*":
       tags:
         - save
@@ -17581,12 +17477,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCET01181*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00161*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00164*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10087*":
@@ -17626,9 +17516,6 @@
     "<root>/PPSSPP_STATE/ULES01507_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET01506_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULJM05767_*":
       tags:
         - save
@@ -17645,9 +17532,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULES01507*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET01506*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05767*":
@@ -19632,16 +19516,10 @@
     "<root>/PPSSPP_STATE/ULUS10133_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULUX80215_*":
-      tags:
-        - save
     "<root>/SAVEDATA/ULES00466*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10133*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULUX80215*":
       tags:
         - save
 "Mermaid Gothic (PSP)":
@@ -21138,14 +21016,6 @@
     "<root>/SAVEDATA/NPJJ30044*":
       tags:
         - save
-"MotoGP (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCET00524_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00524*":
-      tags:
-        - save
 "MotorStorm - Arctic Edge (PSP)":
   files:
     "<root>/PPSSPP_STATE/UCAS40266_*":
@@ -21236,16 +21106,10 @@
         - save
 "Mugen Kairou (PSP)":
   files:
-    "<root>/PPSSPP_STATE/UCJP00139_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS10081_*":
       tags:
         - save
     "<root>/PPSSPP_STATE/UCJS18028_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00139*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10081*":
@@ -22306,14 +22170,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM06261*":
-      tags:
-        - save
-"Navi-Chu (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCJP00138_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00138*":
       tags:
         - save
 "Nayuta no Kiseki (PSP)":
@@ -24032,14 +23888,6 @@
     "<root>/SAVEDATA/ULES00399*":
       tags:
         - save
-"Page Zero (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCET01058_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET01058*":
-      tags:
-        - save
 "Pangya - Fantasy Golf (PSP)":
   files:
     "<root>/PPSSPP_STATE/ULUS10438_*":
@@ -24120,14 +23968,6 @@
     "<root>/SAVEDATA/UCES00246*":
       tags:
         - save
-"Passport to... Rome (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCET00460_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00460*":
-      tags:
-        - save
 "Pastel Chime Continue (PSP)":
   files:
     "<root>/PPSSPP_STATE/NPJH50550_*":
@@ -24151,9 +23991,6 @@
       tags:
         - save
     "<root>/PPSSPP_STATE/UCES00995_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/UCJP00125_*":
       tags:
         - save
     "<root>/PPSSPP_STATE/UCJS10077_*":
@@ -24181,9 +24018,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00995*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00125*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10077*":
@@ -26640,9 +26474,6 @@
     "<root>/PPSSPP_STATE/UCES00420_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00751_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCKS45048_*":
       tags:
         - save
@@ -26659,9 +26490,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00420*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00751*":
       tags:
         - save
     "<root>/SAVEDATA/UCKS45048*":
@@ -26689,9 +26517,6 @@
     "<root>/PPSSPP_STATE/UCJP00083_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCJP00103_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS10052_*":
       tags:
         - save
@@ -26699,9 +26524,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCJP00083*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00103*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10052*":
@@ -27615,9 +27437,6 @@
     "<root>/PPSSPP_STATE/UCES00038_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00222_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCKS45021_*":
       tags:
         - save
@@ -27634,9 +27453,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00038*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00222*":
       tags:
         - save
     "<root>/SAVEDATA/UCKS45021*":
@@ -27671,9 +27487,6 @@
     "<root>/PPSSPP_STATE/UCUS98691_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00794_*":
-      tags:
-        - save
     "<root>/SAVEDATA/UCES00543*":
       tags:
         - save
@@ -27687,9 +27500,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCUS98691*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00794*":
       tags:
         - save
 "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3 (PSP)":
@@ -28319,9 +28129,6 @@
     "<root>/PPSSPP_STATE/UCAS40090_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCJP00003_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS18006_*":
       tags:
         - save
@@ -28329,9 +28136,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCAS40090*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJP00003*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS18006*":
@@ -28567,9 +28371,6 @@
     "<root>/PPSSPP_STATE/UCES00942_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET01101_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCKS45096_*":
       tags:
         - save
@@ -28583,9 +28384,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00942*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET01101*":
       tags:
         - save
     "<root>/SAVEDATA/UCKS45096*":
@@ -29873,16 +29671,10 @@
     "<root>/PPSSPP_STATE/ULES00688_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00696_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULUS10224_*":
       tags:
         - save
     "<root>/SAVEDATA/ULES00688*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00696*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10224*":
@@ -30363,9 +30155,6 @@
     "<root>/PPSSPP_STATE/UCES00758_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00810_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCKS45051_*":
       tags:
         - save
@@ -30376,9 +30165,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00758*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00810*":
       tags:
         - save
     "<root>/SAVEDATA/UCKS45051*":
@@ -32827,9 +32613,6 @@
     "<root>/PPSSPP_STATE/UCES00254_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00355_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/UCJS10009_*":
       tags:
         - save
@@ -32852,9 +32635,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00254*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00355*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10009*":
@@ -34580,14 +34360,6 @@
     "<root>/SAVEDATA/ULJM05031*":
       tags:
         - save
-"Twelve - Sengoku Houshinden (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/ULJP00523_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJP00523*":
-      tags:
-        - save
 "TwinBee Portable (PSP)":
   files:
     "<root>/PPSSPP_STATE/ULJM05221_*":
@@ -35761,9 +35533,6 @@
     "<root>/PPSSPP_STATE/UCES00005_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCET00006_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULJM05114_*":
       tags:
         - save
@@ -35771,9 +35540,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCES00005*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00006*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05114*":
@@ -36489,25 +36255,7 @@
     "<root>/PPSSPP_STATE/UCAS40012_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/UCED00017_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/UCET00001_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/UTST99100_*":
-      tags:
-        - save
     "<root>/SAVEDATA/UCAS40012*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCED00017*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCET00001*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UTST99100*":
       tags:
         - save
 "Wizardry Empire III - Haou no Keifu (PSP)":
@@ -36925,16 +36673,10 @@
     "<root>/PPSSPP_STATE/ULES00268_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00317_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULUS10065_*":
       tags:
         - save
     "<root>/SAVEDATA/ULES00268*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00317*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10065*":
@@ -36948,9 +36690,6 @@
     "<root>/PPSSPP_STATE/ULES00819_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULET00790_*":
-      tags:
-        - save
     "<root>/PPSSPP_STATE/ULKS46151_*":
       tags:
         - save
@@ -36961,9 +36700,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULES00819*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULET00790*":
       tags:
         - save
     "<root>/SAVEDATA/ULKS46151*":

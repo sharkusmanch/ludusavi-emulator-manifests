@@ -21106,20 +21106,6 @@
     "<root>/464507D8/profile":
       tags:
         - save
-"Le Tour de France 2012 (Xbox 360)":
-  files:
-    "<root>/*/464507DA/00000001":
-      tags:
-        - save
-    "<root>/*/464507DA/Headers/00000001":
-      tags:
-        - save
-    "<root>/464507DA/00000001":
-      tags:
-        - save
-    "<root>/464507DA/profile":
-      tags:
-        - save
 "Le Tour de France 2013 -- 100th Edition (Xbox 360)":
   files:
     "<root>/*/464507DE/00000001":
@@ -33470,7 +33456,7 @@
     "<root>/4C5307D1/profile":
       tags:
         - save
-"SBK 09: Superbike World Championship (Xbox 360)":
+"SBK 09 (Xbox 360)":
   files:
     "<root>/*/4C5307D4/00000001":
       tags:
@@ -41358,6 +41344,20 @@
       tags:
         - save
     "<root>/58410831/profile":
+      tags:
+        - save
+"Tour De France 2012 (Xbox 360)":
+  files:
+    "<root>/*/464507DA/00000001":
+      tags:
+        - save
+    "<root>/*/464507DA/Headers/00000001":
+      tags:
+        - save
+    "<root>/464507DA/00000001":
+      tags:
+        - save
+    "<root>/464507DA/profile":
       tags:
         - save
 "Tour de France 2009 (Xbox 360)":

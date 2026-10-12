@@ -518,6 +518,9 @@
     "<root>/ux0/user/*/savedata/PCSE00887":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01108":
+      tags:
+        - save
 "Alphaset by POWGI (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01457":
@@ -680,8 +683,6 @@
     "<root>/ux0/user/*/savedata/PCSE00427":
       tags:
         - save
-"Arcana Heart 3: LOVE MAX!!!!! (Vita)":
-  files:
     "<root>/ux0/user/*/savedata/PCSG00328":
       tags:
         - save
@@ -940,6 +941,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00651":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01170":
       tags:
         - save
 "Ayakashi Gohan: Oomori! (Vita)":
@@ -2623,11 +2627,6 @@
     "<root>/ux0/user/*/savedata/PCSE01136":
       tags:
         - save
-"Dekamori Senran Kagura (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSH00128":
-      tags:
-        - save
 "Dekamori Senran Kagura: Digital Soundtrack (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG80009":
@@ -3615,6 +3614,9 @@
 "FANTASY HERO～unsigned legacy～ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00663":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00536":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00280":
@@ -6043,6 +6045,11 @@
     "<root>/ux0/user/*/savedata/PCSE01420":
       tags:
         - save
+"Kid Tripp + Miles & Kilo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10226":
+      tags:
+        - save
 "Kidou Senshi Gundam Seed: Battle Destiny (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00040":
@@ -7162,6 +7169,9 @@
     "<root>/ux0/user/*/savedata/PCSG00578":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00213":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH00236":
       tags:
         - save
@@ -7586,6 +7596,9 @@
 "MouseCraft (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00530":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00420":
       tags:
         - save
 "Mr.Pumpkin Adventure (Vita)":
@@ -8371,6 +8384,9 @@
     "<root>/ux0/user/*/savedata/PCSE00623":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00917":
+      tags:
+        - save
 "Oddworld: Munch's Oddysee HD (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00275":
@@ -8731,6 +8747,9 @@
     "<root>/ux0/user/*/savedata/PCSE01056":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01297":
+      tags:
+        - save
 "Paradox Soul (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01401":
@@ -8959,6 +8978,9 @@
         - save
 "PixelJunk Shooter Ultimate (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSE00451":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSG00384":
       tags:
         - save
@@ -11551,6 +11573,11 @@
     "<root>/ux0/user/*/savedata/PCSG00260":
       tags:
         - save
+"Super Robot Taisen OG Saga: Masou Kishin III - PRIDE OF JUSTICE (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00190":
+      tags:
+        - save
 "Super Robot Taisen X (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01128":
@@ -11577,6 +11604,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01225":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10301":
       tags:
         - save
 "Super Star Wars (Vita)":
@@ -13730,6 +13760,9 @@
         - save
 "Woah Dave! (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00662":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00519":
       tags:
         - save

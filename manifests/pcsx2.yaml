@@ -4360,11 +4360,6 @@
     "<root>/*/B?SLPM-66939*":
       tags:
         - save
-"Bouncer, The (PS2)":
-  files:
-    "<root>/*/B?SLPS-25023*":
-      tags:
-        - save
 "Bowling Xciting (PS2)":
   files:
     "<root>/*/B?SLES-51861*":
@@ -35767,27 +35762,25 @@
     "<root>/*/B?SLES-51864*":
       tags:
         - save
-"Ponkotsu Roeman Daikatsugeki Bumpy Trot (PS2)":
-  files:
-    "<root>/*/B?SLPS-25457*":
-      tags:
-        - save
-"Ponkotsu Roeman Daikatsugeki Bumpy Trot [Trial] (PS2)":
-  files:
-    "<root>/*/B?SLPM-60255*":
-      tags:
-        - save
-    "<root>/*/B?SLPM-60266*":
-      tags:
-        - save
 "Ponkotsu Roman Daikatsugeki Bumpy Trot (PS2)":
   files:
     "<root>/*/B?SCAJ-20129*":
       tags:
         - save
+    "<root>/*/B?SLPS-25457*":
+      tags:
+        - save
 "Ponkotsu Roman Daikatsugeki Bumpy Trot [Irem Collection] (PS2)":
   files:
     "<root>/*/B?SLPS-25683*":
+      tags:
+        - save
+"Ponkotsu Roman Daikatsugeki Bumpy Trot [Trial] (PS2)":
+  files:
+    "<root>/*/B?SLPM-60255*":
+      tags:
+        - save
+    "<root>/*/B?SLPM-60266*":
       tags:
         - save
 "Pool Master (PS2)":
@@ -36398,6 +36391,11 @@
 "Princess Nightmare (PS2)":
   files:
     "<root>/*/B?SLPM-66973*":
+      tags:
+        - save
+"Princess Princess [First Limited Edition] (PS2)":
+  files:
+    "<root>/*/B?SLPS-25693*":
       tags:
         - save
 "Princess Princess [Standard Edition] (PS2)":
@@ -42814,14 +42812,9 @@
     "<root>/*/B?SLPM-66336*":
       tags:
         - save
-"Shinseiki Evangelions 2 (PS2)":
+"Shinseiki Evangelion 2 (PS2)":
   files:
     "<root>/*/B?SLPS-25299*":
-      tags:
-        - save
-"Shinseiki GPX - Road to the Infinity 3 [First Limited Edition] (PS2)":
-  files:
-    "<root>/*/B?SLPS-25693*":
       tags:
         - save
 "Shinseiki GPX Cyber Formula - Road to the Infinity 4 (PS2)":
@@ -49590,6 +49583,9 @@
 "The Bouncer (PS2)":
   files:
     "<root>/*/B?SCES-50241*":
+      tags:
+        - save
+    "<root>/*/B?SLPS-25023*":
       tags:
         - save
     "<root>/*/B?SLUS-20069*":

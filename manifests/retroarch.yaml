@@ -448,20 +448,6 @@
     "<root>/states/**/1 contre 100.*":
       tags:
         - save
-"1 gegen 100 (RetroArch)":
-  files:
-    "<root>/saves/**/1 gegen 100 (*":
-      tags:
-        - save
-    "<root>/saves/**/1 gegen 100.*":
-      tags:
-        - save
-    "<root>/states/**/1 gegen 100 (*":
-      tags:
-        - save
-    "<root>/states/**/1 gegen 100.*":
-      tags:
-        - save
 "1 on 1 (RetroArch)":
   files:
     "<root>/saves/**/1 on 1 (*":
@@ -782,6 +768,34 @@
       tags:
         - save
     "<root>/states/**/1000 Stars.*":
+      tags:
+        - save
+"1000000-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/1000000-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/1000000-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/1000000-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/1000000-in-1.*":
+      tags:
+        - save
+"10000000-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/10000000-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/10000000-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/10000000-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/10000000-in-1.*":
       tags:
         - save
 "10000000-in-1 Unchained Melody 95 (RetroArch)":
@@ -1246,6 +1260,20 @@
     "<root>/states/**/1200-in-1.*":
       tags:
         - save
+"122-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/122-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/122-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/122-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/122-in-1.*":
+      tags:
+        - save
 "123 Sesame Street - Cookie's Counting Carnival - The Videogame (RetroArch)":
   files:
     "<root>/saves/**/123 Sesame Street - Cookie's Counting Carnival - The Videogame (*":
@@ -1286,6 +1314,20 @@
       tags:
         - save
     "<root>/states/**/123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame.*":
+      tags:
+        - save
+"125-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/125-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/125-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/125-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/125-in-1.*":
       tags:
         - save
 "128 Hap (RetroArch)":
@@ -2100,6 +2142,20 @@
     "<root>/states/**/1993 290-in-1.*":
       tags:
         - save
+"1993 Super Fighter 22-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/1993 Super Fighter 22-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/1993 Super Fighter 22-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/1993 Super Fighter 22-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/1993 Super Fighter 22-in-1.*":
+      tags:
+        - save
 "1995 Super Value Collection 2-in-1 (RetroArch)":
   files:
     "<root>/saves/**/1995 Super Value Collection 2-in-1 (*":
@@ -2210,20 +2266,6 @@
       tags:
         - save
     "<root>/states/**/1st Class Poker & BlackJack.*":
-      tags:
-        - save
-"2 Ciclopes and Friends - The Fight Game (RetroArch)":
-  files:
-    "<root>/saves/**/2 Ciclopes and Friends - The Fight Game (*":
-      tags:
-        - save
-    "<root>/saves/**/2 Ciclopes and Friends - The Fight Game.*":
-      tags:
-        - save
-    "<root>/states/**/2 Ciclopes and Friends - The Fight Game (*":
-      tags:
-        - save
-    "<root>/states/**/2 Ciclopes and Friends - The Fight Game.*":
       tags:
         - save
 "2 Ciclopes and Friends - The Fight Game - Winner Edition (RetroArch)":
@@ -5194,20 +5236,6 @@
     "<root>/states/**/3D Alien Maze.*":
       tags:
         - save
-"3D Barrage (RetroArch)":
-  files:
-    "<root>/saves/**/3D Barrage (*":
-      tags:
-        - save
-    "<root>/saves/**/3D Barrage.*":
-      tags:
-        - save
-    "<root>/states/**/3D Barrage (*":
-      tags:
-        - save
-    "<root>/states/**/3D Barrage.*":
-      tags:
-        - save
 "3D Baseball (RetroArch)":
   files:
     "<root>/saves/**/3D Baseball (*":
@@ -5276,20 +5304,6 @@
       tags:
         - save
     "<root>/states/**/3D Crosswords.*":
-      tags:
-        - save
-"3D Gunner (RetroArch)":
-  files:
-    "<root>/saves/**/3D Gunner (*":
-      tags:
-        - save
-    "<root>/saves/**/3D Gunner.*":
-      tags:
-        - save
-    "<root>/states/**/3D Gunner (*":
-      tags:
-        - save
-    "<root>/states/**/3D Gunner.*":
       tags:
         - save
 "3D Kakutou Tkool (RetroArch)":
@@ -5922,6 +5936,20 @@
     "<root>/states/**/4-in-1 Funpak - Volume II.*":
       tags:
         - save
+"4-in-1 Super Game (RetroArch)":
+  files:
+    "<root>/saves/**/4-in-1 Super Game (*":
+      tags:
+        - save
+    "<root>/saves/**/4-in-1 Super Game.*":
+      tags:
+        - save
+    "<root>/states/**/4-in-1 Super Game (*":
+      tags:
+        - save
+    "<root>/states/**/4-in-1 Super Game.*":
+      tags:
+        - save
 "4-nin Shougi (RetroArch)":
   files:
     "<root>/saves/**/4-nin Shougi (*":
@@ -6102,6 +6130,20 @@
       tags:
         - save
     "<root>/states/**/48-in-1 Educational Computer 2000.*":
+      tags:
+        - save
+"49-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/49-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/49-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/49-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/49-in-1.*":
       tags:
         - save
 "4Ttude (RetroArch)":
@@ -6524,6 +6566,20 @@
     "<root>/states/**/60 Minutes til Rot.*":
       tags:
         - save
+"61-in-1 Super (RetroArch)":
+  files:
+    "<root>/saves/**/61-in-1 Super (*":
+      tags:
+        - save
+    "<root>/saves/**/61-in-1 Super.*":
+      tags:
+        - save
+    "<root>/states/**/61-in-1 Super (*":
+      tags:
+        - save
+    "<root>/states/**/61-in-1 Super.*":
+      tags:
+        - save
 "62-in-1 Hi Game 2000 (RetroArch)":
   files:
     "<root>/saves/**/62-in-1 Hi Game 2000 (*":
@@ -6550,6 +6606,20 @@
       tags:
         - save
     "<root>/states/**/64 Games.*":
+      tags:
+        - save
+"64 Games - The Best Selection of Games (RetroArch)":
+  files:
+    "<root>/saves/**/64 Games - The Best Selection of Games (*":
+      tags:
+        - save
+    "<root>/saves/**/64 Games - The Best Selection of Games.*":
+      tags:
+        - save
+    "<root>/states/**/64 Games - The Best Selection of Games (*":
+      tags:
+        - save
+    "<root>/states/**/64 Games - The Best Selection of Games.*":
       tags:
         - save
 "64 Hanafuda - Tenshi no Yakusoku (RetroArch)":
@@ -7140,6 +7210,20 @@
     "<root>/states/**/8-BIT XMAS 2016.*":
       tags:
         - save
+"8-BIT XMAS 2017 (RetroArch)":
+  files:
+    "<root>/saves/**/8-BIT XMAS 2017 (*":
+      tags:
+        - save
+    "<root>/saves/**/8-BIT XMAS 2017.*":
+      tags:
+        - save
+    "<root>/states/**/8-BIT XMAS 2017 (*":
+      tags:
+        - save
+    "<root>/states/**/8-BIT XMAS 2017.*":
+      tags:
+        - save
 "8-BIT XMAS 2018 (RetroArch)":
   files:
     "<root>/saves/**/8-BIT XMAS 2018 (*":
@@ -7250,6 +7334,20 @@
       tags:
         - save
     "<root>/states/**/82-in-1.*":
+      tags:
+        - save
+"88-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/88-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/88-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/88-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/88-in-1.*":
       tags:
         - save
 "8BallAllstars (RetroArch)":
@@ -12180,20 +12278,6 @@
     "<root>/states/**/Aero the Acro-Bat.*":
       tags:
         - save
-"Aero the Acro-Bat - Rascal Rival Revenge (RetroArch)":
-  files:
-    "<root>/saves/**/Aero the Acro-Bat - Rascal Rival Revenge (*":
-      tags:
-        - save
-    "<root>/saves/**/Aero the Acro-Bat - Rascal Rival Revenge.*":
-      tags:
-        - save
-    "<root>/states/**/Aero the Acro-Bat - Rascal Rival Revenge (*":
-      tags:
-        - save
-    "<root>/states/**/Aero the Acro-Bat - Rascal Rival Revenge.*":
-      tags:
-        - save
 "Aero the Acro-Bat 2 (RetroArch)":
   files:
     "<root>/saves/**/Aero the Acro-Bat 2 (*":
@@ -15386,20 +15470,6 @@
     "<root>/states/**/Alien Resurrection.*":
       tags:
         - save
-"Alien Smash (RetroArch)":
-  files:
-    "<root>/saves/**/Alien Smash (*":
-      tags:
-        - save
-    "<root>/saves/**/Alien Smash.*":
-      tags:
-        - save
-    "<root>/states/**/Alien Smash (*":
-      tags:
-        - save
-    "<root>/states/**/Alien Smash.*":
-      tags:
-        - save
 "Alien Soldier (RetroArch)":
   files:
     "<root>/saves/**/Alien Soldier (*":
@@ -16016,20 +16086,6 @@
     "<root>/states/**/All-Star Baseball 2003.*":
       tags:
         - save
-"All-Star Baseball 2004 (RetroArch)":
-  files:
-    "<root>/saves/**/All-Star Baseball 2004 (*":
-      tags:
-        - save
-    "<root>/saves/**/All-Star Baseball 2004.*":
-      tags:
-        - save
-    "<root>/states/**/All-Star Baseball 2004 (*":
-      tags:
-        - save
-    "<root>/states/**/All-Star Baseball 2004.*":
-      tags:
-        - save
 "All-Star Baseball 2004 Featuring Derek Jeter (RetroArch)":
   files:
     "<root>/saves/**/All-Star Baseball 2004 Featuring Derek Jeter (*":
@@ -16364,20 +16420,6 @@
       tags:
         - save
     "<root>/states/**/Alone in the Dark 2.*":
-      tags:
-        - save
-"Alpha Beam (RetroArch)":
-  files:
-    "<root>/saves/**/Alpha Beam (*":
-      tags:
-        - save
-    "<root>/saves/**/Alpha Beam.*":
-      tags:
-        - save
-    "<root>/states/**/Alpha Beam (*":
-      tags:
-        - save
-    "<root>/states/**/Alpha Beam.*":
       tags:
         - save
 "Alpha Beam with Ernie (RetroArch)":
@@ -18506,6 +18548,20 @@
       tags:
         - save
     "<root>/states/**/Animal Color Cross.*":
+      tags:
+        - save
+"Animal Control - Elite Balloon Squad (RetroArch)":
+  files:
+    "<root>/saves/**/Animal Control - Elite Balloon Squad (*":
+      tags:
+        - save
+    "<root>/saves/**/Animal Control - Elite Balloon Squad.*":
+      tags:
+        - save
+    "<root>/states/**/Animal Control - Elite Balloon Squad (*":
+      tags:
+        - save
+    "<root>/states/**/Animal Control - Elite Balloon Squad.*":
       tags:
         - save
 "Animal Crossing - City Folk - Moving Van (RetroArch)":
@@ -23996,20 +24052,6 @@
     "<root>/states/**/Artist Tool.*":
       tags:
         - save
-"Artix (RetroArch)":
-  files:
-    "<root>/saves/**/Artix (*":
-      tags:
-        - save
-    "<root>/saves/**/Artix.*":
-      tags:
-        - save
-    "<root>/states/**/Artix (*":
-      tags:
-        - save
-    "<root>/states/**/Artix.*":
-      tags:
-        - save
 "Artlist Collection - The Dog Happy Life - Shiawase Wanko Seikatsu Dai-1-dan (RetroArch)":
   files:
     "<root>/saves/**/Artlist Collection - The Dog Happy Life - Shiawase Wanko Seikatsu Dai-1-dan (*":
@@ -27270,20 +27312,6 @@
       tags:
         - save
     "<root>/states/**/Awesome Possum Kicks Dr. Machino's Butt.*":
-      tags:
-        - save
-"Awesome Possum Kicks Dr. Machino's Butt! (RetroArch)":
-  files:
-    "<root>/saves/**/Awesome Possum Kicks Dr. Machino's Butt! (*":
-      tags:
-        - save
-    "<root>/saves/**/Awesome Possum Kicks Dr. Machino's Butt!.*":
-      tags:
-        - save
-    "<root>/states/**/Awesome Possum Kicks Dr. Machino's Butt! (*":
-      tags:
-        - save
-    "<root>/states/**/Awesome Possum Kicks Dr. Machino's Butt!.*":
       tags:
         - save
 "Awol (RetroArch)":
@@ -30632,20 +30660,6 @@
     "<root>/states/**/Ballz 3D - Fighting at Its Ballziest.*":
       tags:
         - save
-"Ballz 3D - Fighting at its Ballziest (RetroArch)":
-  files:
-    "<root>/saves/**/Ballz 3D - Fighting at its Ballziest (*":
-      tags:
-        - save
-    "<root>/saves/**/Ballz 3D - Fighting at its Ballziest.*":
-      tags:
-        - save
-    "<root>/states/**/Ballz 3D - Fighting at its Ballziest (*":
-      tags:
-        - save
-    "<root>/states/**/Ballz 3D - Fighting at its Ballziest.*":
-      tags:
-        - save
 "Ballz 3D - The Battle of the Ballz (RetroArch)":
   files:
     "<root>/saves/**/Ballz 3D - The Battle of the Ballz (*":
@@ -31122,6 +31136,20 @@
     "<root>/states/**/Baoxiao Sanguo.*":
       tags:
         - save
+"Baoxiao Sanguo - Jacks in Tri-Empire (RetroArch)":
+  files:
+    "<root>/saves/**/Baoxiao Sanguo - Jacks in Tri-Empire (*":
+      tags:
+        - save
+    "<root>/saves/**/Baoxiao Sanguo - Jacks in Tri-Empire.*":
+      tags:
+        - save
+    "<root>/states/**/Baoxiao Sanguo - Jacks in Tri-Empire (*":
+      tags:
+        - save
+    "<root>/states/**/Baoxiao Sanguo - Jacks in Tri-Empire.*":
+      tags:
+        - save
 "Baphomets Fluch (RetroArch)":
   files:
     "<root>/saves/**/Baphomets Fluch (*":
@@ -31302,20 +31330,6 @@
       tags:
         - save
     "<root>/states/**/Barbie - Avventure nell'Oceano.*":
-      tags:
-        - save
-"Barbie - Best in Show (RetroArch)":
-  files:
-    "<root>/saves/**/Barbie - Best in Show (*":
-      tags:
-        - save
-    "<root>/saves/**/Barbie - Best in Show.*":
-      tags:
-        - save
-    "<root>/states/**/Barbie - Best in Show (*":
-      tags:
-        - save
-    "<root>/states/**/Barbie - Best in Show.*":
       tags:
         - save
 "Barbie - Chasse au Tresor Sous-Marine (RetroArch)":
@@ -31892,20 +31906,6 @@
     "<root>/states/**/Bard's Tale, The.*":
       tags:
         - save
-"Bard's Tale, The - Tales of the Unknown (RetroArch)":
-  files:
-    "<root>/saves/**/Bard's Tale, The - Tales of the Unknown (*":
-      tags:
-        - save
-    "<root>/saves/**/Bard's Tale, The - Tales of the Unknown.*":
-      tags:
-        - save
-    "<root>/states/**/Bard's Tale, The - Tales of the Unknown (*":
-      tags:
-        - save
-    "<root>/states/**/Bard's Tale, The - Tales of the Unknown.*":
-      tags:
-        - save
 "Bardysh - Kromeford no Juunin (RetroArch)":
   files:
     "<root>/saves/**/Bardysh - Kromeford no Juunin (*":
@@ -31918,20 +31918,6 @@
       tags:
         - save
     "<root>/states/**/Bardysh - Kromeford no Juunin.*":
-      tags:
-        - save
-"Bare Knuckle II (RetroArch)":
-  files:
-    "<root>/saves/**/Bare Knuckle II (*":
-      tags:
-        - save
-    "<root>/saves/**/Bare Knuckle II.*":
-      tags:
-        - save
-    "<root>/states/**/Bare Knuckle II (*":
-      tags:
-        - save
-    "<root>/states/**/Bare Knuckle II.*":
       tags:
         - save
 "Bare Knuckle III (RetroArch)":
@@ -32926,20 +32912,6 @@
       tags:
         - save
     "<root>/states/**/Basu The Demon Hunter.*":
-      tags:
-        - save
-"Bat Lizard Bonanza (RetroArch)":
-  files:
-    "<root>/saves/**/Bat Lizard Bonanza (*":
-      tags:
-        - save
-    "<root>/saves/**/Bat Lizard Bonanza.*":
-      tags:
-        - save
-    "<root>/states/**/Bat Lizard Bonanza (*":
-      tags:
-        - save
-    "<root>/states/**/Bat Lizard Bonanza.*":
       tags:
         - save
 "Bataille Navale (RetroArch)":
@@ -34398,20 +34370,6 @@
     "<root>/states/**/Battle Ship.*":
       tags:
         - save
-"Battle Ships (RetroArch)":
-  files:
-    "<root>/saves/**/Battle Ships (*":
-      tags:
-        - save
-    "<root>/saves/**/Battle Ships.*":
-      tags:
-        - save
-    "<root>/states/**/Battle Ships (*":
-      tags:
-        - save
-    "<root>/states/**/Battle Ships.*":
-      tags:
-        - save
 "Battle Soccer - Field no Hasha (RetroArch)":
   files:
     "<root>/saves/**/Battle Soccer - Field no Hasha (*":
@@ -34648,20 +34606,6 @@
       tags:
         - save
     "<root>/states/**/Battle Wheels.*":
-      tags:
-        - save
-"Battle Wings (RetroArch)":
-  files:
-    "<root>/saves/**/Battle Wings (*":
-      tags:
-        - save
-    "<root>/saves/**/Battle Wings.*":
-      tags:
-        - save
-    "<root>/states/**/Battle Wings (*":
-      tags:
-        - save
-    "<root>/states/**/Battle Wings.*":
       tags:
         - save
 "Battle Women (RetroArch)":
@@ -38164,20 +38108,6 @@
     "<root>/states/**/Big Nose Freaks Out.*":
       tags:
         - save
-"Big Nose and the Witchdoctor (RetroArch)":
-  files:
-    "<root>/saves/**/Big Nose and the Witchdoctor (*":
-      tags:
-        - save
-    "<root>/saves/**/Big Nose and the Witchdoctor.*":
-      tags:
-        - save
-    "<root>/states/**/Big Nose and the Witchdoctor (*":
-      tags:
-        - save
-    "<root>/states/**/Big Nose and the Witchdoctor.*":
-      tags:
-        - save
 "Big Nose the Caveman (RetroArch)":
   files:
     "<root>/saves/**/Big Nose the Caveman (*":
@@ -38764,6 +38694,20 @@
       tags:
         - save
     "<root>/states/**/Billiards.*":
+      tags:
+        - save
+"Billionaire Banshee (RetroArch)":
+  files:
+    "<root>/saves/**/Billionaire Banshee (*":
+      tags:
+        - save
+    "<root>/saves/**/Billionaire Banshee.*":
+      tags:
+        - save
+    "<root>/states/**/Billionaire Banshee (*":
+      tags:
+        - save
+    "<root>/states/**/Billionaire Banshee.*":
       tags:
         - save
 "Billy Bob's Huntin' 'n' Fishin' (RetroArch)":
@@ -40068,6 +40012,20 @@
     "<root>/states/**/Bistro, The - Ryouri & Wine no Shokunintachi.*":
       tags:
         - save
+"Bitamina Oukoku Monogatari (RetroArch)":
+  files:
+    "<root>/saves/**/Bitamina Oukoku Monogatari (*":
+      tags:
+        - save
+    "<root>/saves/**/Bitamina Oukoku Monogatari.*":
+      tags:
+        - save
+    "<root>/states/**/Bitamina Oukoku Monogatari (*":
+      tags:
+        - save
+    "<root>/states/**/Bitamina Oukoku Monogatari.*":
+      tags:
+        - save
 "Bitchy (RetroArch)":
   files:
     "<root>/saves/**/Bitchy (*":
@@ -40808,20 +40766,6 @@
       tags:
         - save
     "<root>/states/**/Blade Dancer - Sennen no Yakusoku.*":
-      tags:
-        - save
-"Blade Eagle (RetroArch)":
-  files:
-    "<root>/saves/**/Blade Eagle (*":
-      tags:
-        - save
-    "<root>/saves/**/Blade Eagle.*":
-      tags:
-        - save
-    "<root>/states/**/Blade Eagle (*":
-      tags:
-        - save
-    "<root>/states/**/Blade Eagle.*":
       tags:
         - save
 "Blade Eagle 3-D (RetroArch)":
@@ -42728,6 +42672,20 @@
     "<root>/states/**/Blue Wing Blitz.*":
       tags:
         - save
+"Blue and Red - Fight The Robots! (RetroArch)":
+  files:
+    "<root>/saves/**/Blue and Red - Fight The Robots! (*":
+      tags:
+        - save
+    "<root>/saves/**/Blue and Red - Fight The Robots!.*":
+      tags:
+        - save
+    "<root>/states/**/Blue and Red - Fight The Robots! (*":
+      tags:
+        - save
+    "<root>/states/**/Blue and Red - Fight The Robots!.*":
+      tags:
+        - save
 "Blue's Clues - Blue's Alphabet Book (RetroArch)":
   files:
     "<root>/saves/**/Blue's Clues - Blue's Alphabet Book (*":
@@ -42782,20 +42740,6 @@
       tags:
         - save
     "<root>/states/**/Blueprint.*":
-      tags:
-        - save
-"Blues Brothers (RetroArch)":
-  files:
-    "<root>/saves/**/Blues Brothers (*":
-      tags:
-        - save
-    "<root>/saves/**/Blues Brothers.*":
-      tags:
-        - save
-    "<root>/states/**/Blues Brothers (*":
-      tags:
-        - save
-    "<root>/states/**/Blues Brothers.*":
       tags:
         - save
 "Blues Brothers 2000 (RetroArch)":
@@ -47488,6 +47432,20 @@
     "<root>/states/**/Brawl Brothers - Rival Turf! 2.*":
       tags:
         - save
+"Brax and the Cake Factory (RetroArch)":
+  files:
+    "<root>/saves/**/Brax and the Cake Factory (*":
+      tags:
+        - save
+    "<root>/saves/**/Brax and the Cake Factory.*":
+      tags:
+        - save
+    "<root>/states/**/Brax and the Cake Factory (*":
+      tags:
+        - save
+    "<root>/states/**/Brax and the Cake Factory.*":
+      tags:
+        - save
 "Breach (RetroArch)":
   files:
     "<root>/saves/**/Breach (*":
@@ -48720,20 +48678,6 @@
     "<root>/states/**/Bubba 'N' Stix.*":
       tags:
         - save
-"Bubba N Stix (RetroArch)":
-  files:
-    "<root>/saves/**/Bubba N Stix (*":
-      tags:
-        - save
-    "<root>/saves/**/Bubba N Stix.*":
-      tags:
-        - save
-    "<root>/states/**/Bubba N Stix (*":
-      tags:
-        - save
-    "<root>/states/**/Bubba N Stix.*":
-      tags:
-        - save
 "Bubble Bath Babes (RetroArch)":
   files:
     "<root>/saves/**/Bubble Bath Babes (*":
@@ -49112,20 +49056,6 @@
     "<root>/states/**/Bubsy in - Claws Encounters of the Furred Kind.*":
       tags:
         - save
-"Bubsy in Claws Encounters of the Furred Kind (RetroArch)":
-  files:
-    "<root>/saves/**/Bubsy in Claws Encounters of the Furred Kind (*":
-      tags:
-        - save
-    "<root>/saves/**/Bubsy in Claws Encounters of the Furred Kind.*":
-      tags:
-        - save
-    "<root>/states/**/Bubsy in Claws Encounters of the Furred Kind (*":
-      tags:
-        - save
-    "<root>/states/**/Bubsy in Claws Encounters of the Furred Kind.*":
-      tags:
-        - save
 "Buck Bumble (RetroArch)":
   files:
     "<root>/saves/**/Buck Bumble (*":
@@ -49166,20 +49096,6 @@
       tags:
         - save
     "<root>/states/**/Buck Rogers - Planet of Zoom.*":
-      tags:
-        - save
-"Buck Rogers - The Arcade Game (RetroArch)":
-  files:
-    "<root>/saves/**/Buck Rogers - The Arcade Game (*":
-      tags:
-        - save
-    "<root>/saves/**/Buck Rogers - The Arcade Game.*":
-      tags:
-        - save
-    "<root>/states/**/Buck Rogers - The Arcade Game (*":
-      tags:
-        - save
-    "<root>/states/**/Buck Rogers - The Arcade Game.*":
       tags:
         - save
 "Bucket (RetroArch)":
@@ -49686,20 +49602,6 @@
     "<root>/states/**/Bugs Bunny - Rabbit Rampage.*":
       tags:
         - save
-"Bugs Bunny Birthday Bash (RetroArch)":
-  files:
-    "<root>/saves/**/Bugs Bunny Birthday Bash (*":
-      tags:
-        - save
-    "<root>/saves/**/Bugs Bunny Birthday Bash.*":
-      tags:
-        - save
-    "<root>/states/**/Bugs Bunny Birthday Bash (*":
-      tags:
-        - save
-    "<root>/states/**/Bugs Bunny Birthday Bash.*":
-      tags:
-        - save
 "Bugs Bunny Birthday Blowout, The (RetroArch)":
   files:
     "<root>/saves/**/Bugs Bunny Birthday Blowout, The (*":
@@ -49768,20 +49670,6 @@
       tags:
         - save
     "<root>/states/**/Bugs Bunny Crazy Castle, The.*":
-      tags:
-        - save
-"Bugs Bunny Fun House (RetroArch)":
-  files:
-    "<root>/saves/**/Bugs Bunny Fun House (*":
-      tags:
-        - save
-    "<root>/saves/**/Bugs Bunny Fun House.*":
-      tags:
-        - save
-    "<root>/states/**/Bugs Bunny Fun House (*":
-      tags:
-        - save
-    "<root>/states/**/Bugs Bunny Fun House.*":
       tags:
         - save
 "Bugs Bunny et le Chateau des Catastrophes (RetroArch)":
@@ -51924,20 +51812,6 @@
       tags:
         - save
     "<root>/states/**/CD Pachi-Slot - Bishoujo Gambler.*":
-      tags:
-        - save
-"CD Sonic the Hedgehog (RetroArch)":
-  files:
-    "<root>/saves/**/CD Sonic the Hedgehog (*":
-      tags:
-        - save
-    "<root>/saves/**/CD Sonic the Hedgehog.*":
-      tags:
-        - save
-    "<root>/states/**/CD Sonic the Hedgehog (*":
-      tags:
-        - save
-    "<root>/states/**/CD Sonic the Hedgehog.*":
       tags:
         - save
 "CD-G Test Disc (RetroArch)":
@@ -55118,20 +54992,6 @@
     "<root>/states/**/Cardinal Syn.*":
       tags:
         - save
-"Cardtest (RetroArch)":
-  files:
-    "<root>/saves/**/Cardtest (*":
-      tags:
-        - save
-    "<root>/saves/**/Cardtest.*":
-      tags:
-        - save
-    "<root>/states/**/Cardtest (*":
-      tags:
-        - save
-    "<root>/states/**/Cardtest.*":
-      tags:
-        - save
 "Care Bears (RetroArch)":
   files:
     "<root>/saves/**/Care Bears (*":
@@ -57370,20 +57230,6 @@
       tags:
         - save
     "<root>/states/**/Caveman Games.*":
-      tags:
-        - save
-"Caveman Ninja (RetroArch)":
-  files:
-    "<root>/saves/**/Caveman Ninja (*":
-      tags:
-        - save
-    "<root>/saves/**/Caveman Ninja.*":
-      tags:
-        - save
-    "<root>/states/**/Caveman Ninja (*":
-      tags:
-        - save
-    "<root>/states/**/Caveman Ninja.*":
       tags:
         - save
 "Cavit (RetroArch)":
@@ -61908,6 +61754,20 @@
     "<root>/states/**/Chokkan! Asonde Rilakkuma.*":
       tags:
         - save
+"Chomp Champ (RetroArch)":
+  files:
+    "<root>/saves/**/Chomp Champ (*":
+      tags:
+        - save
+    "<root>/saves/**/Chomp Champ.*":
+      tags:
+        - save
+    "<root>/states/**/Chomp Champ (*":
+      tags:
+        - save
+    "<root>/states/**/Chomp Champ.*":
+      tags:
+        - save
 "Chongseong and Diamond (RetroArch)":
   files:
     "<root>/saves/**/Chongseong and Diamond (*":
@@ -62046,6 +61906,20 @@
       tags:
         - save
     "<root>/states/**/Chongwu Xiao Jingling VI.*":
+      tags:
+        - save
+"ChopChop (RetroArch)":
+  files:
+    "<root>/saves/**/ChopChop (*":
+      tags:
+        - save
+    "<root>/saves/**/ChopChop.*":
+      tags:
+        - save
+    "<root>/states/**/ChopChop (*":
+      tags:
+        - save
+    "<root>/states/**/ChopChop.*":
       tags:
         - save
 "Choplifter (RetroArch)":
@@ -63376,20 +63250,6 @@
       tags:
         - save
     "<root>/states/**/Chris Kamara's Street Soccer.*":
-      tags:
-        - save
-"Chrismas Challenge (RetroArch)":
-  files:
-    "<root>/saves/**/Chrismas Challenge (*":
-      tags:
-        - save
-    "<root>/saves/**/Chrismas Challenge.*":
-      tags:
-        - save
-    "<root>/states/**/Chrismas Challenge (*":
-      tags:
-        - save
-    "<root>/states/**/Chrismas Challenge.*":
       tags:
         - save
 "Christiane Stengers Gedaechtnis-Coach (RetroArch)":
@@ -69272,20 +69132,6 @@
     "<root>/states/**/Contra 4.*":
       tags:
         - save
-"Contra Advance (RetroArch)":
-  files:
-    "<root>/saves/**/Contra Advance (*":
-      tags:
-        - save
-    "<root>/saves/**/Contra Advance.*":
-      tags:
-        - save
-    "<root>/states/**/Contra Advance (*":
-      tags:
-        - save
-    "<root>/states/**/Contra Advance.*":
-      tags:
-        - save
 "Contra Advance - The Alien Wars EX (RetroArch)":
   files:
     "<root>/saves/**/Contra Advance - The Alien Wars EX (*":
@@ -69354,20 +69200,6 @@
       tags:
         - save
     "<root>/states/**/Contra III - The Alien Wars.*":
-      tags:
-        - save
-"Contra IV - The Alien Wars (RetroArch)":
-  files:
-    "<root>/saves/**/Contra IV - The Alien Wars (*":
-      tags:
-        - save
-    "<root>/saves/**/Contra IV - The Alien Wars.*":
-      tags:
-        - save
-    "<root>/states/**/Contra IV - The Alien Wars (*":
-      tags:
-        - save
-    "<root>/states/**/Contra IV - The Alien Wars.*":
       tags:
         - save
 "Contra Spirits (RetroArch)":
@@ -70824,6 +70656,20 @@
       tags:
         - save
     "<root>/states/**/Cosmic Fantasy Stories.*":
+      tags:
+        - save
+"Cosmic Guerilla (RetroArch)":
+  files:
+    "<root>/saves/**/Cosmic Guerilla (*":
+      tags:
+        - save
+    "<root>/saves/**/Cosmic Guerilla.*":
+      tags:
+        - save
+    "<root>/states/**/Cosmic Guerilla (*":
+      tags:
+        - save
+    "<root>/states/**/Cosmic Guerilla.*":
       tags:
         - save
 "Cosmic Race (RetroArch)":
@@ -72982,6 +72828,20 @@
     "<root>/states/**/Creepy Bird.*":
       tags:
         - save
+"Creepy Brawlers (RetroArch)":
+  files:
+    "<root>/saves/**/Creepy Brawlers (*":
+      tags:
+        - save
+    "<root>/saves/**/Creepy Brawlers.*":
+      tags:
+        - save
+    "<root>/states/**/Creepy Brawlers (*":
+      tags:
+        - save
+    "<root>/states/**/Creepy Brawlers.*":
+      tags:
+        - save
 "Creogic - The Game (RetroArch)":
   files:
     "<root>/saves/**/Creogic - The Game (*":
@@ -74998,6 +74858,20 @@
     "<root>/states/**/Culture Generale pour les Nuls, La.*":
       tags:
         - save
+"Cur Manor (RetroArch)":
+  files:
+    "<root>/saves/**/Cur Manor (*":
+      tags:
+        - save
+    "<root>/saves/**/Cur Manor.*":
+      tags:
+        - save
+    "<root>/states/**/Cur Manor (*":
+      tags:
+        - save
+    "<root>/states/**/Cur Manor.*":
+      tags:
+        - save
 "Curiosity Kills the Cat Koukishin wa Neko o Korosu ka (RetroArch)":
   files:
     "<root>/saves/**/Curiosity Kills the Cat Koukishin wa Neko o Korosu ka (*":
@@ -75796,6 +75670,20 @@
     "<root>/states/**/Cyberbots - Fullmetal Madness.*":
       tags:
         - save
+"Cybercoaster (RetroArch)":
+  files:
+    "<root>/saves/**/Cybercoaster (*":
+      tags:
+        - save
+    "<root>/saves/**/Cybercoaster.*":
+      tags:
+        - save
+    "<root>/states/**/Cybercoaster (*":
+      tags:
+        - save
+    "<root>/states/**/Cybercoaster.*":
+      tags:
+        - save
 "Cyberdrive Zoids - Kijuu no Senshi Hyuu (RetroArch)":
   files:
     "<root>/saves/**/Cyberdrive Zoids - Kijuu no Senshi Hyuu (*":
@@ -76116,20 +76004,6 @@
       tags:
         - save
     "<root>/states/**/D no Shokutaku - Complete Graphics.*":
-      tags:
-        - save
-"D&CO (RetroArch)":
-  files:
-    "<root>/saves/**/D&CO (*":
-      tags:
-        - save
-    "<root>/saves/**/D&CO.*":
-      tags:
-        - save
-    "<root>/states/**/D&CO (*":
-      tags:
-        - save
-    "<root>/states/**/D&CO.*":
       tags:
         - save
 "D&CO - Ta Maison de Reve en 7 Jours (RetroArch)":
@@ -84084,6 +83958,20 @@
     "<root>/states/**/Delbo.*":
       tags:
         - save
+"Delete Me Hard (RetroArch)":
+  files:
+    "<root>/saves/**/Delete Me Hard (*":
+      tags:
+        - save
+    "<root>/saves/**/Delete Me Hard.*":
+      tags:
+        - save
+    "<root>/states/**/Delete Me Hard (*":
+      tags:
+        - save
+    "<root>/states/**/Delete Me Hard.*":
+      tags:
+        - save
 "Delia - The Traveling Witch (RetroArch)":
   files:
     "<root>/saves/**/Delia - The Traveling Witch (*":
@@ -84810,20 +84698,6 @@
       tags:
         - save
     "<root>/states/**/Den Ten's Winter Adventure.*":
-      tags:
-        - save
-"Den'Z Traffic Panic (RetroArch)":
-  files:
-    "<root>/saves/**/Den'Z Traffic Panic (*":
-      tags:
-        - save
-    "<root>/saves/**/Den'Z Traffic Panic.*":
-      tags:
-        - save
-    "<root>/states/**/Den'Z Traffic Panic (*":
-      tags:
-        - save
-    "<root>/states/**/Den'Z Traffic Panic.*":
       tags:
         - save
 "Dengeki - Big Bang! (RetroArch)":
@@ -86772,20 +86646,6 @@
     "<root>/states/**/Desert Commander.*":
       tags:
         - save
-"Desert Demolition (RetroArch)":
-  files:
-    "<root>/saves/**/Desert Demolition (*":
-      tags:
-        - save
-    "<root>/saves/**/Desert Demolition.*":
-      tags:
-        - save
-    "<root>/states/**/Desert Demolition (*":
-      tags:
-        - save
-    "<root>/states/**/Desert Demolition.*":
-      tags:
-        - save
 "Desert Demolition Starring Road Runner and Wile E. Coyote (RetroArch)":
   files:
     "<root>/saves/**/Desert Demolition Starring Road Runner and Wile E. Coyote (*":
@@ -87906,20 +87766,6 @@
     "<root>/states/**/Dexanoid.*":
       tags:
         - save
-"Dexstar (RetroArch)":
-  files:
-    "<root>/saves/**/Dexstar (*":
-      tags:
-        - save
-    "<root>/saves/**/Dexstar.*":
-      tags:
-        - save
-    "<root>/states/**/Dexstar (*":
-      tags:
-        - save
-    "<root>/states/**/Dexstar.*":
-      tags:
-        - save
 "Dexten (RetroArch)":
   files:
     "<root>/saves/**/Dexten (*":
@@ -88528,20 +88374,6 @@
       tags:
         - save
     "<root>/states/**/Diddl in the Cheesecakeland - Diddl en Diddland.*":
-      tags:
-        - save
-"Diddy Kong Pilot (RetroArch)":
-  files:
-    "<root>/saves/**/Diddy Kong Pilot (*":
-      tags:
-        - save
-    "<root>/saves/**/Diddy Kong Pilot.*":
-      tags:
-        - save
-    "<root>/states/**/Diddy Kong Pilot (*":
-      tags:
-        - save
-    "<root>/states/**/Diddy Kong Pilot.*":
       tags:
         - save
 "Diddy Kong Racing (RetroArch)":
@@ -92548,20 +92380,6 @@
     "<root>/states/**/Disney's Lilo & Stitch - Trouble in Paradise.*":
       tags:
         - save
-"Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (RetroArch)":
-  files:
-    "<root>/saves/**/Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (*":
-      tags:
-        - save
-    "<root>/saves/**/Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer.*":
-      tags:
-        - save
-    "<root>/states/**/Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (*":
-      tags:
-        - save
-    "<root>/states/**/Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer.*":
-      tags:
-        - save
 "Disney's Mulan - Story Studio (RetroArch)":
   files:
     "<root>/saves/**/Disney's Mulan - Story Studio (*":
@@ -96490,20 +96308,6 @@
     "<root>/states/**/Doom II.*":
       tags:
         - save
-"Doom RR (RetroArch)":
-  files:
-    "<root>/saves/**/Doom RR (*":
-      tags:
-        - save
-    "<root>/saves/**/Doom RR.*":
-      tags:
-        - save
-    "<root>/states/**/Doom RR (*":
-      tags:
-        - save
-    "<root>/states/**/Doom RR.*":
-      tags:
-        - save
 "Doom Troopers (RetroArch)":
   files:
     "<root>/saves/**/Doom Troopers (*":
@@ -96782,20 +96586,6 @@
       tags:
         - save
     "<root>/states/**/Dora's Cooking Club.*":
-      tags:
-        - save
-"Dora's Puppy Playtime (RetroArch)":
-  files:
-    "<root>/saves/**/Dora's Puppy Playtime (*":
-      tags:
-        - save
-    "<root>/saves/**/Dora's Puppy Playtime.*":
-      tags:
-        - save
-    "<root>/states/**/Dora's Puppy Playtime (*":
-      tags:
-        - save
-    "<root>/states/**/Dora's Puppy Playtime.*":
       tags:
         - save
 "Dora-Slot - Hana Hana Matsuri Da!! (RetroArch)":
@@ -99318,6 +99108,20 @@
     "<root>/states/**/Dr. Seuss' The Cat in the Hat.*":
       tags:
         - save
+"Dr. Sexy's Grand Bake-Off Brawl (RetroArch)":
+  files:
+    "<root>/saves/**/Dr. Sexy's Grand Bake-Off Brawl (*":
+      tags:
+        - save
+    "<root>/saves/**/Dr. Sexy's Grand Bake-Off Brawl.*":
+      tags:
+        - save
+    "<root>/states/**/Dr. Sexy's Grand Bake-Off Brawl (*":
+      tags:
+        - save
+    "<root>/states/**/Dr. Sexy's Grand Bake-Off Brawl.*":
+      tags:
+        - save
 "Dr. Slump (RetroArch)":
   files:
     "<root>/saves/**/Dr. Slump (*":
@@ -100606,20 +100410,6 @@
     "<root>/states/**/Dragon Ball Z - The Legacy of Goku II International.*":
       tags:
         - save
-"Dragon Ball Z - The Legacy of Goku III (RetroArch)":
-  files:
-    "<root>/saves/**/Dragon Ball Z - The Legacy of Goku III (*":
-      tags:
-        - save
-    "<root>/saves/**/Dragon Ball Z - The Legacy of Goku III.*":
-      tags:
-        - save
-    "<root>/states/**/Dragon Ball Z - The Legacy of Goku III (*":
-      tags:
-        - save
-    "<root>/states/**/Dragon Ball Z - The Legacy of Goku III.*":
-      tags:
-        - save
 "Dragon Ball Z - Ultimate Battle 22 (RetroArch)":
   files:
     "<root>/saves/**/Dragon Ball Z - Ultimate Battle 22 (*":
@@ -100688,20 +100478,6 @@
       tags:
         - save
     "<root>/states/**/Dragon Ball Z 5.*":
-      tags:
-        - save
-"Dragon Ball Z Fusion - The Legacy of Goku III (RetroArch)":
-  files:
-    "<root>/saves/**/Dragon Ball Z Fusion - The Legacy of Goku III (*":
-      tags:
-        - save
-    "<root>/saves/**/Dragon Ball Z Fusion - The Legacy of Goku III.*":
-      tags:
-        - save
-    "<root>/states/**/Dragon Ball Z Fusion - The Legacy of Goku III (*":
-      tags:
-        - save
-    "<root>/states/**/Dragon Ball Z Fusion - The Legacy of Goku III.*":
       tags:
         - save
 "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (RetroArch)":
@@ -100982,6 +100758,20 @@
       tags:
         - save
     "<root>/states/**/Dragon Half.*":
+      tags:
+        - save
+"Dragon Hopper (RetroArch)":
+  files:
+    "<root>/saves/**/Dragon Hopper (*":
+      tags:
+        - save
+    "<root>/saves/**/Dragon Hopper.*":
+      tags:
+        - save
+    "<root>/states/**/Dragon Hopper (*":
+      tags:
+        - save
+    "<root>/states/**/Dragon Hopper.*":
       tags:
         - save
 "Dragon Hunters (RetroArch)":
@@ -102342,6 +102132,20 @@
     "<root>/states/**/Dragon's Magic.*":
       tags:
         - save
+"Dragon's Puzzle Challenge (RetroArch)":
+  files:
+    "<root>/saves/**/Dragon's Puzzle Challenge (*":
+      tags:
+        - save
+    "<root>/saves/**/Dragon's Puzzle Challenge.*":
+      tags:
+        - save
+    "<root>/states/**/Dragon's Puzzle Challenge (*":
+      tags:
+        - save
+    "<root>/states/**/Dragon's Puzzle Challenge.*":
+      tags:
+        - save
 "Dragon's Revenge (RetroArch)":
   files:
     "<root>/saves/**/Dragon's Revenge (*":
@@ -102790,6 +102594,20 @@
     "<root>/states/**/Drawn to Life - The Next Chapter.*":
       tags:
         - save
+"Dream - Land of Giants (RetroArch)":
+  files:
+    "<root>/saves/**/Dream - Land of Giants (*":
+      tags:
+        - save
+    "<root>/saves/**/Dream - Land of Giants.*":
+      tags:
+        - save
+    "<root>/states/**/Dream - Land of Giants (*":
+      tags:
+        - save
+    "<root>/states/**/Dream - Land of Giants.*":
+      tags:
+        - save
 "Dream Basketball - Dunk & Hoop (RetroArch)":
   files:
     "<root>/saves/**/Dream Basketball - Dunk & Hoop (*":
@@ -103224,20 +103042,6 @@
     "<root>/states/**/Dream Salon.*":
       tags:
         - save
-"Dream Shark - Part 1 (RetroArch)":
-  files:
-    "<root>/saves/**/Dream Shark - Part 1 (*":
-      tags:
-        - save
-    "<root>/saves/**/Dream Shark - Part 1.*":
-      tags:
-        - save
-    "<root>/states/**/Dream Shark - Part 1 (*":
-      tags:
-        - save
-    "<root>/states/**/Dream Shark - Part 1.*":
-      tags:
-        - save
 "Dream Square - Hinagata Akiko (RetroArch)":
   files:
     "<root>/saves/**/Dream Square - Hinagata Akiko (*":
@@ -103278,20 +103082,6 @@
       tags:
         - save
     "<root>/states/**/Dream T.V..*":
-      tags:
-        - save
-"Dream TV (RetroArch)":
-  files:
-    "<root>/saves/**/Dream TV (*":
-      tags:
-        - save
-    "<root>/saves/**/Dream TV.*":
-      tags:
-        - save
-    "<root>/states/**/Dream TV (*":
-      tags:
-        - save
-    "<root>/states/**/Dream TV.*":
       tags:
         - save
 "Dream Team USA (RetroArch)":
@@ -107718,6 +107508,20 @@
     "<root>/states/**/Earnest Evans.*":
       tags:
         - save
+"Earth Bound (RetroArch)":
+  files:
+    "<root>/saves/**/Earth Bound (*":
+      tags:
+        - save
+    "<root>/saves/**/Earth Bound.*":
+      tags:
+        - save
+    "<root>/states/**/Earth Bound (*":
+      tags:
+        - save
+    "<root>/states/**/Earth Bound.*":
+      tags:
+        - save
 "Earth Defense (RetroArch)":
   files:
     "<root>/saves/**/Earth Defense (*":
@@ -107814,20 +107618,6 @@
       tags:
         - save
     "<root>/states/**/EarthBound.*":
-      tags:
-        - save
-"EarthBound Beginnings (RetroArch)":
-  files:
-    "<root>/saves/**/EarthBound Beginnings (*":
-      tags:
-        - save
-    "<root>/saves/**/EarthBound Beginnings.*":
-      tags:
-        - save
-    "<root>/states/**/EarthBound Beginnings (*":
-      tags:
-        - save
-    "<root>/states/**/EarthBound Beginnings.*":
       tags:
         - save
 "Earthworm Jim (RetroArch)":
@@ -108262,6 +108052,20 @@
       tags:
         - save
     "<root>/states/**/Echoes of Elysium Descent.*":
+      tags:
+        - save
+"Echoes of the Unread (RetroArch)":
+  files:
+    "<root>/saves/**/Echoes of the Unread (*":
+      tags:
+        - save
+    "<root>/saves/**/Echoes of the Unread.*":
+      tags:
+        - save
+    "<root>/states/**/Echoes of the Unread (*":
+      tags:
+        - save
+    "<root>/states/**/Echoes of the Unread.*":
       tags:
         - save
 "Echoshift (RetroArch)":
@@ -109578,6 +109382,20 @@
       tags:
         - save
     "<root>/states/**/Eindeloos Patience.*":
+      tags:
+        - save
+"Einer Gegen 100 (RetroArch)":
+  files:
+    "<root>/saves/**/Einer Gegen 100 (*":
+      tags:
+        - save
+    "<root>/saves/**/Einer Gegen 100.*":
+      tags:
+        - save
+    "<root>/states/**/Einer Gegen 100 (*":
+      tags:
+        - save
+    "<root>/states/**/Einer Gegen 100.*":
       tags:
         - save
 "Einhaender (RetroArch)":
@@ -111680,20 +111498,6 @@
     "<root>/states/**/Emperor's New Groove, The.*":
       tags:
         - save
-"Empire Syndicate (RetroArch)":
-  files:
-    "<root>/saves/**/Empire Syndicate (*":
-      tags:
-        - save
-    "<root>/saves/**/Empire Syndicate.*":
-      tags:
-        - save
-    "<root>/states/**/Empire Syndicate (*":
-      tags:
-        - save
-    "<root>/states/**/Empire Syndicate.*":
-      tags:
-        - save
 "Empire of Steel (RetroArch)":
   files:
     "<root>/saves/**/Empire of Steel (*":
@@ -112770,20 +112574,6 @@
       tags:
         - save
     "<root>/states/**/Escape from Flooded Ruins.*":
-      tags:
-        - save
-"Escape from Mars Starring Taz (RetroArch)":
-  files:
-    "<root>/saves/**/Escape from Mars Starring Taz (*":
-      tags:
-        - save
-    "<root>/saves/**/Escape from Mars Starring Taz.*":
-      tags:
-        - save
-    "<root>/states/**/Escape from Mars Starring Taz (*":
-      tags:
-        - save
-    "<root>/states/**/Escape from Mars Starring Taz.*":
       tags:
         - save
 "Escape from Monster Dimension (RetroArch)":
@@ -116130,20 +115920,6 @@
       tags:
         - save
     "<root>/states/**/Europe Sensen.*":
-      tags:
-        - save
-"European Club Football (RetroArch)":
-  files:
-    "<root>/saves/**/European Club Football (*":
-      tags:
-        - save
-    "<root>/saves/**/European Club Football.*":
-      tags:
-        - save
-    "<root>/states/**/European Club Football (*":
-      tags:
-        - save
-    "<root>/states/**/European Club Football.*":
       tags:
         - save
 "European Club Soccer (RetroArch)":
@@ -120626,20 +120402,6 @@
     "<root>/states/**/Fairytale.*":
       tags:
         - save
-"Faith of Abraham (RetroArch)":
-  files:
-    "<root>/saves/**/Faith of Abraham (*":
-      tags:
-        - save
-    "<root>/saves/**/Faith of Abraham.*":
-      tags:
-        - save
-    "<root>/states/**/Faith of Abraham (*":
-      tags:
-        - save
-    "<root>/states/**/Faith of Abraham.*":
-      tags:
-        - save
 "Falao Wang Chuanshuo (RetroArch)":
   files:
     "<root>/saves/**/Falao Wang Chuanshuo (*":
@@ -124446,20 +124208,6 @@
       tags:
         - save
     "<root>/states/**/Fear Effect 2 - Retro Helix.*":
-      tags:
-        - save
-"Fear Factor (RetroArch)":
-  files:
-    "<root>/saves/**/Fear Factor (*":
-      tags:
-        - save
-    "<root>/saves/**/Fear Factor.*":
-      tags:
-        - save
-    "<root>/states/**/Fear Factor (*":
-      tags:
-        - save
-    "<root>/states/**/Fear Factor.*":
       tags:
         - save
 "Fear Factor - Unleashed (RetroArch)":
@@ -129332,6 +129080,20 @@
       tags:
         - save
     "<root>/states/**/Flappy Jack.*":
+      tags:
+        - save
+"Flappy Paratroopa (RetroArch)":
+  files:
+    "<root>/saves/**/Flappy Paratroopa (*":
+      tags:
+        - save
+    "<root>/saves/**/Flappy Paratroopa.*":
+      tags:
+        - save
+    "<root>/states/**/Flappy Paratroopa (*":
+      tags:
+        - save
+    "<root>/states/**/Flappy Paratroopa.*":
       tags:
         - save
 "Flappy Special (RetroArch)":
@@ -134262,20 +134024,6 @@
     "<root>/states/**/Frontier.*":
       tags:
         - save
-"Frontier Force (RetroArch)":
-  files:
-    "<root>/saves/**/Frontier Force (*":
-      tags:
-        - save
-    "<root>/saves/**/Frontier Force.*":
-      tags:
-        - save
-    "<root>/states/**/Frontier Force (*":
-      tags:
-        - save
-    "<root>/states/**/Frontier Force.*":
-      tags:
-        - save
 "Frontier Gate (RetroArch)":
   files:
     "<root>/saves/**/Frontier Gate (*":
@@ -134848,20 +134596,6 @@
       tags:
         - save
     "<root>/states/**/Fun + Learning 2.*":
-      tags:
-        - save
-"Fun Car Rally (RetroArch)":
-  files:
-    "<root>/saves/**/Fun Car Rally (*":
-      tags:
-        - save
-    "<root>/saves/**/Fun Car Rally.*":
-      tags:
-        - save
-    "<root>/states/**/Fun Car Rally (*":
-      tags:
-        - save
-    "<root>/states/**/Fun Car Rally.*":
       tags:
         - save
 "Fun House (RetroArch)":
@@ -136164,20 +135898,6 @@
       tags:
         - save
     "<root>/states/**/G.A.S.P!! Fighters' NEXTream.*":
-      tags:
-        - save
-"G.B Corp. (RetroArch)":
-  files:
-    "<root>/saves/**/G.B Corp. (*":
-      tags:
-        - save
-    "<root>/saves/**/G.B Corp..*":
-      tags:
-        - save
-    "<root>/states/**/G.B Corp. (*":
-      tags:
-        - save
-    "<root>/states/**/G.B Corp..*":
       tags:
         - save
 "G.G Series - Air Pinball Hockey (RetroArch)":
@@ -140408,20 +140128,6 @@
     "<root>/states/**/Game Boy Wars Advance 1+2.*":
       tags:
         - save
-"Game Boy Wars Pocket Tactics (RetroArch)":
-  files:
-    "<root>/saves/**/Game Boy Wars Pocket Tactics (*":
-      tags:
-        - save
-    "<root>/saves/**/Game Boy Wars Pocket Tactics.*":
-      tags:
-        - save
-    "<root>/states/**/Game Boy Wars Pocket Tactics (*":
-      tags:
-        - save
-    "<root>/states/**/Game Boy Wars Pocket Tactics.*":
-      tags:
-        - save
 "Game Boy Wars Turbo (RetroArch)":
   files:
     "<root>/saves/**/Game Boy Wars Turbo (*":
@@ -142298,18 +142004,18 @@
     "<root>/states/**/Ganso Saiyuuki - Super Monkey Daibouken.*":
       tags:
         - save
-"Ganso! Doubutsu Uranai (RetroArch)":
+"Ganso! Doubutsu Uranai GB + Renai Uranai Puzzle (RetroArch)":
   files:
-    "<root>/saves/**/Ganso! Doubutsu Uranai (*":
+    "<root>/saves/**/Ganso! Doubutsu Uranai GB + Renai Uranai Puzzle (*":
       tags:
         - save
-    "<root>/saves/**/Ganso! Doubutsu Uranai.*":
+    "<root>/saves/**/Ganso! Doubutsu Uranai GB + Renai Uranai Puzzle.*":
       tags:
         - save
-    "<root>/states/**/Ganso! Doubutsu Uranai (*":
+    "<root>/states/**/Ganso! Doubutsu Uranai GB + Renai Uranai Puzzle (*":
       tags:
         - save
-    "<root>/states/**/Ganso! Doubutsu Uranai.*":
+    "<root>/states/**/Ganso! Doubutsu Uranai GB + Renai Uranai Puzzle.*":
       tags:
         - save
 "Ganso!! Yancha Maru (RetroArch)":
@@ -142884,6 +142590,20 @@
       tags:
         - save
     "<root>/states/**/Gas Hog ~ Piraten Schiff.*":
+      tags:
+        - save
+"Gas Station Story OST (RetroArch)":
+  files:
+    "<root>/saves/**/Gas Station Story OST (*":
+      tags:
+        - save
+    "<root>/saves/**/Gas Station Story OST.*":
+      tags:
+        - save
+    "<root>/states/**/Gas Station Story OST (*":
+      tags:
+        - save
+    "<root>/states/**/Gas Station Story OST.*":
       tags:
         - save
 "Gate Keepers (RetroArch)":
@@ -143950,20 +143670,6 @@
     "<root>/states/**/Gem Smashers.*":
       tags:
         - save
-"GemVenture (RetroArch)":
-  files:
-    "<root>/saves/**/GemVenture (*":
-      tags:
-        - save
-    "<root>/saves/**/GemVenture.*":
-      tags:
-        - save
-    "<root>/states/**/GemVenture (*":
-      tags:
-        - save
-    "<root>/states/**/GemVenture.*":
-      tags:
-        - save
 "Gematrix (RetroArch)":
   files:
     "<root>/saves/**/Gematrix (*":
@@ -144032,20 +143738,6 @@
       tags:
         - save
     "<root>/states/**/Gemitas.*":
-      tags:
-        - save
-"Gemquest (RetroArch)":
-  files:
-    "<root>/saves/**/Gemquest (*":
-      tags:
-        - save
-    "<root>/saves/**/Gemquest.*":
-      tags:
-        - save
-    "<root>/states/**/Gemquest (*":
-      tags:
-        - save
-    "<root>/states/**/Gemquest.*":
       tags:
         - save
 "Gen Poker (RetroArch)":
@@ -146078,18 +145770,18 @@
     "<root>/states/**/Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi.*":
       tags:
         - save
-"Giant Killers (RetroArch)":
+"Giant Tree Drinking Lean (RetroArch)":
   files:
-    "<root>/saves/**/Giant Killers (*":
+    "<root>/saves/**/Giant Tree Drinking Lean (*":
       tags:
         - save
-    "<root>/saves/**/Giant Killers.*":
+    "<root>/saves/**/Giant Tree Drinking Lean.*":
       tags:
         - save
-    "<root>/states/**/Giant Killers (*":
+    "<root>/states/**/Giant Tree Drinking Lean (*":
       tags:
         - save
-    "<root>/states/**/Giant Killers.*":
+    "<root>/states/**/Giant Tree Drinking Lean.*":
       tags:
         - save
 "Gibonyeongdaneo - Word Puzzle (RetroArch)":
@@ -146258,6 +145950,20 @@
       tags:
         - save
     "<root>/states/**/Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2.*":
+      tags:
+        - save
+"Gimmick (RetroArch)":
+  files:
+    "<root>/saves/**/Gimmick (*":
+      tags:
+        - save
+    "<root>/saves/**/Gimmick.*":
+      tags:
+        - save
+    "<root>/states/**/Gimmick (*":
+      tags:
+        - save
+    "<root>/states/**/Gimmick.*":
       tags:
         - save
 "Gimmick Land (RetroArch)":
@@ -149438,6 +149144,20 @@
     "<root>/states/**/Golf - US Course.*":
       tags:
         - save
+"Golf Cart - Man Fight! (RetroArch)":
+  files:
+    "<root>/saves/**/Golf Cart - Man Fight! (*":
+      tags:
+        - save
+    "<root>/saves/**/Golf Cart - Man Fight!.*":
+      tags:
+        - save
+    "<root>/states/**/Golf Cart - Man Fight! (*":
+      tags:
+        - save
+    "<root>/states/**/Golf Cart - Man Fight!.*":
+      tags:
+        - save
 "Golf Cart Traffic Jam (RetroArch)":
   files:
     "<root>/saves/**/Golf Cart Traffic Jam (*":
@@ -150038,6 +149758,20 @@
       tags:
         - save
     "<root>/states/**/Goomba BreakOut.*":
+      tags:
+        - save
+"Goomba Invaders (RetroArch)":
+  files:
+    "<root>/saves/**/Goomba Invaders (*":
+      tags:
+        - save
+    "<root>/saves/**/Goomba Invaders.*":
+      tags:
+        - save
+    "<root>/states/**/Goomba Invaders (*":
+      tags:
+        - save
+    "<root>/states/**/Goomba Invaders.*":
       tags:
         - save
 "Goonies (RetroArch)":
@@ -154322,20 +154056,6 @@
       tags:
         - save
     "<root>/states/**/GunPey EX.*":
-      tags:
-        - save
-"GunSlugs (RetroArch)":
-  files:
-    "<root>/saves/**/GunSlugs (*":
-      tags:
-        - save
-    "<root>/saves/**/GunSlugs.*":
-      tags:
-        - save
-    "<root>/states/**/GunSlugs (*":
-      tags:
-        - save
-    "<root>/states/**/GunSlugs.*":
       tags:
         - save
 "GunTneR (RetroArch)":
@@ -158846,20 +158566,6 @@
     "<root>/states/**/Hardcore Pool.*":
       tags:
         - save
-"Hardwired (RetroArch)":
-  files:
-    "<root>/saves/**/Hardwired (*":
-      tags:
-        - save
-    "<root>/saves/**/Hardwired.*":
-      tags:
-        - save
-    "<root>/states/**/Hardwired (*":
-      tags:
-        - save
-    "<root>/states/**/Hardwired.*":
-      tags:
-        - save
 "Hardy Boys, The - Treasure on the Tracks (RetroArch)":
   files:
     "<root>/saves/**/Hardy Boys, The - Treasure on the Tracks (*":
@@ -159712,6 +159418,20 @@
       tags:
         - save
     "<root>/states/**/Harukaze Sentai V-Force.*":
+      tags:
+        - save
+"Haruna's Big Snow Cleanup (RetroArch)":
+  files:
+    "<root>/saves/**/Haruna's Big Snow Cleanup (*":
+      tags:
+        - save
+    "<root>/saves/**/Haruna's Big Snow Cleanup.*":
+      tags:
+        - save
+    "<root>/states/**/Haruna's Big Snow Cleanup (*":
+      tags:
+        - save
+    "<root>/states/**/Haruna's Big Snow Cleanup.*":
       tags:
         - save
 "Harusame Youbi (RetroArch)":
@@ -170004,20 +169724,6 @@
     "<root>/states/**/Human Grand Prix - The New Generation.*":
       tags:
         - save
-"Human Grand Prix 2 (RetroArch)":
-  files:
-    "<root>/saves/**/Human Grand Prix 2 (*":
-      tags:
-        - save
-    "<root>/saves/**/Human Grand Prix 2.*":
-      tags:
-        - save
-    "<root>/states/**/Human Grand Prix 2 (*":
-      tags:
-        - save
-    "<root>/states/**/Human Grand Prix 2.*":
-      tags:
-        - save
 "Human Grand Prix II (RetroArch)":
   files:
     "<root>/saves/**/Human Grand Prix II (*":
@@ -177956,6 +177662,20 @@
     "<root>/states/**/Invader DX & Boss DX.*":
       tags:
         - save
+"Invaders (RetroArch)":
+  files:
+    "<root>/saves/**/Invaders (*":
+      tags:
+        - save
+    "<root>/saves/**/Invaders.*":
+      tags:
+        - save
+    "<root>/states/**/Invaders (*":
+      tags:
+        - save
+    "<root>/states/**/Invaders.*":
+      tags:
+        - save
 "Invaders Must Die! (RetroArch)":
   files:
     "<root>/saves/**/Invaders Must Die! (*":
@@ -181050,6 +180770,20 @@
     "<root>/states/**/Jacks or Better Poker.*":
       tags:
         - save
+"Jacobs Elevator (RetroArch)":
+  files:
+    "<root>/saves/**/Jacobs Elevator (*":
+      tags:
+        - save
+    "<root>/saves/**/Jacobs Elevator.*":
+      tags:
+        - save
+    "<root>/states/**/Jacobs Elevator (*":
+      tags:
+        - save
+    "<root>/states/**/Jacobs Elevator.*":
+      tags:
+        - save
 "Jacqueline Wilson's Tracy Beaker - The Game (RetroArch)":
   files:
     "<root>/saves/**/Jacqueline Wilson's Tracy Beaker - The Game (*":
@@ -182392,6 +182126,20 @@
       tags:
         - save
     "<root>/states/**/Jaws.*":
+      tags:
+        - save
+"Jaws - Enhanced Edition (RetroArch)":
+  files:
+    "<root>/saves/**/Jaws - Enhanced Edition (*":
+      tags:
+        - save
+    "<root>/saves/**/Jaws - Enhanced Edition.*":
+      tags:
+        - save
+    "<root>/states/**/Jaws - Enhanced Edition (*":
+      tags:
+        - save
+    "<root>/states/**/Jaws - Enhanced Edition.*":
       tags:
         - save
 "Jaws - Retro Edition (RetroArch)":
@@ -187154,20 +186902,6 @@
     "<root>/states/**/John Romero's Daikatana.*":
       tags:
         - save
-"John Smith - Special Agent (RetroArch)":
-  files:
-    "<root>/saves/**/John Smith - Special Agent (*":
-      tags:
-        - save
-    "<root>/saves/**/John Smith - Special Agent.*":
-      tags:
-        - save
-    "<root>/states/**/John Smith - Special Agent (*":
-      tags:
-        - save
-    "<root>/states/**/John Smith - Special Agent.*":
-      tags:
-        - save
 "Johnny Bazooka (RetroArch)":
   files:
     "<root>/saves/**/Johnny Bazooka (*":
@@ -188666,6 +188400,20 @@
     "<root>/states/**/Jumpy.*":
       tags:
         - save
+"Jumpy Springy Duck (RetroArch)":
+  files:
+    "<root>/saves/**/Jumpy Springy Duck (*":
+      tags:
+        - save
+    "<root>/saves/**/Jumpy Springy Duck.*":
+      tags:
+        - save
+    "<root>/states/**/Jumpy Springy Duck (*":
+      tags:
+        - save
+    "<root>/states/**/Jumpy Springy Duck.*":
+      tags:
+        - save
 "Junclassic C.C. & Rope Club (RetroArch)":
   files:
     "<root>/saves/**/Junclassic C.C. & Rope Club (*":
@@ -189170,20 +188918,6 @@
     "<root>/states/**/Junjou de Karen - Meymay Kishidan - Spectral Force Seishoujo Gaiden.*":
       tags:
         - save
-"Junker's High (RetroArch)":
-  files:
-    "<root>/saves/**/Junker's High (*":
-      tags:
-        - save
-    "<root>/saves/**/Junker's High.*":
-      tags:
-        - save
-    "<root>/states/**/Junker's High (*":
-      tags:
-        - save
-    "<root>/states/**/Junker's High.*":
-      tags:
-        - save
 "Junte 4 (RetroArch)":
   files:
     "<root>/saves/**/Junte 4 (*":
@@ -189294,20 +189028,6 @@
       tags:
         - save
     "<root>/states/**/Jurassic Park - The Lost World.*":
-      tags:
-        - save
-"Jurassic Park II - The Chaos Continues (RetroArch)":
-  files:
-    "<root>/saves/**/Jurassic Park II - The Chaos Continues (*":
-      tags:
-        - save
-    "<root>/saves/**/Jurassic Park II - The Chaos Continues.*":
-      tags:
-        - save
-    "<root>/states/**/Jurassic Park II - The Chaos Continues (*":
-      tags:
-        - save
-    "<root>/states/**/Jurassic Park II - The Chaos Continues.*":
       tags:
         - save
 "Jurassic Park III - Advanced Action (RetroArch)":
@@ -192374,6 +192094,20 @@
       tags:
         - save
     "<root>/states/**/Kamikaze Saucers.*":
+      tags:
+        - save
+"Kaminari no Gotoku - Choukousoku Igo (RetroArch)":
+  files:
+    "<root>/saves/**/Kaminari no Gotoku - Choukousoku Igo (*":
+      tags:
+        - save
+    "<root>/saves/**/Kaminari no Gotoku - Choukousoku Igo.*":
+      tags:
+        - save
+    "<root>/states/**/Kaminari no Gotoku - Choukousoku Igo (*":
+      tags:
+        - save
+    "<root>/states/**/Kaminari no Gotoku - Choukousoku Igo.*":
       tags:
         - save
 "Kamisama to Koi Gokoro (RetroArch)":
@@ -200958,20 +200692,6 @@
     "<root>/states/**/Kirikou.*":
       tags:
         - save
-"Kirikou and the Wild Beasts (RetroArch)":
-  files:
-    "<root>/saves/**/Kirikou and the Wild Beasts (*":
-      tags:
-        - save
-    "<root>/saves/**/Kirikou and the Wild Beasts.*":
-      tags:
-        - save
-    "<root>/states/**/Kirikou and the Wild Beasts (*":
-      tags:
-        - save
-    "<root>/states/**/Kirikou and the Wild Beasts.*":
-      tags:
-        - save
 "Kirikou et les Betes Sauvages (RetroArch)":
   files:
     "<root>/saves/**/Kirikou et les Betes Sauvages (*":
@@ -206752,6 +206472,20 @@
       tags:
         - save
     "<root>/states/**/Kurubushi Kyoudai Gekijou Daiikkan - Mahjong-hen.*":
+      tags:
+        - save
+"Kuruka (RetroArch)":
+  files:
+    "<root>/saves/**/Kuruka (*":
+      tags:
+        - save
+    "<root>/saves/**/Kuruka.*":
+      tags:
+        - save
+    "<root>/states/**/Kuruka (*":
+      tags:
+        - save
+    "<root>/states/**/Kuruka.*":
       tags:
         - save
 "Kurukuru Kururin (RetroArch)":
@@ -215560,6 +215294,20 @@
     "<root>/states/**/Lodoss-tou Senki - Eiyuu Kishiden GB.*":
       tags:
         - save
+"Log Jammers (RetroArch)":
+  files:
+    "<root>/saves/**/Log Jammers (*":
+      tags:
+        - save
+    "<root>/saves/**/Log Jammers.*":
+      tags:
+        - save
+    "<root>/states/**/Log Jammers (*":
+      tags:
+        - save
+    "<root>/states/**/Log Jammers.*":
+      tags:
+        - save
 "Logic Cubes (RetroArch)":
   files:
     "<root>/saves/**/Logic Cubes (*":
@@ -216118,20 +215866,6 @@
       tags:
         - save
     "<root>/states/**/Looney Tunes - Duck Amuck.*":
-      tags:
-        - save
-"Looney Tunes - Hoop It Up! (RetroArch)":
-  files:
-    "<root>/saves/**/Looney Tunes - Hoop It Up! (*":
-      tags:
-        - save
-    "<root>/saves/**/Looney Tunes - Hoop It Up!.*":
-      tags:
-        - save
-    "<root>/states/**/Looney Tunes - Hoop It Up! (*":
-      tags:
-        - save
-    "<root>/states/**/Looney Tunes - Hoop It Up!.*":
       tags:
         - save
 "Looney Tunes - Road Runner (RetroArch)":
@@ -220066,20 +219800,6 @@
       tags:
         - save
     "<root>/states/**/MSR - Metropolis Street Racer.*":
-      tags:
-        - save
-"MSR Opel Challenge (RetroArch)":
-  files:
-    "<root>/saves/**/MSR Opel Challenge (*":
-      tags:
-        - save
-    "<root>/saves/**/MSR Opel Challenge.*":
-      tags:
-        - save
-    "<root>/states/**/MSR Opel Challenge (*":
-      tags:
-        - save
-    "<root>/states/**/MSR Opel Challenge.*":
       tags:
         - save
 "MSX Soccer (RetroArch)":
@@ -234810,6 +234530,20 @@
     "<root>/states/**/Mega Platform Countdown.*":
       tags:
         - save
+"Mega Pushori (RetroArch)":
+  files:
+    "<root>/saves/**/Mega Pushori (*":
+      tags:
+        - save
+    "<root>/saves/**/Mega Pushori.*":
+      tags:
+        - save
+    "<root>/states/**/Mega Pushori (*":
+      tags:
+        - save
+    "<root>/states/**/Mega Pushori.*":
+      tags:
+        - save
 "Mega Q-bert (RetroArch)":
   files:
     "<root>/saves/**/Mega Q-bert (*":
@@ -236824,6 +236558,20 @@
       tags:
         - save
     "<root>/states/**/Memory Mania Challenge.*":
+      tags:
+        - save
+"Memory in Plants (RetroArch)":
+  files:
+    "<root>/saves/**/Memory in Plants (*":
+      tags:
+        - save
+    "<root>/saves/**/Memory in Plants.*":
+      tags:
+        - save
+    "<root>/states/**/Memory in Plants (*":
+      tags:
+        - save
+    "<root>/states/**/Memory in Plants.*":
       tags:
         - save
 "Men in Black (RetroArch)":
@@ -239864,20 +239612,6 @@
     "<root>/states/**/Mickey's Dangerous Chase.*":
       tags:
         - save
-"Mickey's Jigsaw Puzzles (RetroArch)":
-  files:
-    "<root>/saves/**/Mickey's Jigsaw Puzzles (*":
-      tags:
-        - save
-    "<root>/saves/**/Mickey's Jigsaw Puzzles.*":
-      tags:
-        - save
-    "<root>/states/**/Mickey's Jigsaw Puzzles (*":
-      tags:
-        - save
-    "<root>/states/**/Mickey's Jigsaw Puzzles.*":
-      tags:
-        - save
 "Mickey's Playtown Adventure - A Day of Discovery! (RetroArch)":
   files:
     "<root>/saves/**/Mickey's Playtown Adventure - A Day of Discovery! (*":
@@ -241682,20 +241416,6 @@
       tags:
         - save
     "<root>/states/**/Minccraft.*":
-      tags:
-        - save
-"Mind Bender (RetroArch)":
-  files:
-    "<root>/saves/**/Mind Bender (*":
-      tags:
-        - save
-    "<root>/saves/**/Mind Bender.*":
-      tags:
-        - save
-    "<root>/states/**/Mind Bender (*":
-      tags:
-        - save
-    "<root>/states/**/Mind Bender.*":
       tags:
         - save
 "Mind Maze (RetroArch)":
@@ -246206,6 +245926,20 @@
     "<root>/states/**/Moetan DS.*":
       tags:
         - save
+"Mofa Baoshi (RetroArch)":
+  files:
+    "<root>/saves/**/Mofa Baoshi (*":
+      tags:
+        - save
+    "<root>/saves/**/Mofa Baoshi.*":
+      tags:
+        - save
+    "<root>/states/**/Mofa Baoshi (*":
+      tags:
+        - save
+    "<root>/states/**/Mofa Baoshi.*":
+      tags:
+        - save
 "Mofa Men Zhi Yingxiong Wudi (RetroArch)":
   files:
     "<root>/saves/**/Mofa Men Zhi Yingxiong Wudi (*":
@@ -247422,20 +247156,6 @@
       tags:
         - save
     "<root>/states/**/Mondo di Patty, Il - Il Gioco Piu' Bello.*":
-      tags:
-        - save
-"Mondu's Fight Palace (RetroArch)":
-  files:
-    "<root>/saves/**/Mondu's Fight Palace (*":
-      tags:
-        - save
-    "<root>/saves/**/Mondu's Fight Palace.*":
-      tags:
-        - save
-    "<root>/states/**/Mondu's Fight Palace (*":
-      tags:
-        - save
-    "<root>/states/**/Mondu's Fight Palace.*":
       tags:
         - save
 "Money Game II, The - Kabutochou no Kiseki (RetroArch)":
@@ -248964,20 +248684,6 @@
     "<root>/states/**/MonsterSeed.*":
       tags:
         - save
-"Monsters (RetroArch)":
-  files:
-    "<root>/saves/**/Monsters (*":
-      tags:
-        - save
-    "<root>/saves/**/Monsters.*":
-      tags:
-        - save
-    "<root>/states/**/Monsters (*":
-      tags:
-        - save
-    "<root>/states/**/Monsters.*":
-      tags:
-        - save
 "Monsters vs Aliens (RetroArch)":
   files:
     "<root>/saves/**/Monsters vs Aliens (*":
@@ -249132,18 +248838,18 @@
     "<root>/states/**/Monty on the Run - Monty no Doki Doki Dai Dassou.*":
       tags:
         - save
-"Moomin - The big Autum Party (RetroArch)":
+"Moomin - The Great Autum Party (RetroArch)":
   files:
-    "<root>/saves/**/Moomin - The big Autum Party (*":
+    "<root>/saves/**/Moomin - The Great Autum Party (*":
       tags:
         - save
-    "<root>/saves/**/Moomin - The big Autum Party.*":
+    "<root>/saves/**/Moomin - The Great Autum Party.*":
       tags:
         - save
-    "<root>/states/**/Moomin - The big Autum Party (*":
+    "<root>/states/**/Moomin - The Great Autum Party (*":
       tags:
         - save
-    "<root>/states/**/Moomin - The big Autum Party.*":
+    "<root>/states/**/Moomin - The Great Autum Party.*":
       tags:
         - save
 "Moomin no Daibouken (RetroArch)":
@@ -253330,20 +253036,6 @@
       tags:
         - save
     "<root>/states/**/MutaJuice.*":
-      tags:
-        - save
-"Mutant Chronicles - Doom Troopers (RetroArch)":
-  files:
-    "<root>/saves/**/Mutant Chronicles - Doom Troopers (*":
-      tags:
-        - save
-    "<root>/saves/**/Mutant Chronicles - Doom Troopers.*":
-      tags:
-        - save
-    "<root>/states/**/Mutant Chronicles - Doom Troopers (*":
-      tags:
-        - save
-    "<root>/states/**/Mutant Chronicles - Doom Troopers.*":
       tags:
         - save
 "Mutant League Football (RetroArch)":
@@ -258624,20 +258316,6 @@
     "<root>/states/**/NHL '94.*":
       tags:
         - save
-"NHL '97 (RetroArch)":
-  files:
-    "<root>/saves/**/NHL '97 (*":
-      tags:
-        - save
-    "<root>/saves/**/NHL '97.*":
-      tags:
-        - save
-    "<root>/states/**/NHL '97 (*":
-      tags:
-        - save
-    "<root>/states/**/NHL '97.*":
-      tags:
-        - save
 "NHL 07 (RetroArch)":
   files:
     "<root>/saves/**/NHL 07 (*":
@@ -262068,6 +261746,20 @@
     "<root>/states/**/Natural 2 - Duo.*":
       tags:
         - save
+"Nature Clan All-Stars (RetroArch)":
+  files:
+    "<root>/saves/**/Nature Clan All-Stars (*":
+      tags:
+        - save
+    "<root>/saves/**/Nature Clan All-Stars.*":
+      tags:
+        - save
+    "<root>/states/**/Nature Clan All-Stars (*":
+      tags:
+        - save
+    "<root>/states/**/Nature Clan All-Stars.*":
+      tags:
+        - save
 "Navit (RetroArch)":
   files:
     "<root>/saves/**/Navit (*":
@@ -264028,6 +263720,20 @@
     "<root>/states/**/Nervous Brickdown.*":
       tags:
         - save
+"Nesaph (RetroArch)":
+  files:
+    "<root>/saves/**/Nesaph (*":
+      tags:
+        - save
+    "<root>/saves/**/Nesaph.*":
+      tags:
+        - save
+    "<root>/states/**/Nesaph (*":
+      tags:
+        - save
+    "<root>/states/**/Nesaph.*":
+      tags:
+        - save
 "Nesglovphone (RetroArch)":
   files:
     "<root>/saves/**/Nesglovphone (*":
@@ -264110,20 +263816,6 @@
       tags:
         - save
     "<root>/states/**/Net Ghost Pipopa - Pipopa x DS@Daibouken!!!.*":
-      tags:
-        - save
-"Net Runner (RetroArch)":
-  files:
-    "<root>/saves/**/Net Runner (*":
-      tags:
-        - save
-    "<root>/saves/**/Net Runner.*":
-      tags:
-        - save
-    "<root>/states/**/Net Runner (*":
-      tags:
-        - save
-    "<root>/states/**/Net Runner.*":
       tags:
         - save
 "Net Versus - Chess (RetroArch)":
@@ -266574,6 +266266,20 @@
       tags:
         - save
     "<root>/states/**/Nigero!.*":
+      tags:
+        - save
+"Night City (RetroArch)":
+  files:
+    "<root>/saves/**/Night City (*":
+      tags:
+        - save
+    "<root>/saves/**/Night City.*":
+      tags:
+        - save
+    "<root>/states/**/Night City (*":
+      tags:
+        - save
+    "<root>/states/**/Night City.*":
       tags:
         - save
 "Night Creatures (RetroArch)":
@@ -277160,6 +276866,20 @@
     "<root>/states/**/Oshigoto-shiki Jinsei Game - Mezase Shokugyou King.*":
       tags:
         - save
+"Oshinui Tune (RetroArch)":
+  files:
+    "<root>/saves/**/Oshinui Tune (*":
+      tags:
+        - save
+    "<root>/saves/**/Oshinui Tune.*":
+      tags:
+        - save
+    "<root>/states/**/Oshinui Tune (*":
+      tags:
+        - save
+    "<root>/states/**/Oshinui Tune.*":
+      tags:
+        - save
 "Oshiri Kajiri Mushi no Rhythm Lesson DS - Kawai Ongaku Kyoushitsu Kanshuu (RetroArch)":
   files:
     "<root>/saves/**/Oshiri Kajiri Mushi no Rhythm Lesson DS - Kawai Ongaku Kyoushitsu Kanshuu (*":
@@ -278748,6 +278468,20 @@
       tags:
         - save
     "<root>/states/**/Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume.*":
+      tags:
+        - save
+"Oware (RetroArch)":
+  files:
+    "<root>/saves/**/Oware (*":
+      tags:
+        - save
+    "<root>/saves/**/Oware.*":
+      tags:
+        - save
+    "<root>/states/**/Oware (*":
+      tags:
+        - save
+    "<root>/states/**/Oware.*":
       tags:
         - save
 "Oxymore (RetroArch)":
@@ -282348,6 +282082,20 @@
     "<root>/states/**/Pacifist, The.*":
       tags:
         - save
+"Pacifister, The (RetroArch)":
+  files:
+    "<root>/saves/**/Pacifister, The (*":
+      tags:
+        - save
+    "<root>/saves/**/Pacifister, The.*":
+      tags:
+        - save
+    "<root>/states/**/Pacifister, The (*":
+      tags:
+        - save
+    "<root>/states/**/Pacifister, The.*":
+      tags:
+        - save
 "Packey (RetroArch)":
   files:
     "<root>/saves/**/Packey (*":
@@ -282766,6 +282514,20 @@
       tags:
         - save
     "<root>/states/**/Panda Chase.*":
+      tags:
+        - save
+"Panda Jump (RetroArch)":
+  files:
+    "<root>/saves/**/Panda Jump (*":
+      tags:
+        - save
+    "<root>/saves/**/Panda Jump.*":
+      tags:
+        - save
+    "<root>/states/**/Panda Jump (*":
+      tags:
+        - save
+    "<root>/states/**/Panda Jump.*":
       tags:
         - save
 "Panda Prince, The (RetroArch)":
@@ -289700,6 +289462,20 @@
     "<root>/states/**/Pierre le Chef is... Out to Lunch.*":
       tags:
         - save
+"Pierrot a la Mode (RetroArch)":
+  files:
+    "<root>/saves/**/Pierrot a la Mode (*":
+      tags:
+        - save
+    "<root>/saves/**/Pierrot a la Mode.*":
+      tags:
+        - save
+    "<root>/states/**/Pierrot a la Mode (*":
+      tags:
+        - save
+    "<root>/states/**/Pierrot a la Mode.*":
+      tags:
+        - save
 "Pig Tails (RetroArch)":
   files:
     "<root>/saves/**/Pig Tails (*":
@@ -290342,20 +290118,6 @@
       tags:
         - save
     "<root>/states/**/Pinball of the Dead, The.*":
-      tags:
-        - save
-"Pine Creek (RetroArch)":
-  files:
-    "<root>/saves/**/Pine Creek (*":
-      tags:
-        - save
-    "<root>/saves/**/Pine Creek.*":
-      tags:
-        - save
-    "<root>/states/**/Pine Creek (*":
-      tags:
-        - save
-    "<root>/states/**/Pine Creek.*":
       tags:
         - save
 "Pineapple Kid (RetroArch)":
@@ -291182,6 +290944,20 @@
       tags:
         - save
     "<root>/states/**/Pirates of the Caribbean - The Curse of the Black Pearl.*":
+      tags:
+        - save
+"Pirates of the Drowned Hypertorus (RetroArch)":
+  files:
+    "<root>/saves/**/Pirates of the Drowned Hypertorus (*":
+      tags:
+        - save
+    "<root>/saves/**/Pirates of the Drowned Hypertorus.*":
+      tags:
+        - save
+    "<root>/states/**/Pirates of the Drowned Hypertorus (*":
+      tags:
+        - save
+    "<root>/states/**/Pirates of the Drowned Hypertorus.*":
       tags:
         - save
 "Pirates! (RetroArch)":
@@ -304104,20 +303880,6 @@
     "<root>/states/**/Prince of Persia 2.*":
       tags:
         - save
-"Prince of Persia 2 - The Shadow & the Flame (RetroArch)":
-  files:
-    "<root>/saves/**/Prince of Persia 2 - The Shadow & the Flame (*":
-      tags:
-        - save
-    "<root>/saves/**/Prince of Persia 2 - The Shadow & the Flame.*":
-      tags:
-        - save
-    "<root>/states/**/Prince of Persia 2 - The Shadow & the Flame (*":
-      tags:
-        - save
-    "<root>/states/**/Prince of Persia 2 - The Shadow & the Flame.*":
-      tags:
-        - save
 "Princess Angel - Baeguiui Cheonsa (RetroArch)":
   files:
     "<root>/saves/**/Princess Angel - Baeguiui Cheonsa (*":
@@ -307758,20 +307520,6 @@
     "<root>/states/**/Proximity Shift.*":
       tags:
         - save
-"Psalm 69 (RetroArch)":
-  files:
-    "<root>/saves/**/Psalm 69 (*":
-      tags:
-        - save
-    "<root>/saves/**/Psalm 69.*":
-      tags:
-        - save
-    "<root>/states/**/Psalm 69 (*":
-      tags:
-        - save
-    "<root>/states/**/Psalm 69.*":
-      tags:
-        - save
 "Psila Ston Ourano (RetroArch)":
   files:
     "<root>/saves/**/Psila Ston Ourano (*":
@@ -308064,20 +307812,6 @@
       tags:
         - save
     "<root>/states/**/Psyvariar 2 - The Will to Fabricate.*":
-      tags:
-        - save
-"Pteropus (RetroArch)":
-  files:
-    "<root>/saves/**/Pteropus (*":
-      tags:
-        - save
-    "<root>/saves/**/Pteropus.*":
-      tags:
-        - save
-    "<root>/states/**/Pteropus (*":
-      tags:
-        - save
-    "<root>/states/**/Pteropus.*":
       tags:
         - save
 "Pub Demo 03 (RetroArch)":
@@ -310836,6 +310570,20 @@
       tags:
         - save
     "<root>/states/**/Pyramids of Ra.*":
+      tags:
+        - save
+"Pyrga (RetroArch)":
+  files:
+    "<root>/saves/**/Pyrga (*":
+      tags:
+        - save
+    "<root>/saves/**/Pyrga.*":
+      tags:
+        - save
+    "<root>/states/**/Pyrga (*":
+      tags:
+        - save
+    "<root>/states/**/Pyrga.*":
       tags:
         - save
 "Pyro la Chronoflamme (RetroArch)":
@@ -314604,20 +314352,6 @@
     "<root>/states/**/Raid on Bungeling Bay.*":
       tags:
         - save
-"Raid on TriCity (RetroArch)":
-  files:
-    "<root>/saves/**/Raid on TriCity (*":
-      tags:
-        - save
-    "<root>/saves/**/Raid on TriCity.*":
-      tags:
-        - save
-    "<root>/states/**/Raid on TriCity (*":
-      tags:
-        - save
-    "<root>/states/**/Raid on TriCity.*":
-      tags:
-        - save
 "Raid on TriCity - First Impact (RetroArch)":
   files:
     "<root>/saves/**/Raid on TriCity - First Impact (*":
@@ -317950,6 +317684,20 @@
     "<root>/states/**/Red Stone DS - Akaki Ishi ni Michibikareshi Mono-tachi.*":
       tags:
         - save
+"Red Tanks (RetroArch)":
+  files:
+    "<root>/saves/**/Red Tanks (*":
+      tags:
+        - save
+    "<root>/saves/**/Red Tanks.*":
+      tags:
+        - save
+    "<root>/states/**/Red Tanks (*":
+      tags:
+        - save
+    "<root>/states/**/Red Tanks.*":
+      tags:
+        - save
 "Red Zone (RetroArch)":
   files:
     "<root>/saves/**/Red Zone (*":
@@ -318480,6 +318228,20 @@
       tags:
         - save
     "<root>/states/**/Reknum.*":
+      tags:
+        - save
+"Reknum - Souls Adventure (RetroArch)":
+  files:
+    "<root>/saves/**/Reknum - Souls Adventure (*":
+      tags:
+        - save
+    "<root>/saves/**/Reknum - Souls Adventure.*":
+      tags:
+        - save
+    "<root>/states/**/Reknum - Souls Adventure (*":
+      tags:
+        - save
+    "<root>/states/**/Reknum - Souls Adventure.*":
       tags:
         - save
 "Reknum - The Awakening (RetroArch)":
@@ -319154,20 +318916,6 @@
     "<root>/states/**/Replicart.*":
       tags:
         - save
-"Repugnant Bounty (RetroArch)":
-  files:
-    "<root>/saves/**/Repugnant Bounty (*":
-      tags:
-        - save
-    "<root>/saves/**/Repugnant Bounty.*":
-      tags:
-        - save
-    "<root>/states/**/Repugnant Bounty (*":
-      tags:
-        - save
-    "<root>/states/**/Repugnant Bounty.*":
-      tags:
-        - save
 "Res Arcana - Diana Ray - Uranai no Meikyuu (RetroArch)":
   files:
     "<root>/saves/**/Res Arcana - Diana Ray - Uranai no Meikyuu (*":
@@ -319686,6 +319434,20 @@
     "<root>/states/**/Retro Quiz Tower.*":
       tags:
         - save
+"RetroKid (RetroArch)":
+  files:
+    "<root>/saves/**/RetroKid (*":
+      tags:
+        - save
+    "<root>/saves/**/RetroKid.*":
+      tags:
+        - save
+    "<root>/states/**/RetroKid (*":
+      tags:
+        - save
+    "<root>/states/**/RetroKid.*":
+      tags:
+        - save
 "Retrogathering 2010 (RetroArch)":
   files:
     "<root>/saves/**/Retrogathering 2010 (*":
@@ -320048,20 +319810,6 @@
       tags:
         - save
     "<root>/states/**/Revolution X.*":
-      tags:
-        - save
-"Revolution X - Music Is The Weapon (RetroArch)":
-  files:
-    "<root>/saves/**/Revolution X - Music Is The Weapon (*":
-      tags:
-        - save
-    "<root>/saves/**/Revolution X - Music Is The Weapon.*":
-      tags:
-        - save
-    "<root>/states/**/Revolution X - Music Is The Weapon (*":
-      tags:
-        - save
-    "<root>/states/**/Revolution X - Music Is The Weapon.*":
       tags:
         - save
 "Revolution X - Music Is the Weapon (RetroArch)":
@@ -321702,6 +321450,34 @@
     "<root>/states/**/River City - Super Sports Challenge.*":
       tags:
         - save
+"River City Basketball - Let's Go Dunk Heroes! (RetroArch)":
+  files:
+    "<root>/saves/**/River City Basketball - Let's Go Dunk Heroes! (*":
+      tags:
+        - save
+    "<root>/saves/**/River City Basketball - Let's Go Dunk Heroes!.*":
+      tags:
+        - save
+    "<root>/states/**/River City Basketball - Let's Go Dunk Heroes! (*":
+      tags:
+        - save
+    "<root>/states/**/River City Basketball - Let's Go Dunk Heroes!.*":
+      tags:
+        - save
+"River City Fighting Legend (RetroArch)":
+  files:
+    "<root>/saves/**/River City Fighting Legend (*":
+      tags:
+        - save
+    "<root>/saves/**/River City Fighting Legend.*":
+      tags:
+        - save
+    "<root>/states/**/River City Fighting Legend (*":
+      tags:
+        - save
+    "<root>/states/**/River City Fighting Legend.*":
+      tags:
+        - save
 "River City Girls Zero (RetroArch)":
   files:
     "<root>/saves/**/River City Girls Zero (*":
@@ -322654,6 +322430,20 @@
     "<root>/states/**/RoboCop Versus The Terminator.*":
       tags:
         - save
+"RoboZZle (RetroArch)":
+  files:
+    "<root>/saves/**/RoboZZle (*":
+      tags:
+        - save
+    "<root>/saves/**/RoboZZle.*":
+      tags:
+        - save
+    "<root>/states/**/RoboZZle (*":
+      tags:
+        - save
+    "<root>/states/**/RoboZZle.*":
+      tags:
+        - save
 "Robocalypse (RetroArch)":
   files:
     "<root>/saves/**/Robocalypse (*":
@@ -323004,20 +322794,6 @@
     "<root>/states/**/Robot Works.*":
       tags:
         - save
-"Robot Wreckage (RetroArch)":
-  files:
-    "<root>/saves/**/Robot Wreckage (*":
-      tags:
-        - save
-    "<root>/saves/**/Robot Wreckage.*":
-      tags:
-        - save
-    "<root>/states/**/Robot Wreckage (*":
-      tags:
-        - save
-    "<root>/states/**/Robot Wreckage.*":
-      tags:
-        - save
 "Robot x Robot (RetroArch)":
   files:
     "<root>/saves/**/Robot x Robot (*":
@@ -323198,20 +322974,6 @@
       tags:
         - save
     "<root>/states/**/Roc 'n Rope.*":
-      tags:
-        - save
-"Rock & Roll Racing (RetroArch)":
-  files:
-    "<root>/saves/**/Rock & Roll Racing (*":
-      tags:
-        - save
-    "<root>/saves/**/Rock & Roll Racing.*":
-      tags:
-        - save
-    "<root>/states/**/Rock & Roll Racing (*":
-      tags:
-        - save
-    "<root>/states/**/Rock & Roll Racing.*":
       tags:
         - save
 "Rock & Roll Racing 2 - Red Asphalt (RetroArch)":
@@ -325524,6 +325286,34 @@
     "<root>/states/**/Ronin Blade.*":
       tags:
         - save
+"Roniu's Tale (RetroArch)":
+  files:
+    "<root>/saves/**/Roniu's Tale (*":
+      tags:
+        - save
+    "<root>/saves/**/Roniu's Tale.*":
+      tags:
+        - save
+    "<root>/states/**/Roniu's Tale (*":
+      tags:
+        - save
+    "<root>/states/**/Roniu's Tale.*":
+      tags:
+        - save
+"Roof Hockey (RetroArch)":
+  files:
+    "<root>/saves/**/Roof Hockey (*":
+      tags:
+        - save
+    "<root>/saves/**/Roof Hockey.*":
+      tags:
+        - save
+    "<root>/states/**/Roof Hockey (*":
+      tags:
+        - save
+    "<root>/states/**/Roof Hockey.*":
+      tags:
+        - save
 "Roogoo Attack! (RetroArch)":
   files:
     "<root>/saves/**/Roogoo Attack! (*":
@@ -326110,6 +325900,20 @@
       tags:
         - save
     "<root>/states/**/Rue The Rosey Buddy 3.*":
+      tags:
+        - save
+"Rue the Rosey Buddy 2 (RetroArch)":
+  files:
+    "<root>/saves/**/Rue the Rosey Buddy 2 (*":
+      tags:
+        - save
+    "<root>/saves/**/Rue the Rosey Buddy 2.*":
+      tags:
+        - save
+    "<root>/states/**/Rue the Rosey Buddy 2 (*":
+      tags:
+        - save
+    "<root>/states/**/Rue the Rosey Buddy 2.*":
       tags:
         - save
 "Ruff & Tumble (RetroArch)":
@@ -327440,20 +327244,6 @@
       tags:
         - save
     "<root>/states/**/Ryuuteki Gosennen - Dragons of China.*":
-      tags:
-        - save
-"S World 3 (RetroArch)":
-  files:
-    "<root>/saves/**/S World 3 (*":
-      tags:
-        - save
-    "<root>/saves/**/S World 3.*":
-      tags:
-        - save
-    "<root>/states/**/S World 3 (*":
-      tags:
-        - save
-    "<root>/states/**/S World 3.*":
       tags:
         - save
 "S. M. Bros. 1988 (RetroArch)":
@@ -329842,6 +329632,20 @@
       tags:
         - save
     "<root>/states/**/Saga no Gabai Baachan DS.*":
+      tags:
+        - save
+"SagaCrystal - Quest for Pie (RetroArch)":
+  files:
+    "<root>/saves/**/SagaCrystal - Quest for Pie (*":
+      tags:
+        - save
+    "<root>/saves/**/SagaCrystal - Quest for Pie.*":
+      tags:
+        - save
+    "<root>/states/**/SagaCrystal - Quest for Pie (*":
+      tags:
+        - save
+    "<root>/states/**/SagaCrystal - Quest for Pie.*":
       tags:
         - save
 "Sagaia (RetroArch)":
@@ -334728,20 +334532,6 @@
       tags:
         - save
     "<root>/states/**/Save Our Ship.*":
-      tags:
-        - save
-"Save the Kuin (RetroArch)":
-  files:
-    "<root>/saves/**/Save the Kuin (*":
-      tags:
-        - save
-    "<root>/saves/**/Save the Kuin.*":
-      tags:
-        - save
-    "<root>/states/**/Save the Kuin (*":
-      tags:
-        - save
-    "<root>/states/**/Save the Kuin.*":
       tags:
         - save
 "Save the Turtles (RetroArch)":
@@ -341940,6 +341730,20 @@
     "<root>/states/**/Shenhua Jian Yun.*":
       tags:
         - save
+"Shenmi Jinsanjiao - The Hyrule Fantasy (RetroArch)":
+  files:
+    "<root>/saves/**/Shenmi Jinsanjiao - The Hyrule Fantasy (*":
+      tags:
+        - save
+    "<root>/saves/**/Shenmi Jinsanjiao - The Hyrule Fantasy.*":
+      tags:
+        - save
+    "<root>/states/**/Shenmi Jinsanjiao - The Hyrule Fantasy (*":
+      tags:
+        - save
+    "<root>/states/**/Shenmi Jinsanjiao - The Hyrule Fantasy.*":
+      tags:
+        - save
 "Shenmue (RetroArch)":
   files:
     "<root>/saves/**/Shenmue (*":
@@ -347610,6 +347414,20 @@
     "<root>/states/**/Shuihu III.*":
       tags:
         - save
+"Shuihu Lixianji (RetroArch)":
+  files:
+    "<root>/saves/**/Shuihu Lixianji (*":
+      tags:
+        - save
+    "<root>/saves/**/Shuihu Lixianji.*":
+      tags:
+        - save
+    "<root>/states/**/Shuihu Lixianji (*":
+      tags:
+        - save
+    "<root>/states/**/Shuihu Lixianji.*":
+      tags:
+        - save
 "Shuihu Shenshou (RetroArch)":
   files:
     "<root>/saves/**/Shuihu Shenshou (*":
@@ -352762,20 +352580,6 @@
     "<root>/states/**/Simpsons, Los - El Videojuego.*":
       tags:
         - save
-"Simpsons, The (RetroArch)":
-  files:
-    "<root>/saves/**/Simpsons, The (*":
-      tags:
-        - save
-    "<root>/saves/**/Simpsons, The.*":
-      tags:
-        - save
-    "<root>/states/**/Simpsons, The (*":
-      tags:
-        - save
-    "<root>/states/**/Simpsons, The.*":
-      tags:
-        - save
 "Simpsons, The - Bart & the Beanstalk (RetroArch)":
   files:
     "<root>/saves/**/Simpsons, The - Bart & the Beanstalk (*":
@@ -354176,20 +353980,6 @@
     "<root>/states/**/Sky Fighter.*":
       tags:
         - save
-"Sky Invader (RetroArch)":
-  files:
-    "<root>/saves/**/Sky Invader (*":
-      tags:
-        - save
-    "<root>/saves/**/Sky Invader.*":
-      tags:
-        - save
-    "<root>/states/**/Sky Invader (*":
-      tags:
-        - save
-    "<root>/states/**/Sky Invader.*":
-      tags:
-        - save
 "Sky Jaguar (RetroArch)":
   files:
     "<root>/saves/**/Sky Jaguar (*":
@@ -354552,20 +354342,6 @@
       tags:
         - save
     "<root>/states/**/Slap Happy Rhythm Busters.*":
-      tags:
-        - save
-"Slap Shoot (RetroArch)":
-  files:
-    "<root>/saves/**/Slap Shoot (*":
-      tags:
-        - save
-    "<root>/saves/**/Slap Shoot.*":
-      tags:
-        - save
-    "<root>/states/**/Slap Shoot (*":
-      tags:
-        - save
-    "<root>/states/**/Slap Shoot.*":
       tags:
         - save
 "Slap Shot (RetroArch)":
@@ -355560,20 +355336,6 @@
       tags:
         - save
     "<root>/states/**/Small Town Emo.*":
-      tags:
-        - save
-"Small World, A (RetroArch)":
-  files:
-    "<root>/saves/**/Small World, A (*":
-      tags:
-        - save
-    "<root>/saves/**/Small World, A.*":
-      tags:
-        - save
-    "<root>/states/**/Small World, A (*":
-      tags:
-        - save
-    "<root>/states/**/Small World, A.*":
       tags:
         - save
 "Smart Ball (RetroArch)":
@@ -358558,20 +358320,6 @@
     "<root>/states/**/Song of Morus - Favoured Cleric.*":
       tags:
         - save
-"Song of Morus - Gala of Battle (RetroArch)":
-  files:
-    "<root>/saves/**/Song of Morus - Gala of Battle (*":
-      tags:
-        - save
-    "<root>/saves/**/Song of Morus - Gala of Battle.*":
-      tags:
-        - save
-    "<root>/states/**/Song of Morus - Gala of Battle (*":
-      tags:
-        - save
-    "<root>/states/**/Song of Morus - Gala of Battle.*":
-      tags:
-        - save
 "Song of Morus - Ghostly Night (RetroArch)":
   files:
     "<root>/saves/**/Song of Morus - Ghostly Night (*":
@@ -360292,20 +360040,6 @@
       tags:
         - save
     "<root>/states/**/Sotsugyou for WonderSwan.*":
-      tags:
-        - save
-"Sou Setsu Ryuu II - The Revenge (RetroArch)":
-  files:
-    "<root>/saves/**/Sou Setsu Ryuu II - The Revenge (*":
-      tags:
-        - save
-    "<root>/saves/**/Sou Setsu Ryuu II - The Revenge.*":
-      tags:
-        - save
-    "<root>/states/**/Sou Setsu Ryuu II - The Revenge (*":
-      tags:
-        - save
-    "<root>/states/**/Sou Setsu Ryuu II - The Revenge.*":
       tags:
         - save
 "Sougaku Toshi Osaka (RetroArch)":
@@ -362268,18 +362002,18 @@
     "<root>/states/**/Space Mutants.*":
       tags:
         - save
-"Space Mutants II (RetroArch)":
+"Space Mutants 2 (RetroArch)":
   files:
-    "<root>/saves/**/Space Mutants II (*":
+    "<root>/saves/**/Space Mutants 2 (*":
       tags:
         - save
-    "<root>/saves/**/Space Mutants II.*":
+    "<root>/saves/**/Space Mutants 2.*":
       tags:
         - save
-    "<root>/states/**/Space Mutants II (*":
+    "<root>/states/**/Space Mutants 2 (*":
       tags:
         - save
-    "<root>/states/**/Space Mutants II.*":
+    "<root>/states/**/Space Mutants 2.*":
       tags:
         - save
 "Space Parody (RetroArch)":
@@ -364002,20 +363736,6 @@
       tags:
         - save
     "<root>/states/**/Spider-Man 3 - Movie Version.*":
-      tags:
-        - save
-"Spider-Man and the X-Men in Arcade's Revenge (RetroArch)":
-  files:
-    "<root>/saves/**/Spider-Man and the X-Men in Arcade's Revenge (*":
-      tags:
-        - save
-    "<root>/saves/**/Spider-Man and the X-Men in Arcade's Revenge.*":
-      tags:
-        - save
-    "<root>/states/**/Spider-Man and the X-Men in Arcade's Revenge (*":
-      tags:
-        - save
-    "<root>/states/**/Spider-Man and the X-Men in Arcade's Revenge.*":
       tags:
         - save
 "Spider-Man vs. The Kingpin (RetroArch)":
@@ -370150,6 +369870,20 @@
     "<root>/states/**/Story Lane Theater 5.*":
       tags:
         - save
+"Story of Eastern UnderGround (RetroArch)":
+  files:
+    "<root>/saves/**/Story of Eastern UnderGround (*":
+      tags:
+        - save
+    "<root>/saves/**/Story of Eastern UnderGround.*":
+      tags:
+        - save
+    "<root>/states/**/Story of Eastern UnderGround (*":
+      tags:
+        - save
+    "<root>/states/**/Story of Eastern UnderGround.*":
+      tags:
+        - save
 "Story of Noah's Ark, The (RetroArch)":
   files:
     "<root>/saves/**/Story of Noah's Ark, The (*":
@@ -374656,6 +374390,20 @@
       tags:
         - save
     "<root>/states/**/Super 128-in-1.*":
+      tags:
+        - save
+"Super 150-in-1 (RetroArch)":
+  files:
+    "<root>/saves/**/Super 150-in-1 (*":
+      tags:
+        - save
+    "<root>/saves/**/Super 150-in-1.*":
+      tags:
+        - save
+    "<root>/states/**/Super 150-in-1 (*":
+      tags:
+        - save
+    "<root>/states/**/Super 150-in-1.*":
       tags:
         - save
 "Super 16 in 1 (RetroArch)":
@@ -387398,20 +387146,6 @@
     "<root>/states/**/Sushi the Cat.*":
       tags:
         - save
-"Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (RetroArch)":
-  files:
-    "<root>/saves/**/Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (*":
-      tags:
-        - save
-    "<root>/saves/**/Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps.*":
-      tags:
-        - save
-    "<root>/states/**/Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (*":
-      tags:
-        - save
-    "<root>/states/**/Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps.*":
-      tags:
-        - save
 "Susume! Kaizoku - Be Pirates! (RetroArch)":
   files:
     "<root>/saves/**/Susume! Kaizoku - Be Pirates! (*":
@@ -388026,6 +387760,20 @@
       tags:
         - save
     "<root>/states/**/Sweet Season.*":
+      tags:
+        - save
+"Sweethearts (RetroArch)":
+  files:
+    "<root>/saves/**/Sweethearts (*":
+      tags:
+        - save
+    "<root>/saves/**/Sweethearts.*":
+      tags:
+        - save
+    "<root>/states/**/Sweethearts (*":
+      tags:
+        - save
+    "<root>/states/**/Sweethearts.*":
       tags:
         - save
 "Sweetsdigger (RetroArch)":
@@ -391766,20 +391514,6 @@
     "<root>/states/**/Tale of Despereaux, The.*":
       tags:
         - save
-"Tale, The - Elrond no Eiyuu (RetroArch)":
-  files:
-    "<root>/saves/**/Tale, The - Elrond no Eiyuu (*":
-      tags:
-        - save
-    "<root>/saves/**/Tale, The - Elrond no Eiyuu.*":
-      tags:
-        - save
-    "<root>/states/**/Tale, The - Elrond no Eiyuu (*":
-      tags:
-        - save
-    "<root>/states/**/Tale, The - Elrond no Eiyuu.*":
-      tags:
-        - save
 "TaleSpin (RetroArch)":
   files:
     "<root>/saves/**/TaleSpin (*":
@@ -393430,6 +393164,20 @@
       tags:
         - save
     "<root>/states/**/TankQ!.*":
+      tags:
+        - save
+"Tanker (RetroArch)":
+  files:
+    "<root>/saves/**/Tanker (*":
+      tags:
+        - save
+    "<root>/saves/**/Tanker.*":
+      tags:
+        - save
+    "<root>/states/**/Tanker (*":
+      tags:
+        - save
+    "<root>/states/**/Tanker.*":
       tags:
         - save
 "Tanks (RetroArch)":
@@ -399102,20 +398850,6 @@
     "<root>/states/**/Tetris Plus.*":
       tags:
         - save
-"Tetris Raiden (RetroArch)":
-  files:
-    "<root>/saves/**/Tetris Raiden (*":
-      tags:
-        - save
-    "<root>/saves/**/Tetris Raiden.*":
-      tags:
-        - save
-    "<root>/states/**/Tetris Raiden (*":
-      tags:
-        - save
-    "<root>/states/**/Tetris Raiden.*":
-      tags:
-        - save
 "Tetris S (RetroArch)":
   files:
     "<root>/saves/**/Tetris S (*":
@@ -399676,20 +399410,6 @@
     "<root>/states/**/There's Nothing to Do in This Town.*":
       tags:
         - save
-"Theremin (RetroArch)":
-  files:
-    "<root>/saves/**/Theremin (*":
-      tags:
-        - save
-    "<root>/saves/**/Theremin.*":
-      tags:
-        - save
-    "<root>/states/**/Theremin (*":
-      tags:
-        - save
-    "<root>/states/**/Theremin.*":
-      tags:
-        - save
 "Theresia.. (RetroArch)":
   files:
     "<root>/saves/**/Theresia.. (*":
@@ -399774,6 +399494,20 @@
     "<root>/states/**/Think - Kids - Speel Je Slim!.*":
       tags:
         - save
+"Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (RetroArch)":
+  files:
+    "<root>/saves/**/Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (*":
+      tags:
+        - save
+    "<root>/saves/**/Think - Kids - Training fuer den Kopf - Spiel Dich Schlau!.*":
+      tags:
+        - save
+    "<root>/states/**/Think - Kids - Training fuer den Kopf - Spiel Dich Schlau! (*":
+      tags:
+        - save
+    "<root>/states/**/Think - Kids - Training fuer den Kopf - Spiel Dich Schlau!.*":
+      tags:
+        - save
 "Think - Train Je Brein - Logica Trainer (RetroArch)":
   files:
     "<root>/saves/**/Think - Train Je Brein - Logica Trainer (*":
@@ -399842,20 +399576,6 @@
       tags:
         - save
     "<root>/states/**/Think - Training fuer den Kopf - Kids - Ist Doch Logisch!.*":
-      tags:
-        - save
-"Think - Training fuer den Kopf - Kids - Spiel Dich Schlau! (RetroArch)":
-  files:
-    "<root>/saves/**/Think - Training fuer den Kopf - Kids - Spiel Dich Schlau! (*":
-      tags:
-        - save
-    "<root>/saves/**/Think - Training fuer den Kopf - Kids - Spiel Dich Schlau!.*":
-      tags:
-        - save
-    "<root>/states/**/Think - Training fuer den Kopf - Kids - Spiel Dich Schlau! (*":
-      tags:
-        - save
-    "<root>/states/**/Think - Training fuer den Kopf - Kids - Spiel Dich Schlau!.*":
       tags:
         - save
 "Think - Training fuer den Kopf - Logik Trainer - Think Again (RetroArch)":
@@ -403806,6 +403526,20 @@
     "<root>/states/**/Togepi no Daibouken.*":
       tags:
         - save
+"Togyzqumalaq (RetroArch)":
+  files:
+    "<root>/saves/**/Togyzqumalaq (*":
+      tags:
+        - save
+    "<root>/saves/**/Togyzqumalaq.*":
+      tags:
+        - save
+    "<root>/states/**/Togyzqumalaq (*":
+      tags:
+        - save
+    "<root>/states/**/Togyzqumalaq.*":
+      tags:
+        - save
 "Tohoku Daigaku Karei Igaku Kenkyuujo Kawashima Ryuuta Kyouju Kanshuu - Chotto Nou o Kitaeru Otona no DSi Training - Bunkei-Hen (RetroArch)":
   files:
     "<root>/saves/**/Tohoku Daigaku Karei Igaku Kenkyuujo Kawashima Ryuuta Kyouju Kanshuu - Chotto Nou o Kitaeru Otona no DSi Training - Bunkei-Hen (*":
@@ -407108,20 +406842,6 @@
       tags:
         - save
     "<root>/states/**/Toogle.*":
-      tags:
-        - save
-"Tools of Nexaura (RetroArch)":
-  files:
-    "<root>/saves/**/Tools of Nexaura (*":
-      tags:
-        - save
-    "<root>/saves/**/Tools of Nexaura.*":
-      tags:
-        - save
-    "<root>/states/**/Tools of Nexaura (*":
-      tags:
-        - save
-    "<root>/states/**/Tools of Nexaura.*":
       tags:
         - save
 "Toon Panic (RetroArch)":
@@ -413914,6 +413634,20 @@
     "<root>/states/**/Tuji - Raid.*":
       tags:
         - save
+"Tuki & Paco Adventures (RetroArch)":
+  files:
+    "<root>/saves/**/Tuki & Paco Adventures (*":
+      tags:
+        - save
+    "<root>/saves/**/Tuki & Paco Adventures.*":
+      tags:
+        - save
+    "<root>/states/**/Tuki & Paco Adventures (*":
+      tags:
+        - save
+    "<root>/states/**/Tuki & Paco Adventures.*":
+      tags:
+        - save
 "Tumble (RetroArch)":
   files:
     "<root>/saves/**/Tumble (*":
@@ -415256,20 +414990,6 @@
       tags:
         - save
     "<root>/states/**/Twisted Edge - Snowboarding.*":
-      tags:
-        - save
-"Twisted Flipper (RetroArch)":
-  files:
-    "<root>/saves/**/Twisted Flipper (*":
-      tags:
-        - save
-    "<root>/saves/**/Twisted Flipper.*":
-      tags:
-        - save
-    "<root>/states/**/Twisted Flipper (*":
-      tags:
-        - save
-    "<root>/states/**/Twisted Flipper.*":
       tags:
         - save
 "Twisted Metal (RetroArch)":
@@ -418548,6 +418268,20 @@
     "<root>/states/**/Undou Busoku Kaishou! Punch de Diet.*":
       tags:
         - save
+"Unearthed OST (RetroArch)":
+  files:
+    "<root>/saves/**/Unearthed OST (*":
+      tags:
+        - save
+    "<root>/saves/**/Unearthed OST.*":
+      tags:
+        - save
+    "<root>/states/**/Unearthed OST (*":
+      tags:
+        - save
+    "<root>/states/**/Unearthed OST.*":
+      tags:
+        - save
 "Unearthed Zero (RetroArch)":
   files:
     "<root>/saves/**/Unearthed Zero (*":
@@ -420158,20 +419892,6 @@
     "<root>/states/**/V-Ball - Beach Volley Heroes.*":
       tags:
         - save
-"V-Beach Volleyball (RetroArch)":
-  files:
-    "<root>/saves/**/V-Beach Volleyball (*":
-      tags:
-        - save
-    "<root>/saves/**/V-Beach Volleyball.*":
-      tags:
-        - save
-    "<root>/states/**/V-Beach Volleyball (*":
-      tags:
-        - save
-    "<root>/states/**/V-Beach Volleyball.*":
-      tags:
-        - save
 "V-Jump Soukan 9-shuunen Kinen Special Disc!! (RetroArch)":
   files:
     "<root>/saves/**/V-Jump Soukan 9-shuunen Kinen Special Disc!! (*":
@@ -421052,20 +420772,6 @@
       tags:
         - save
     "<root>/states/**/Vampir - Kyuuketsuki Densetsu.*":
-      tags:
-        - save
-"Vampire (RetroArch)":
-  files:
-    "<root>/saves/**/Vampire (*":
-      tags:
-        - save
-    "<root>/saves/**/Vampire.*":
-      tags:
-        - save
-    "<root>/states/**/Vampire (*":
-      tags:
-        - save
-    "<root>/states/**/Vampire.*":
       tags:
         - save
 "Vampire - Master of Darkness (RetroArch)":
@@ -424386,20 +424092,6 @@
     "<root>/states/**/Virtual Wars.*":
       tags:
         - save
-"Virtuoso (RetroArch)":
-  files:
-    "<root>/saves/**/Virtuoso (*":
-      tags:
-        - save
-    "<root>/saves/**/Virtuoso.*":
-      tags:
-        - save
-    "<root>/states/**/Virtuoso (*":
-      tags:
-        - save
-    "<root>/states/**/Virtuoso.*":
-      tags:
-        - save
 "Virus (RetroArch)":
   files:
     "<root>/saves/**/Virus (*":
@@ -424636,20 +424328,6 @@
       tags:
         - save
     "<root>/states/**/VitaminZ Revolution.*":
-      tags:
-        - save
-"Vitamina Oukoku Monogatari (RetroArch)":
-  files:
-    "<root>/saves/**/Vitamina Oukoku Monogatari (*":
-      tags:
-        - save
-    "<root>/saves/**/Vitamina Oukoku Monogatari.*":
-      tags:
-        - save
-    "<root>/states/**/Vitamina Oukoku Monogatari (*":
-      tags:
-        - save
-    "<root>/states/**/Vitamina Oukoku Monogatari.*":
       tags:
         - save
 "Viva Football (RetroArch)":
@@ -426568,6 +426246,20 @@
       tags:
         - save
     "<root>/states/**/Waixing Zhanshi.*":
+      tags:
+        - save
+"Waixing Zhanshi 2 (RetroArch)":
+  files:
+    "<root>/saves/**/Waixing Zhanshi 2 (*":
+      tags:
+        - save
+    "<root>/saves/**/Waixing Zhanshi 2.*":
+      tags:
+        - save
+    "<root>/states/**/Waixing Zhanshi 2 (*":
+      tags:
+        - save
+    "<root>/states/**/Waixing Zhanshi 2.*":
       tags:
         - save
 "Wakabayashi Fumie no DS Kabu Lesson (RetroArch)":
@@ -429216,20 +428908,6 @@
     "<root>/states/**/Wedding Planner - Dream Weddings Guaranteed.*":
       tags:
         - save
-"Weed N'Stiff 2 - Bobson's Revenge (RetroArch)":
-  files:
-    "<root>/saves/**/Weed N'Stiff 2 - Bobson's Revenge (*":
-      tags:
-        - save
-    "<root>/saves/**/Weed N'Stiff 2 - Bobson's Revenge.*":
-      tags:
-        - save
-    "<root>/states/**/Weed N'Stiff 2 - Bobson's Revenge (*":
-      tags:
-        - save
-    "<root>/states/**/Weed N'Stiff 2 - Bobson's Revenge.*":
-      tags:
-        - save
 "Weekend Miljonairs (RetroArch)":
   files:
     "<root>/saves/**/Weekend Miljonairs (*":
@@ -431678,20 +431356,6 @@
       tags:
         - save
     "<root>/states/**/Wings of Wor.*":
-      tags:
-        - save
-"Wink and the Broken Robot (RetroArch)":
-  files:
-    "<root>/saves/**/Wink and the Broken Robot (*":
-      tags:
-        - save
-    "<root>/saves/**/Wink and the Broken Robot.*":
-      tags:
-        - save
-    "<root>/states/**/Wink and the Broken Robot (*":
-      tags:
-        - save
-    "<root>/states/**/Wink and the Broken Robot.*":
       tags:
         - save
 "Winky the Little Bear (RetroArch)":
@@ -436692,20 +436356,6 @@
     "<root>/states/**/World of Illusion Starring Mickey Mouse and Donald Duck.*":
       tags:
         - save
-"World of Illusion starring Mickey Mouse & Donald Duck (RetroArch)":
-  files:
-    "<root>/saves/**/World of Illusion starring Mickey Mouse & Donald Duck (*":
-      tags:
-        - save
-    "<root>/saves/**/World of Illusion starring Mickey Mouse & Donald Duck.*":
-      tags:
-        - save
-    "<root>/states/**/World of Illusion starring Mickey Mouse & Donald Duck (*":
-      tags:
-        - save
-    "<root>/states/**/World of Illusion starring Mickey Mouse & Donald Duck.*":
-      tags:
-        - save
 "World of Philosoma, The (RetroArch)":
   files:
     "<root>/saves/**/World of Philosoma, The (*":
@@ -437124,20 +436774,6 @@
       tags:
         - save
     "<root>/states/**/Wrestleball.*":
-      tags:
-        - save
-"Wrestling Madness (RetroArch)":
-  files:
-    "<root>/saves/**/Wrestling Madness (*":
-      tags:
-        - save
-    "<root>/saves/**/Wrestling Madness.*":
-      tags:
-        - save
-    "<root>/states/**/Wrestling Madness (*":
-      tags:
-        - save
-    "<root>/states/**/Wrestling Madness.*":
       tags:
         - save
 "Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - Zenjo vs. JWP (RetroArch)":
@@ -437754,20 +437390,6 @@
       tags:
         - save
     "<root>/states/**/X-Men - Destiny.*":
-      tags:
-        - save
-"X-Men - GameMaster's Legacy (RetroArch)":
-  files:
-    "<root>/saves/**/X-Men - GameMaster's Legacy (*":
-      tags:
-        - save
-    "<root>/saves/**/X-Men - GameMaster's Legacy.*":
-      tags:
-        - save
-    "<root>/states/**/X-Men - GameMaster's Legacy (*":
-      tags:
-        - save
-    "<root>/states/**/X-Men - GameMaster's Legacy.*":
       tags:
         - save
 "X-Men - Gamemaster's Legacy (RetroArch)":
@@ -439546,20 +439168,6 @@
       tags:
         - save
     "<root>/states/**/Xump - The Final Run.*":
-      tags:
-        - save
-"Xump 2 (RetroArch)":
-  files:
-    "<root>/saves/**/Xump 2 (*":
-      tags:
-        - save
-    "<root>/saves/**/Xump 2.*":
-      tags:
-        - save
-    "<root>/states/**/Xump 2 (*":
-      tags:
-        - save
-    "<root>/states/**/Xump 2.*":
       tags:
         - save
 "Xump 2 - Back to Space (RetroArch)":
@@ -446142,20 +445750,6 @@
     "<root>/states/**/Zaxxon 3-D.*":
       tags:
         - save
-"Zaxxon's Motherbase (RetroArch)":
-  files:
-    "<root>/saves/**/Zaxxon's Motherbase (*":
-      tags:
-        - save
-    "<root>/saves/**/Zaxxon's Motherbase.*":
-      tags:
-        - save
-    "<root>/states/**/Zaxxon's Motherbase (*":
-      tags:
-        - save
-    "<root>/states/**/Zaxxon's Motherbase.*":
-      tags:
-        - save
 "Zaxxon's Motherbase 2000 (RetroArch)":
   files:
     "<root>/saves/**/Zaxxon's Motherbase 2000 (*":
@@ -446168,20 +445762,6 @@
       tags:
         - save
     "<root>/states/**/Zaxxon's Motherbase 2000.*":
-      tags:
-        - save
-"Zdey The Game (RetroArch)":
-  files:
-    "<root>/saves/**/Zdey The Game (*":
-      tags:
-        - save
-    "<root>/saves/**/Zdey The Game.*":
-      tags:
-        - save
-    "<root>/states/**/Zdey The Game (*":
-      tags:
-        - save
-    "<root>/states/**/Zdey The Game.*":
       tags:
         - save
 "Zebco Fishing! (RetroArch)":
@@ -447204,6 +446784,20 @@
       tags:
         - save
     "<root>/states/**/Zero Pilot - Gin'yoku no Senshi.*":
+      tags:
+        - save
+"Zero Racers (RetroArch)":
+  files:
+    "<root>/saves/**/Zero Racers (*":
+      tags:
+        - save
+    "<root>/saves/**/Zero Racers.*":
+      tags:
+        - save
+    "<root>/states/**/Zero Racers (*":
+      tags:
+        - save
+    "<root>/states/**/Zero Racers.*":
       tags:
         - save
 "Zero Tolerance (RetroArch)":
@@ -450732,6 +450326,20 @@
       tags:
         - save
     "<root>/states/**/seaQuest DSV.*":
+      tags:
+        - save
+"signOS (RetroArch)":
+  files:
+    "<root>/saves/**/signOS (*":
+      tags:
+        - save
+    "<root>/saves/**/signOS.*":
+      tags:
+        - save
+    "<root>/states/**/signOS (*":
+      tags:
+        - save
+    "<root>/states/**/signOS.*":
       tags:
         - save
 "synthcart (RetroArch)":

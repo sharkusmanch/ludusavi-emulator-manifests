@@ -3264,6 +3264,14 @@
     "<root>/savedata/*/CUSA58450":
       tags:
         - save
+"A Game About Breaking A Cube (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60168":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60168":
+      tags:
+        - save
 "A Game About Feeding A Black Hole (PS4)":
   files:
     "<root>/home/*/savedata/CUSA58160":
@@ -19146,6 +19154,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA53679":
+      tags:
+        - save
+"Arcade Archives FIGHTING GOLF (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59792":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59792":
       tags:
         - save
 "Arcade Archives FIGHTING HAWK (PS4)":
@@ -35548,6 +35564,32 @@
       tags:
         - save
     "<root>/savedata/*/CUSA25588":
+      tags:
+        - save
+"Batya in the Building: 10 Years Later (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59958":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59959":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59960":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59961":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59958":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59959":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59960":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59961":
       tags:
         - save
 "Bayonetta (PS4)":
@@ -57784,6 +57826,20 @@
     "<root>/savedata/*/CUSA54201":
       tags:
         - save
+"Chicken Terror (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59649":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60142":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59649":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60142":
+      tags:
+        - save
 "Chickens On The Road (PS4)":
   files:
     "<root>/home/*/savedata/CUSA25498":
@@ -75498,6 +75554,14 @@
     "<root>/savedata/*/CUSA53137":
       tags:
         - save
+"Dead of Darkness 2 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60153":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60153":
+      tags:
+        - save
 "DeadAge (PS4)":
   files:
     "<root>/home/*/savedata/CUSA08349":
@@ -79212,6 +79276,14 @@
     "<root>/savedata/*/CUSA55634":
       tags:
         - save
+"Devil & Angel Sky Battle (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60131":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60131":
+      tags:
+        - save
 "Devil Engine (PS4)":
   files:
     "<root>/home/*/savedata/CUSA35941":
@@ -80293,6 +80365,9 @@
     "<root>/home/*/savedata/CUSA50054":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA57248":
+      tags:
+        - save
     "<root>/savedata/*/CUSA50051":
       tags:
         - save
@@ -80300,6 +80375,9 @@
       tags:
         - save
     "<root>/savedata/*/CUSA50054":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA57248":
       tags:
         - save
 "Digital Domain's Monkey King (PS4)":
@@ -82008,6 +82086,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA43594":
+      tags:
+        - save
+"Do Not Feed The Monkeys 2099 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA46623":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA46623":
       tags:
         - save
 "Do Not Feed the Monkeys (PS4)":
@@ -92282,6 +92368,14 @@
     "<root>/savedata/*/CUSA00715":
       tags:
         - save
+"Entwined: Strings of Deception (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA49737":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA49737":
+      tags:
+        - save
 "Envasion (PS4)":
   files:
     "<root>/home/*/savedata/CUSA43563":
@@ -94326,6 +94420,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA50138":
+      tags:
+        - save
+"Ex-Master, Zombie (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60111":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60111":
       tags:
         - save
 "ExZeus: The Complete Collection (PS4)":
@@ -123558,6 +123660,32 @@
     "<root>/savedata/*/CUSA11746":
       tags:
         - save
+"Hail to the Rainbow (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58644":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA58645":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA58646":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA58647":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58644":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58645":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58646":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58647":
+      tags:
+        - save
 "HailStröm (PS4)":
   files:
     "<root>/home/*/savedata/CUSA33720":
@@ -125136,6 +125264,20 @@
       tags:
         - save
     "<root>/savedata/*/CUSA33647":
+      tags:
+        - save
+"Haunted Paws (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59628":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60091":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59628":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60091":
       tags:
         - save
 "Hauntii (PS4)":
@@ -127986,7 +128128,7 @@
     "<root>/savedata/*/CUSA29918":
       tags:
         - save
-"Highway Blossoms: Gold Rush Edition (PS4)":
+"Highway Blossoms (PS4)":
   files:
     "<root>/home/*/savedata/CUSA58727":
       tags:
@@ -132634,6 +132776,20 @@
     "<root>/savedata/*/CUSA47141":
       tags:
         - save
+"I Want to Play the Villain! (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59870":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59871":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59870":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59871":
+      tags:
+        - save
 "I Was a Teenage Exocolonist (PS4)":
   files:
     "<root>/home/*/savedata/CUSA34601":
@@ -135232,6 +135388,14 @@
     "<root>/savedata/*/CUSA26666":
       tags:
         - save
+"Infinitevania (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60159":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60159":
+      tags:
+        - save
 "Infinity (PS4)":
   files:
     "<root>/home/*/savedata/CUSA00376":
@@ -135750,6 +135914,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA35610":
+      tags:
+        - save
+"Innocent Memory (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60060":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60060":
       tags:
         - save
 "Insane Robots (PS4)":
@@ -146910,6 +147082,32 @@
     "<root>/savedata/*/CUSA31243":
       tags:
         - save
+"LIGHT:Black Cat & Amnesia Girl (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA52604":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA52605":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA52606":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA52607":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA52604":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA52605":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA52606":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA52607":
+      tags:
+        - save
 "LIGHTFIELD (PS4)":
   files:
     "<root>/home/*/savedata/CUSA07628":
@@ -154312,6 +154510,32 @@
       tags:
         - save
     "<root>/savedata/*/CUSA24620":
+      tags:
+        - save
+"Love Love Mystrery Club (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59454":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59455":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59461":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59462":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59454":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59455":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59461":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59462":
       tags:
         - save
 "Love Too Easily (PS4)":
@@ -192856,6 +193080,14 @@
     "<root>/savedata/*/CUSA54335":
       tags:
         - save
+"Penguin Lifter (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60177":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60177":
+      tags:
+        - save
 "Penguin Wars (PS4)":
   files:
     "<root>/home/*/savedata/CUSA11292":
@@ -230312,6 +230544,14 @@
     "<root>/savedata/*/CUSA12922":
       tags:
         - save
+"Seahorse Soap Patrol (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60022":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60022":
+      tags:
+        - save
 "Season (PS4)":
   files:
     "<root>/home/*/savedata/CUSA25109":
@@ -232724,6 +232964,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA57518":
+      tags:
+        - save
+"Shardwatch Dominion (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60113":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60113":
       tags:
         - save
 "Shark Adventure (PS4)":
@@ -242634,6 +242882,14 @@
     "<root>/savedata/*/CUSA32349":
       tags:
         - save
+"Space Rock Breaker (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59790":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59790":
+      tags:
+        - save
 "Space Roguelike Adventure (PS4)":
   files:
     "<root>/home/*/savedata/CUSA35362":
@@ -243936,16 +244192,10 @@
     "<root>/home/*/savedata/CUSA46179":
       tags:
         - save
-    "<root>/home/*/savedata/CUSA57328":
-      tags:
-        - save
     "<root>/savedata/*/CUSA46178":
       tags:
         - save
     "<root>/savedata/*/CUSA46179":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA57328":
       tags:
         - save
 "Spice and Wolf VR (PS4)":
@@ -259100,6 +259350,9 @@
         - save
 "Tales of Eternia Remastered (PS4)":
   files:
+    "<root>/home/*/savedata/CUSA53980":
+      tags:
+        - save
     "<root>/home/*/savedata/CUSA53981":
       tags:
         - save
@@ -259109,7 +259362,7 @@
     "<root>/home/*/savedata/CUSA53983":
       tags:
         - save
-    "<root>/home/*/savedata/CUSA57248":
+    "<root>/savedata/*/CUSA53980":
       tags:
         - save
     "<root>/savedata/*/CUSA53981":
@@ -259119,9 +259372,6 @@
       tags:
         - save
     "<root>/savedata/*/CUSA53983":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA57248":
       tags:
         - save
 "Tales of Formentera (PS4)":
@@ -274294,6 +274544,14 @@
     "<root>/savedata/*/CUSA30645":
       tags:
         - save
+"The Night of the Exorcism (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59382":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59382":
+      tags:
+        - save
 "The Night of the Rabbit (PS4)":
   files:
     "<root>/home/*/savedata/CUSA35773":
@@ -279734,6 +279992,14 @@
     "<root>/savedata/*/CUSA02494":
       tags:
         - save
+"Thief's Shelter (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA30090":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA30090":
+      tags:
+        - save
 "Thief: The Dark Project Remastered (PS4)":
   files:
     "<root>/home/*/savedata/CUSA59538":
@@ -281655,7 +281921,13 @@
     "<root>/home/*/savedata/CUSA54685":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60176":
+      tags:
+        - save
     "<root>/savedata/*/CUSA54685":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60176":
       tags:
         - save
 "Titanic Survival Simulator (PS4)":
@@ -317474,6 +317746,14 @@
     "<root>/savedata/*/CUSA27283":
       tags:
         - save
+"スピカアドベンチャー (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA57328":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA57328":
+      tags:
+        - save
 "スプラッシャー (PS4)":
   files:
     "<root>/home/*/savedata/CUSA08430":
@@ -317970,14 +318250,6 @@
       tags:
         - save
     "<root>/savedata/*/CUSA29250":
-      tags:
-        - save
-"テイルズ オブ エターニア リマスター PS4 & PS5 (PS4)":
-  files:
-    "<root>/home/*/savedata/CUSA53980":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA53980":
       tags:
         - save
 "テイルズ オブ ゼスティリア (PS4)":
