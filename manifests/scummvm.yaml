@@ -7989,6 +7989,14 @@
     "<root>/clockworklabyrinth.*":
       tags:
         - save
+"The Colony (ScummVM)":
+  files:
+    "<root>/colony-*.*":
+      tags:
+        - save
+    "<root>/colony.*":
+      tags:
+        - save
 "The Crimson Crown: Further Adventures in Transylvania (ScummVM)":
   files:
     "<root>/crimsoncrown-*.*":

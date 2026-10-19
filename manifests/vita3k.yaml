@@ -632,6 +632,9 @@
     "<root>/ux0/user/*/savedata/PCSE00472":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01227":
+      tags:
+        - save
 "Antiquia Lost (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01229":
@@ -988,6 +991,9 @@
     "<root>/ux0/user/*/savedata/PCSE00302":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00953":
+      tags:
+        - save
 "BLACK WOLVES SAGA -Weiβ und Schwarz- (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00935":
@@ -1084,6 +1090,9 @@
     "<root>/ux0/user/*/savedata/PCSB01406":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01441":
+      tags:
+        - save
 "Banbutsu Otome * Dungeons (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01123":
@@ -1100,6 +1109,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00930":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01024":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG01006":
@@ -1324,6 +1336,9 @@
     "<root>/ux0/user/*/savedata/PCSE01262":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01315":
+      tags:
+        - save
 "Bloxiq (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00663":
@@ -1494,6 +1509,11 @@
 "Bunny Must Die! Chelsea and the 7devils (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01068":
+      tags:
+        - save
+"Bunny Must Die! Chelsea and the 7devils. (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01248":
       tags:
         - save
 "Bunny Must Die! Chelsea and the 7devils. Demo (Vita)":
@@ -2116,6 +2136,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00716":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00888":
       tags:
         - save
 "Cybarian: The Time Traveling Warrior (Vita)":
@@ -10341,6 +10364,11 @@
     "<root>/ux0/user/*/savedata/PCSE01128":
       tags:
         - save
+"Sayonara Umihara Kawase ++ (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01199":
+      tags:
+        - save
 "Sayonara UmiharaKawase + (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00782":
@@ -11512,6 +11540,9 @@
     "<root>/ux0/user/*/savedata/PCSE01146":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01233":
+      tags:
+        - save
 "Super Life of Pixel (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01152":
@@ -12059,6 +12090,9 @@
 "Task Force Kampas (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01468":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10266":
       tags:
         - save
 "Tayutama２ -you're the only one- (Vita)":

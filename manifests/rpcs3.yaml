@@ -82920,6 +82920,9 @@
     "<root>/dev_hdd0/home/*/savedata/NPEB01133*":
       tags:
         - save
+    "<root>/dev_hdd0/home/*/savedata/NPUB30725*":
+      tags:
+        - save
     "<root>/dev_hdd0/savedata/vmc/BLES00927_mc?.VM1":
       tags:
         - save
@@ -82932,6 +82935,9 @@
     "<root>/dev_hdd0/savedata/vmc/NPEB01133_mc?.VM1":
       tags:
         - save
+    "<root>/dev_hdd0/savedata/vmc/NPUB30725_mc?.VM1":
+      tags:
+        - save
     "<root>/savestates/BLES00927":
       tags:
         - save
@@ -82942,6 +82948,9 @@
       tags:
         - save
     "<root>/savestates/NPEB01133":
+      tags:
+        - save
+    "<root>/savestates/NPUB30725":
       tags:
         - save
 "Vanquish Challenge Mode Demo (PS3)":

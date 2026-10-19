@@ -14054,20 +14054,6 @@
     "<root>/5553087F/profile":
       tags:
         - save
-"Family Game Night (Xbox 360)":
-  files:
-    "<root>/*/58410981/00000001":
-      tags:
-        - save
-    "<root>/*/58410981/Headers/00000001":
-      tags:
-        - save
-    "<root>/58410981/00000001":
-      tags:
-        - save
-    "<root>/58410981/profile":
-      tags:
-        - save
 "Family Game Night 4: The Game Show (Xbox 360)":
   files:
     "<root>/*/4541097C/00000001":
@@ -17764,10 +17750,22 @@
     "<root>/*/454108DD/Headers/00000001":
       tags:
         - save
+    "<root>/*/58410981/00000001":
+      tags:
+        - save
+    "<root>/*/58410981/Headers/00000001":
+      tags:
+        - save
     "<root>/454108DD/00000001":
       tags:
         - save
     "<root>/454108DD/profile":
+      tags:
+        - save
+    "<root>/58410981/00000001":
+      tags:
+        - save
+    "<root>/58410981/profile":
       tags:
         - save
 "Hasbro Family Game Night -- Fun Pack (Xbox 360)":
@@ -21916,7 +21914,7 @@
     "<root>/584108FB/profile":
       tags:
         - save
-"Lost Odyssey (Disc 1) (Xbox 360)":
+"Lost Odyssey (Xbox 360)":
   files:
     "<root>/*/4D5307FA/00000001":
       tags:
