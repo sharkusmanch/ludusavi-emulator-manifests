@@ -2462,6 +2462,11 @@
     "<root>/ux0/user/*/savedata/PCSH00204":
       tags:
         - save
+"Danganronpa Original Soundtrack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00082":
+      tags:
+        - save
 "Danganronpa V3: Killing Harmony (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01127":
@@ -2900,6 +2905,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00281":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00436":
       tags:
         - save
 "Doctor Who: The Eternity Clock (Vita)":
@@ -4412,6 +4420,11 @@
     "<root>/ux0/user/*/savedata/PCSE01283":
       tags:
         - save
+"GaiamTV (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00329":
+      tags:
+        - save
 "Gakuen Club Himitsu no Nightclub (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01065":
@@ -5201,6 +5214,9 @@
     "<root>/ux0/user/*/savedata/PCSB01391":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01427":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH10186":
       tags:
         - save
@@ -5296,6 +5312,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00249":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00601":
       tags:
         - save
 "Hotline Miami 2: Wrong Number (Vita)":
@@ -5931,7 +5950,7 @@
     "<root>/ux0/user/*/savedata/PCSG00172":
       tags:
         - save
-"Kaku-San-Sei Million Arthur (Vita)":
+"Kakusansei Million Arthur (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00182":
       tags:
@@ -6742,6 +6761,9 @@
     "<root>/ux0/user/*/savedata/PCSB01295":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01332":
+      tags:
+        - save
 "Lone Survivor (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00361":
@@ -6846,6 +6868,16 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00130":
+      tags:
+        - save
+"MALICIOUS REBIRTH ORIGINAL SOUNDTRACK - 再誕編 - (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG80005":
+      tags:
+        - save
+"MALICIOUS REBIRTH ORIGINAL SOUNDTRACK - 討伐編 - (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG80006":
       tags:
         - save
 "MANGA-KA-KERU (Vita)":
@@ -7768,6 +7800,11 @@
     "<root>/ux0/user/*/savedata/PCSE00459":
       tags:
         - save
+"MyNBA2K15 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00554":
+      tags:
+        - save
 "Mystery Chronicle: One Way Heroics (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00958":
@@ -7957,6 +7994,9 @@
         - save
 "Network Media Player (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSC80017":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSD00089":
       tags:
         - save
@@ -8912,6 +8952,11 @@
     "<root>/ux0/user/*/savedata/PCSF00718":
       tags:
         - save
+"Photo Kano Kiss AR (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00160":
+      tags:
+        - save
 "Photo Kano Kiss DEMO (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90057":
@@ -9359,6 +9404,11 @@
 "RIDGE RACER 2011 E3 INTERACTIVE DEMO (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00132":
+      tags:
+        - save
+"ROBOTICS;NOTES ELITE AR (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG80010":
       tags:
         - save
 "ROOT∞REXX (Vita)":
@@ -14292,11 +14342,6 @@
     "<root>/ux0/user/*/savedata/PCSG00965":
       tags:
         - save
-"naspocket (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSC80017":
-      tags:
-        - save
 "niconico (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00074":
@@ -14377,5 +14422,15 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH00289":
+      tags:
+        - save
+"チェルシーさんは7の魔神をブッ殺さねばならない。 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00837":
+      tags:
+        - save
+"大正メビウスライン Vitable 体験版 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90197":
       tags:
         - save
