@@ -1219,6 +1219,11 @@
     "<root>/ux0/user/*/savedata/PCSB00648":
       tags:
         - save
+"Best Of Arcade Games DEMO (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00453":
+      tags:
+        - save
 "Best of Arcade Games Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00377":
@@ -2370,6 +2375,9 @@
     "<root>/ux0/user/*/savedata/PCSG00290":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00395":
+      tags:
+        - save
 "Daisenryaku Exceed II (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00372":
@@ -2513,11 +2521,6 @@
 "Dark Quest 5 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01200":
-      tags:
-        - save
-"Dark Quest ～Alliance～ (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSG00017":
       tags:
         - save
 "Darkest Dungeon (Vita)":
@@ -3216,6 +3219,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00008":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00017":
       tags:
         - save
 "Dungeon Punks (Vita)":
@@ -5187,6 +5193,11 @@
 "Hideboh: Tap Dance Hero (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00388":
+      tags:
+        - save
+"Hideboh: Tap Dance Hero Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90142":
       tags:
         - save
 "High School DxD: New Fight (Vita)":
@@ -9305,6 +9316,11 @@
     "<root>/ux0/user/*/savedata/PCSG00904":
       tags:
         - save
+"Puramai Wars V Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90233":
+      tags:
+        - save
 "Pure Chess (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00080":
@@ -11945,6 +11961,11 @@
     "<root>/ux0/user/*/savedata/PCSG01048":
       tags:
         - save
+"TORO's Friend Network (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSA00112":
+      tags:
+        - save
 "TORO's Friendly Network (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSD00037":
@@ -12803,11 +12824,6 @@
     "<root>/ux0/user/*/savedata/PCSG90230":
       tags:
         - save
-"Toro's Friend Network (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSA00112":
-      tags:
-        - save
 "TorqueL (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00671":
@@ -13231,6 +13247,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01116":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01176":
       tags:
         - save
 "Unepic (Vita)":
@@ -14427,6 +14446,11 @@
 "チェルシーさんは7の魔神をブッ殺さねばならない。 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00837":
+      tags:
+        - save
+"信長の野望･天道 with パワーアップキット (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00112":
       tags:
         - save
 "大正メビウスライン Vitable 体験版 (Vita)":

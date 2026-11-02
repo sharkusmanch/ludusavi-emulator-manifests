@@ -2111,6 +2111,54 @@
     "<root>/noir.*":
       tags:
         - save
+"Disney's Animated Storybook: 101 Dalmatians (ScummVM)":
+  files:
+    "<root>/101dalmatians-*.*":
+      tags:
+        - save
+    "<root>/101dalmatians.*":
+      tags:
+        - save
+"Disney's Animated Storybook: Hercules (ScummVM)":
+  files:
+    "<root>/herculesasb-*.*":
+      tags:
+        - save
+    "<root>/herculesasb.*":
+      tags:
+        - save
+"Disney's Animated Storybook: Pocahontas (ScummVM)":
+  files:
+    "<root>/pocahontas-*.*":
+      tags:
+        - save
+    "<root>/pocahontas.*":
+      tags:
+        - save
+"Disney's Animated Storybook: The Hunchback of Notre Dame (ScummVM)":
+  files:
+    "<root>/notredame-*.*":
+      tags:
+        - save
+    "<root>/notredame.*":
+      tags:
+        - save
+"Disney's Animated Storybook: The Lion King (ScummVM)":
+  files:
+    "<root>/lionking-*.*":
+      tags:
+        - save
+    "<root>/lionking.*":
+      tags:
+        - save
+"Disney's Animated Storybook: Winnie the Pooh and the Honey Tree (ScummVM)":
+  files:
+    "<root>/honeytree-*.*":
+      tags:
+        - save
+    "<root>/honeytree.*":
+      tags:
+        - save
 "Doc Apocalypse (ScummVM)":
   files:
     "<root>/docapocalypse-*.*":
@@ -2756,6 +2804,14 @@
       tags:
         - save
     "<root>/foxtail.*":
+      tags:
+        - save
+"Fractured Fairy Tales: The Frog Prince (ScummVM)":
+  files:
+    "<root>/frogprince-*.*":
+      tags:
+        - save
+    "<root>/frogprince.*":
       tags:
         - save
 "Framed (ScummVM)":
@@ -3650,6 +3706,14 @@
     "<root>/ioawn4t.*":
       tags:
         - save
+"If You Give a Mouse a Cookie Interactive Storybook (ScummVM)":
+  files:
+    "<root>/mousecookie-*.*":
+      tags:
+        - save
+    "<root>/mousecookie.*":
+      tags:
+        - save
 "Igor: Objective Uikokahonia (ScummVM)":
   files:
     "<root>/igor-*.*":
@@ -3840,6 +3904,14 @@
       tags:
         - save
     "<root>/jamesperis.*":
+      tags:
+        - save
+"Jan Pieńkowski Haunted House (ScummVM)":
+  files:
+    "<root>/janpienkowski-*.*":
+      tags:
+        - save
+    "<root>/janpienkowski.*":
       tags:
         - save
 "Japan Art Today 07: Takashi Murakami - A Romantic Evening (ScummVM)":
@@ -4126,6 +4198,14 @@
       tags:
         - save
     "<root>/leyendabiblio.*":
+      tags:
+        - save
+"Lamb Chop Loves Music (ScummVM)":
+  files:
+    "<root>/lambchop-*.*":
+      tags:
+        - save
+    "<root>/lambchop.*":
       tags:
         - save
 "Lamplight City (ScummVM)":
@@ -4583,6 +4663,14 @@
       tags:
         - save
     "<root>/maggiesfa.*":
+      tags:
+        - save
+"Magic Fairy Tales: Barbie as Rapunzel (ScummVM)":
+  files:
+    "<root>/barbieasrapunzel-*.*":
+      tags:
+        - save
+    "<root>/barbieasrapunzel.*":
       tags:
         - save
 "Magic Tales (ScummVM)":
@@ -6328,6 +6416,14 @@
       tags:
         - save
     "<root>/puzzlebots.*":
+      tags:
+        - save
+"Puzzle Castle (ScummVM)":
+  files:
+    "<root>/puzzlecastle-*.*":
+      tags:
+        - save
+    "<root>/puzzlecastle.*":
       tags:
         - save
 "Qajary Cat (ScummVM)":
