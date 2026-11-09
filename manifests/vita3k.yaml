@@ -1276,11 +1276,6 @@
     "<root>/ux0/user/*/savedata/PCSG90096":
       tags:
         - save
-"Bitter smile. (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSG00242":
-      tags:
-        - save
 "Blast 'Em Bunnies (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00420":
@@ -3833,12 +3828,18 @@
     "<root>/ux0/user/*/savedata/PCSE00419":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00442":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH00117":
       tags:
         - save
 "Farming Simulator 16 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00843":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00768":
       tags:
         - save
 "Farming Simulator 18 (Vita)":
@@ -4922,14 +4923,12 @@
     "<root>/ux0/user/*/savedata/PCSE00973":
       tags:
         - save
-"Hakuoki Edo Blossoms (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSE01001":
-      tags:
-        - save
 "Hakuoki: Edo Blossoms (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01056":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01001":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00811":
@@ -7038,14 +7037,12 @@
     "<root>/ux0/user/*/savedata/PCSB00182":
       tags:
         - save
-"MUSYNC (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSH00263":
-      tags:
-        - save
 "MUSYNX (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01184":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00263":
       tags:
         - save
 "MXGP - The Official Motocross Videogame (Vita)":
@@ -9261,6 +9258,9 @@
         - save
 "Proteus (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00358":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00311":
       tags:
         - save
@@ -11488,6 +11488,9 @@
         - save
 "Strike Solitaire 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00674":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00748":
       tags:
         - save
@@ -12226,6 +12229,9 @@
         - save
 "Tennis in the Face (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00398":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00312":
       tags:
         - save
@@ -14288,6 +14294,11 @@
     "<root>/ux0/user/*/savedata/PCSB00941":
       tags:
         - save
+"bitter smile. (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00242":
+      tags:
+        - save
 "end sleep (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00963":
@@ -14304,6 +14315,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00095":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00303":
       tags:
         - save
 "flOw (Vita)":

@@ -31246,20 +31246,6 @@
     "<root>/5A4907D1/profile":
       tags:
         - save
-"RAW (Xbox 360)":
-  files:
-    "<root>/*/584111EE/00000001":
-      tags:
-        - save
-    "<root>/*/584111EE/Headers/00000001":
-      tags:
-        - save
-    "<root>/584111EE/00000001":
-      tags:
-        - save
-    "<root>/584111EE/profile":
-      tags:
-        - save
 "RAYSTORM HD (Xbox 360)":
   files:
     "<root>/*/584109BC/00000001":
@@ -31802,6 +31788,20 @@
       tags:
         - save
     "<root>/584111E0/profile":
+      tags:
+        - save
+"Realms of Ancient Wars (Xbox 360)":
+  files:
+    "<root>/*/584111EE/00000001":
+      tags:
+        - save
+    "<root>/*/584111EE/Headers/00000001":
+      tags:
+        - save
+    "<root>/584111EE/00000001":
+      tags:
+        - save
+    "<root>/584111EE/profile":
       tags:
         - save
 "Record of Agarest War (Xbox 360)":

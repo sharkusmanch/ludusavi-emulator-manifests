@@ -88,10 +88,22 @@
     "<root>/home/*/savedata/CUSA00856":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60364":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60365":
+      tags:
+        - save
     "<root>/savedata/*/CUSA00849":
       tags:
         - save
     "<root>/savedata/*/CUSA00856":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60364":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60365":
       tags:
         - save
 "#SinucaAttack (PS4)":
@@ -19124,6 +19136,14 @@
     "<root>/savedata/*/CUSA02659":
       tags:
         - save
+"Arcade Archives EXZISUS (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59725":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59725":
+      tags:
+        - save
 "Arcade Archives Exvania (PS4)":
   files:
     "<root>/home/*/savedata/CUSA46938":
@@ -35746,6 +35766,32 @@
     "<root>/savedata/*/CUSA44321":
       tags:
         - save
+"Beacon Keeper (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60223":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60224":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60225":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60226":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60223":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60224":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60225":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60226":
+      tags:
+        - save
 "Beaked Buccaneer (PS4)":
   files:
     "<root>/home/*/savedata/CUSA56638":
@@ -43656,6 +43702,14 @@
     "<root>/savedata/*/CUSA52930":
       tags:
         - save
+"Breakworld (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60349":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60349":
+      tags:
+        - save
 "Breathedge (PS4)":
   files:
     "<root>/home/*/savedata/CUSA26769":
@@ -46562,6 +46616,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA53155":
+      tags:
+        - save
+"Buy The Game, I Have a Gun 2: Online Open World (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58511":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58511":
       tags:
         - save
 "Buzludzha Evil (PS4)":
@@ -50710,6 +50772,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA55908":
+      tags:
+        - save
+"Calculus of Rot (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60110":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60110":
       tags:
         - save
 "Calico (PS4)":
@@ -55184,6 +55254,9 @@
     "<root>/home/*/savedata/CUSA59814":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60359":
+      tags:
+        - save
     "<root>/savedata/*/CUSA59811":
       tags:
         - save
@@ -55194,6 +55267,9 @@
       tags:
         - save
     "<root>/savedata/*/CUSA59814":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60359":
       tags:
         - save
 "Cat Ping Pong (PS4)":
@@ -55406,6 +55482,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA45863":
+      tags:
+        - save
+"Cat Simulator (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60202":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60202":
       tags:
         - save
 "Cat Simulator: Neighbor's Nightmare (PS4)":
@@ -57232,6 +57316,14 @@
     "<root>/savedata/*/CUSA59976":
       tags:
         - save
+"Chaos Mini Racer (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60356":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60356":
+      tags:
+        - save
 "Chaos on Deponia (PS4)":
   files:
     "<root>/home/*/savedata/CUSA08542":
@@ -57452,7 +57544,7 @@
     "<root>/savedata/*/CUSA25624":
       tags:
         - save
-"Checkers MASTER (PS4)":
+"Checkers Master (PS4)":
   files:
     "<root>/home/*/savedata/CUSA60311":
       tags:
@@ -71455,7 +71547,31 @@
     "<root>/home/*/savedata/CUSA48730":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA48731":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA48732":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA48733":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60186":
+      tags:
+        - save
     "<root>/savedata/*/CUSA48730":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA48731":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA48732":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA48733":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60186":
       tags:
         - save
 "DRAG RACING PRO (PS4)":
@@ -82948,7 +83064,7 @@
     "<root>/savedata/*/CUSA05584":
       tags:
         - save
-"Don Bradman Cricket JR (PS4)":
+"Don Bradman Cricket Jr (PS4)":
   files:
     "<root>/home/*/savedata/CUSA59954":
       tags:
@@ -89510,6 +89626,14 @@
     "<root>/savedata/*/CUSA31001":
       tags:
         - save
+"ELO 1100 Chess (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60306":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60306":
+      tags:
+        - save
 "EMBATTLED (PS4)":
   files:
     "<root>/home/*/savedata/CUSA35867":
@@ -90486,6 +90610,32 @@
       tags:
         - save
     "<root>/savedata/*/CUSA59546":
+      tags:
+        - save
+"Echo Flight (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60227":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60228":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60229":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60230":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60227":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60228":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60229":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60230":
       tags:
         - save
 "Echo Weaver (PS4)":
@@ -102868,6 +103018,14 @@
     "<root>/savedata/*/CUSA00958":
       tags:
         - save
+"Final Kick Football Legends (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58248":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58248":
+      tags:
+        - save
 "Final Payload (PS4)":
   files:
     "<root>/home/*/savedata/CUSA58848":
@@ -114262,6 +114420,14 @@
     "<root>/savedata/*/CUSA13738":
       tags:
         - save
+"Geo Book (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59949":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59949":
+      tags:
+        - save
 "Geo IQ World Master (PS4)":
   files:
     "<root>/home/*/savedata/CUSA58753":
@@ -119860,6 +120026,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA58324":
+      tags:
+        - save
+"Grapple Force Rena (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59922":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59922":
       tags:
         - save
 "Grappling Dash (PS4)":
@@ -128002,6 +128176,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA59744":
+      tags:
+        - save
+"Hidden Doodles: Medieval Town (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60081":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60081":
       tags:
         - save
 "Hidden Dragon Legend (PS4)":
@@ -138392,6 +138574,14 @@
     "<root>/savedata/*/CUSA24683":
       tags:
         - save
+"Jaden Industries: Cozy Automation Puzzler (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA54489":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA54489":
+      tags:
+        - save
 "Jagged Alliance 3 (PS4)":
   files:
     "<root>/home/*/savedata/CUSA35972":
@@ -138654,6 +138844,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA28510":
+      tags:
+        - save
+"Japanese Rural Life Adventure (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58827":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58827":
       tags:
         - save
 "Jaunt VR (PS4)":
@@ -148560,6 +148758,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA01743":
+      tags:
+        - save
+"LarsGadiel (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60160":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60160":
       tags:
         - save
 "Laser Disco Defenders (PS4)":
@@ -174754,6 +174960,14 @@
     "<root>/savedata/*/CUSA54500":
       tags:
         - save
+"Mystery Suspect (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60390":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60390":
+      tags:
+        - save
 "Mystic Fate (PS4)":
   files:
     "<root>/home/*/savedata/CUSA25678":
@@ -177454,6 +177668,32 @@
     "<root>/savedata/*/CUSA39149":
       tags:
         - save
+"Napoleon Maiden ~Moon, Night and Dreaming Rondo~ (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59942":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59943":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59944":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA59945":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59942":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59943":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59944":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59945":
+      tags:
+        - save
 "Narcissus (PS4)":
   files:
     "<root>/home/*/savedata/CUSA53805":
@@ -177938,6 +178178,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA12609":
+      tags:
+        - save
+"Nefiriya and the Sands of Eternity (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60335":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60335":
       tags:
         - save
 "Negafish Games (PS4)":
@@ -194472,6 +194720,20 @@
     "<root>/savedata/*/CUSA19104":
       tags:
         - save
+"Phantom Cell (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA55678":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA55679":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA55678":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA55679":
+      tags:
+        - save
 "Phantom Doctrine (PS4)":
   files:
     "<root>/home/*/savedata/CUSA11649":
@@ -202330,6 +202592,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA59474":
+      tags:
+        - save
+"Prizma Puzzle Classic 3 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60383":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60383":
       tags:
         - save
 "Pro Deer Hunting (PS4)":
@@ -213888,6 +214158,14 @@
     "<root>/savedata/*/CUSA32482":
       tags:
         - save
+"Relaywardens (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60333":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60333":
+      tags:
+        - save
 "Relic Abyss (PS4)":
   files:
     "<root>/home/*/savedata/CUSA56610":
@@ -217094,6 +217372,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA43837":
+      tags:
+        - save
+"Ritebound (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60112":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60112":
       tags:
         - save
 "Ritual: Crown of Horns (PS4)":
@@ -235742,6 +236028,14 @@
     "<root>/savedata/*/CUSA56933":
       tags:
         - save
+"Silent Loot (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60339":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60339":
+      tags:
+        - save
 "Silent Raid (PS4)":
   files:
     "<root>/home/*/savedata/CUSA59033":
@@ -240072,6 +240366,32 @@
       tags:
         - save
     "<root>/savedata/*/CUSA20028":
+      tags:
+        - save
+"Snowball Sumo (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60239":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60240":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60241":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60242":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60239":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60240":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60241":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60242":
       tags:
         - save
 "Snowboard Legends (PS4)":
@@ -255040,6 +255360,26 @@
     "<root>/savedata/*/CUSA52159":
       tags:
         - save
+"Sweet Sugar Candy (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA41470":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA41471":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60353":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA41470":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA41471":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60353":
+      tags:
+        - save
 "Sweet Witches (PS4)":
   files:
     "<root>/home/*/savedata/CUSA24279":
@@ -255414,10 +255754,22 @@
     "<root>/home/*/savedata/CUSA52051":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60360":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60361":
+      tags:
+        - save
     "<root>/savedata/*/CUSA52050":
       tags:
         - save
     "<root>/savedata/*/CUSA52051":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60360":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60361":
       tags:
         - save
 "Sword of the Vagrant (PS4)":
@@ -264774,7 +265126,7 @@
     "<root>/savedata/*/CUSA27376":
       tags:
         - save
-"The Canon Keeper PS4 & PS5 (PS4)":
+"The Canon Keeper PS4 (PS4)":
   files:
     "<root>/home/*/savedata/CUSA60116":
       tags:
@@ -311886,6 +312238,14 @@
     "<root>/savedata/*/CUSA18842":
       tags:
         - save
+"Zomblox (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60324":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60324":
+      tags:
+        - save
 "Zombo Buster Advance (PS4)":
   files:
     "<root>/home/*/savedata/CUSA34047":
@@ -319769,7 +320129,13 @@
     "<root>/home/*/savedata/CUSA54667":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60382":
+      tags:
+        - save
     "<root>/savedata/*/CUSA54667":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60382":
       tags:
         - save
 "ハナビ : HANA type B (PS4)":
