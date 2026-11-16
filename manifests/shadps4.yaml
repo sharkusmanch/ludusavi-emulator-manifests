@@ -14690,6 +14690,14 @@
     "<root>/savedata/*/CUSA54015":
       tags:
         - save
+"An Eggstremely Hard Game (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60211":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60211":
+      tags:
+        - save
 "Anamorphine (PS4)":
   files:
     "<root>/home/*/savedata/CUSA09308":
@@ -17160,6 +17168,26 @@
       tags:
         - save
     "<root>/savedata/*/CUSA57428":
+      tags:
+        - save
+"Aquapark io (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA46765":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA46766":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60407":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA46765":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA46766":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60407":
       tags:
         - save
 "Aquarist (PS4)":
@@ -22810,6 +22838,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA28005":
+      tags:
+        - save
+"Arcade Archives SHOT RIDER (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58383":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58383":
       tags:
         - save
 "Arcade Archives SILK WORM (PS4)":
@@ -47322,6 +47358,14 @@
     "<root>/savedata/*/CUSA11232":
       tags:
         - save
+"CLAW BELOW (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60397":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60397":
+      tags:
+        - save
 "CLOCK JUMP (PS4)":
   files:
     "<root>/home/*/savedata/CUSA53497":
@@ -56082,6 +56126,14 @@
     "<root>/savedata/*/CUSA56519":
       tags:
         - save
+"Cats with Guns (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60297":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60297":
+      tags:
+        - save
 "Cattie (PS4)":
   files:
     "<root>/home/*/savedata/CUSA49363":
@@ -62950,6 +63002,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA55474":
+      tags:
+        - save
+"Console Archives Oda Nobunaga Den (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA56098":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA56098":
       tags:
         - save
 "Console Archives Rhapsody: A Musical Adventure (PS4)":
@@ -73308,6 +73368,14 @@
     "<root>/savedata/*/CUSA44297":
       tags:
         - save
+"Dancin' Divas (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59481":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59481":
+      tags:
+        - save
 "Dancing Beauty：Idol Project (PS4)":
   files:
     "<root>/home/*/savedata/CUSA08665":
@@ -83014,6 +83082,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA44529":
+      tags:
+        - save
+"Dome Keeper (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA57356":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA57356":
       tags:
         - save
 "DominoCraft (PS4)":
@@ -93312,6 +93388,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA51604":
+      tags:
+        - save
+"Escape: Immersion (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60157":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60157":
       tags:
         - save
 "EscapeFirst (PS4)":
@@ -110878,6 +110962,14 @@
     "<root>/savedata/*/CUSA26583":
       tags:
         - save
+"GOOD PRESIDENT SIMULATOR (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60309":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60309":
+      tags:
+        - save
 "GOODBYE WORLD (PS4)":
   files:
     "<root>/home/*/savedata/CUSA40797":
@@ -117632,13 +117724,15 @@
     "<root>/home/*/savedata/CUSA57767":
       tags:
         - save
-    "<root>/home/*/savedata/CUSA58359":
-      tags:
-        - save
     "<root>/savedata/*/CUSA56873":
       tags:
         - save
     "<root>/savedata/*/CUSA57767":
+      tags:
+        - save
+"God of War Sons of Sparta Digital Artbook and Soundtrack (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58359":
       tags:
         - save
     "<root>/savedata/*/CUSA58359":
@@ -118426,14 +118520,6 @@
       tags:
         - save
     "<root>/savedata/*/CUSA47699":
-      tags:
-        - save
-"Good President Simulator (PS4)":
-  files:
-    "<root>/home/*/savedata/CUSA60309":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA60309":
       tags:
         - save
 "Good knight's sleep (PS4)":
@@ -134348,6 +134434,14 @@
     "<root>/savedata/*/CUSA58667":
       tags:
         - save
+"Idle Breaker (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59891":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59891":
+      tags:
+        - save
 "Idle Champions (PS4)":
   files:
     "<root>/home/*/savedata/CUSA11326":
@@ -137852,6 +137946,14 @@
     "<root>/savedata/*/CUSA07944":
       tags:
         - save
+"It's a Flop (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60126":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60126":
+      tags:
+        - save
 "Itadaki Smash (PS4)":
   files:
     "<root>/home/*/savedata/CUSA27555":
@@ -140636,6 +140738,14 @@
     "<root>/savedata/*/CUSA48372":
       tags:
         - save
+"Junkyard Builder (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60398":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60398":
+      tags:
+        - save
 "Junkyard Builder Simulator (PS4)":
   files:
     "<root>/home/*/savedata/CUSA57604":
@@ -142786,6 +142896,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA30893":
+      tags:
+        - save
+"Kaptain Brawe: A Brawe New World (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60406":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60406":
       tags:
         - save
 "Kara Fantasy (PS4)":
@@ -153170,6 +153288,22 @@
     "<root>/savedata/*/CUSA06652":
       tags:
         - save
+"Living Dead Outbreak (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59716":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59716":
+      tags:
+        - save
+"Lizard Lady vs the Aliens (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60370":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60370":
+      tags:
+        - save
 "Lizard Lady vs the Cats (PS4)":
   files:
     "<root>/home/*/savedata/CUSA26730":
@@ -155402,6 +155536,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA56517":
+      tags:
+        - save
+"Lucky Luke: The Lonesome Cowboy Collection (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59818":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59818":
       tags:
         - save
 "Lucky Slots (PS4)":
@@ -174896,6 +175038,14 @@
     "<root>/savedata/*/CUSA46954":
       tags:
         - save
+"MyRummy 2 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA57015":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA57015":
+      tags:
+        - save
 "Mycelium Heaven (PS4)":
   files:
     "<root>/home/*/savedata/CUSA51528":
@@ -182318,6 +182468,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA54908":
+      tags:
+        - save
+"Not to Spec: A Dystopian Factory Inspection Game (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60351":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60351":
       tags:
         - save
 "Notice Me Leena-senpai! (PS4)":
@@ -205138,6 +205296,14 @@
     "<root>/savedata/*/CUSA02603":
       tags:
         - save
+"QTA 67 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA59982":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA59982":
+      tags:
+        - save
 "QUARANTINE AREA (PS4)":
   files:
     "<root>/home/*/savedata/CUSA55857":
@@ -205296,14 +205462,6 @@
       tags:
         - save
     "<root>/savedata/*/CUSA05242":
-      tags:
-        - save
-"QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 (PS4)":
-  files:
-    "<root>/home/*/savedata/CUSA59982":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA59982":
       tags:
         - save
 "Qello Concerts (PS4)":
@@ -208539,7 +208697,13 @@
     "<root>/home/*/savedata/CUSA27208":
       tags:
         - save
+    "<root>/home/*/savedata/CUSA60401":
+      tags:
+        - save
     "<root>/savedata/*/CUSA27208":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60401":
       tags:
         - save
 "RETSNOM (PS4)":
@@ -212580,6 +212744,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA47265":
+      tags:
+        - save
+"Real Estate Dice Tycoon (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60399":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60399":
       tags:
         - save
 "Real Estate Simulator - From Bum To Millionaire (PS4)":
@@ -229956,20 +230128,20 @@
     "<root>/savedata/*/CUSA43588":
       tags:
         - save
+"Santas Quest (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60290":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60290":
+      tags:
+        - save
 "Santa´s Gifts Load (PS4)":
   files:
     "<root>/home/*/savedata/CUSA57537":
       tags:
         - save
     "<root>/savedata/*/CUSA57537":
-      tags:
-        - save
-"Santa´s Quest (PS4)":
-  files:
-    "<root>/home/*/savedata/CUSA60290":
-      tags:
-        - save
-    "<root>/savedata/*/CUSA60290":
       tags:
         - save
 "Santa’s Christmas Story 2 The Frozen Gift War (PS4)":
@@ -230286,6 +230458,20 @@
       tags:
         - save
     "<root>/savedata/*/CUSA08962":
+      tags:
+        - save
+"Savoury Cascade (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60263":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60264":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60263":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60264":
       tags:
         - save
 "Say Cheese! (PS4)":
@@ -241984,6 +242170,14 @@
     "<root>/savedata/*/CUSA48309":
       tags:
         - save
+"Soul Reaver 2 (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA53133":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA53133":
+      tags:
+        - save
 "Soul Searching (PS4)":
   files:
     "<root>/home/*/savedata/CUSA51727":
@@ -248948,7 +249142,7 @@
     "<root>/savedata/*/CUSA46770":
       tags:
         - save
-"Story Time: Elves and the Shoemaker (PS4)":
+"Story Time (PS4)":
   files:
     "<root>/home/*/savedata/CUSA60289":
       tags:
@@ -252194,7 +252388,7 @@
     "<root>/savedata/*/CUSA29520":
       tags:
         - save
-"Super Astro Cat PS4 & PS5 (PS4)":
+"Super Astro Cat (PS4)":
   files:
     "<root>/home/*/savedata/CUSA60213":
       tags:
@@ -282622,6 +282816,20 @@
     "<root>/savedata/*/CUSA54835":
       tags:
         - save
+"Tiny Planet Protectors (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60187":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60188":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60187":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60188":
+      tags:
+        - save
 "Tiny Starfighters (PS4)":
   files:
     "<root>/home/*/savedata/CUSA51270":
@@ -296166,6 +296374,14 @@
     "<root>/savedata/*/CUSA03802":
       tags:
         - save
+"Verho - Curse of Faces (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60403":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60403":
+      tags:
+        - save
 "Verlet Swing (PS4)":
   files:
     "<root>/home/*/savedata/CUSA15193":
@@ -302544,6 +302760,14 @@
     "<root>/savedata/*/CUSA28392":
       tags:
         - save
+"Where the Heart Rests (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA58543":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA58543":
+      tags:
+        - save
 "Where the Water Tastes Like Wine (PS4)":
   files:
     "<root>/home/*/savedata/CUSA16372":
@@ -303176,6 +303400,14 @@
       tags:
         - save
     "<root>/savedata/*/CUSA27782":
+      tags:
+        - save
+"Wigged Out (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA53185":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA53185":
       tags:
         - save
 "Wild Arms (PS4)":
@@ -310396,6 +310628,20 @@
       tags:
         - save
     "<root>/savedata/*/CUSA04847":
+      tags:
+        - save
+"ZERO FIRE -TOAPLAN ARCADE GARAGE- (PS4)":
+  files:
+    "<root>/home/*/savedata/CUSA60422":
+      tags:
+        - save
+    "<root>/home/*/savedata/CUSA60423":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60422":
+      tags:
+        - save
+    "<root>/savedata/*/CUSA60423":
       tags:
         - save
 "ZERO GUNNER 2- (PS4)":

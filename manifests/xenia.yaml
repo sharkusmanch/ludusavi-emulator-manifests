@@ -44810,6 +44810,20 @@
     "<root>/584B8842/profile":
       tags:
         - save
+"Xbox 360 Experience Disc Version 7.1 (Kiosk)(2012) (Xbox 360)":
+  files:
+    "<root>/*/584B083D/00000001":
+      tags:
+        - save
+    "<root>/*/584B083D/Headers/00000001":
+      tags:
+        - save
+    "<root>/584B083D/00000001":
+      tags:
+        - save
+    "<root>/584B083D/profile":
+      tags:
+        - save
 "Xbox 360 Hard Drive Transfer Disc (Xbox 360)":
   files:
     "<root>/*/584907D1/00000001":
@@ -44944,6 +44958,20 @@
       tags:
         - save
     "<root>/4D5309C5/profile":
+      tags:
+        - save
+"Xbox Live Arcade Unplugged Volume 1 (September 5, 2006) (Xbox 360)":
+  files:
+    "<root>/*/4D5387FC/00000001":
+      tags:
+        - save
+    "<root>/*/4D5387FC/Headers/00000001":
+      tags:
+        - save
+    "<root>/4D5387FC/00000001":
+      tags:
+        - save
+    "<root>/4D5387FC/profile":
       tags:
         - save
 "Xbox Live Arcade Unplugged: Volume 1 (Xbox 360)":

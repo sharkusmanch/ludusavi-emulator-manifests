@@ -66,6 +66,9 @@
     "<root>/ux0/user/*/savedata/PCSE01169":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10119":
+      tags:
+        - save
 "5-nin no Koi Prince: Himitsu no Keiyaku Kekkon (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00590":
@@ -224,7 +227,7 @@
     "<root>/ux0/user/*/savedata/PCSG00940":
       tags:
         - save
-"AKB1/149 Ren'ai Sousenkyo (Vita)":
+"AKB1/149 Renai Sousenkyo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00102":
       tags:
@@ -335,6 +338,11 @@
     "<root>/ux0/user/*/savedata/PCSG00138":
       tags:
         - save
+"Aban Hawkings and the 1001 Spikes - The Temple of the Dead Mourns (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00778":
+      tags:
+        - save
 "Abunai Koi no Sousashitsu: Eternal Happiness (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00591":
@@ -360,6 +368,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01356":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10147":
       tags:
         - save
 "Active Neurons (Vita)":
@@ -402,6 +413,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00905":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00759":
       tags:
         - save
 "Aegis of Earth: Protonovus Assault (Vita)":
@@ -462,6 +476,9 @@
         - save
 "Air Race Speed (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00996":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00980":
       tags:
         - save
@@ -479,6 +496,11 @@
 "Aiyoku no Eustia: Angel’s Blessing (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00338":
+      tags:
+        - save
+"Akai Ribbon - Kimyou na Yume (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01308":
       tags:
         - save
 "Akai Suna Ochiru Tsuki (Vita)":
@@ -538,6 +560,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01172":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10241":
       tags:
         - save
 "Alvastia Chronicles (Vita)":
@@ -635,6 +660,11 @@
     "<root>/ux0/user/*/savedata/PCSE01227":
       tags:
         - save
+"Antiqua Lost (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01108":
+      tags:
+        - save
 "Antiquia Lost (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01229":
@@ -699,6 +729,9 @@
     "<root>/ux0/user/*/savedata/PCSE01379":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01263":
+      tags:
+        - save
 "Asdivine Hearts (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01167":
@@ -707,14 +740,23 @@
     "<root>/ux0/user/*/savedata/PCSE00968":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00971":
+      tags:
+        - save
 "Asdivine Hearts II (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01335":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01242":
+      tags:
+        - save
 "Asdivine Menace (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01419":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01287":
       tags:
         - save
 "Asphalt: Injection (Vita)":
@@ -798,6 +840,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH00154":
+      tags:
+        - save
+"Atelier Firis - The Alchemist and The Mysterious Journey - Atelier Series Special BGM Pack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10013":
       tags:
         - save
 "Atelier Firis ~The Alchemist and the Mysterious Journey~ (Vita)":
@@ -901,12 +948,18 @@
     "<root>/ux0/user/*/savedata/PCSE01397":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10160":
+      tags:
+        - save
 "Attack on Titan (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00812":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00762":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00253":
       tags:
         - save
 "Attack on Titan 2 (Vita)":
@@ -930,12 +983,18 @@
     "<root>/ux0/user/*/savedata/PCSE01367":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10244":
+      tags:
+        - save
 "Awesome Pea 2 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01441":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01474":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10275":
       tags:
         - save
 "Axiom Verge (Vita)":
@@ -1056,12 +1115,21 @@
     "<root>/ux0/user/*/savedata/PCSE01343":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01232":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10141":
+      tags:
+        - save
 "Back to Bed (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00805":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00706":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01022":
       tags:
         - save
 "Backgammon Blitz (Vita)":
@@ -1080,9 +1148,17 @@
     "<root>/ux0/user/*/savedata/PCSE01042":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00668":
+      tags:
+        - save
 "Bakumatsu Rock: Ultra Soul (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00425":
+      tags:
+        - save
+"Bakumatsu Roman Daini Tobari - Gekka no Kenshi (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00844":
       tags:
         - save
 "Balthazar's Dream (Vita)":
@@ -1091,6 +1167,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01441":
+      tags:
+        - save
+"Balthazar's Dreams (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10216":
       tags:
         - save
 "Banbutsu Otome * Dungeons (Vita)":
@@ -1120,6 +1201,11 @@
 "Bard's Gold Complete Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSH10303":
+      tags:
+        - save
+"Bard's Tale, The - Remastered and Resnarkled (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01041":
       tags:
         - save
 "Baseball Riot (Vita)":
@@ -1168,6 +1254,11 @@
     "<root>/ux0/user/*/savedata/PCSE01507":
       tags:
         - save
+"Beach Theme, A (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00649":
+      tags:
+        - save
 "Beast Tamer and Prince (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00244":
@@ -1209,9 +1300,19 @@
     "<root>/ux0/user/*/savedata/PCSF00251":
       tags:
         - save
-"Bento no Subarashisa o Ano 2-do 3-do (Vita)":
+"Bento no Subarashisa o Ano 2-do 3-do ~Namahamu to Yakiudon-hen (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00814":
+      tags:
+        - save
+"Berserk Musou (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00943":
+      tags:
+        - save
+"Berserk and the Band of the Hawk (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10025":
       tags:
         - save
 "Best Of Arcade Games (Vita)":
@@ -1263,12 +1364,25 @@
     "<root>/ux0/user/*/savedata/PCSG00389":
       tags:
         - save
+"Binding of Isaac, The - Rebirth (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00740":
+      tags:
+        - save
+"Biohazard - Revelations 2 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00594":
+      tags:
+        - save
 "Bit Dungeon Plus (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01105":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01096":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10140":
       tags:
         - save
 "Bitter Smile Demo (Vita)":
@@ -1284,12 +1398,25 @@
     "<root>/ux0/user/*/savedata/PCSE00328":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00282":
+      tags:
+        - save
+"Blast 'Em Bunnies - Warui Usagi O Yattsukero! - 2X Coins (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01033":
+      tags:
+        - save
 "Blasting Agent: Ultimate Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01108":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01083":
+      tags:
+        - save
+"BlazBlue - Chrono Phantasma Extend (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00161":
       tags:
         - save
 "BlazBlue Continuum Shift Extend (Vita)":
@@ -1320,12 +1447,23 @@
     "<root>/ux0/user/*/savedata/PCSE01457":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10235":
+      tags:
+        - save
 "Block-a-Pix Deluxe (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01264":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01284":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10174":
+      tags:
+        - save
+"Bloodstained - Curse of the Moon (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01216":
       tags:
         - save
 "Bloodstained: Curse of the Moon (Vita)":
@@ -1372,12 +1510,18 @@
     "<root>/ux0/user/*/savedata/PCSB00741":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00783":
+      tags:
+        - save
 "Bonds of the Skies (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01350":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01368":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01262":
       tags:
         - save
 "Borderlands 2 (Vita)":
@@ -1420,6 +1564,11 @@
 "BreakQuest: Extra Evolution Pro Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00431":
+      tags:
+        - save
+"Breeder - Homegrown - Director's Cut (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10297":
       tags:
         - save
 "Breeder Homegrown (Vita)":
@@ -1481,6 +1630,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01455":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10245":
       tags:
         - save
 "Bullet Girls (Vita)":
@@ -1610,6 +1762,14 @@
     "<root>/ux0/user/*/savedata/PCSE00049":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00169":
+      tags:
+        - save
+"Castlestorm (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00156":
+      tags:
+        - save
 "Catherine Full Body Soundtrack Set (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01255":
@@ -1677,6 +1837,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00555":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10039":
       tags:
         - save
 "Chaos;Child Demo (Vita)":
@@ -1777,12 +1940,15 @@
     "<root>/ux0/user/*/savedata/PCSE01281":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01227":
+      tags:
+        - save
 "ChuSingura46+1 -忠臣蔵46+1- V (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00540":
       tags:
         - save
-"Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta (Online version) (Vita)":
+"Ciel Nosurge ~Ushinawareta Hoshi e Sasagu Uta~ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00046":
       tags:
@@ -1877,6 +2043,16 @@
     "<root>/ux0/user/*/savedata/PCSE00267":
       tags:
         - save
+"Code - Realize - Guardian of Rebirth (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00848":
+      tags:
+        - save
+"Code - Realize - Wintertide Miracles (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01270":
+      tags:
+        - save
 "Code: Realize ~Guardian of Rebirth~ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00763":
@@ -1909,6 +2085,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01011":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00866":
       tags:
         - save
 "Collar×Malice -Unlimited- (Vita)":
@@ -1959,12 +2138,20 @@
     "<root>/ux0/user/*/savedata/PCSE01406":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01279":
+      tags:
+        - save
 "Contraptions (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01445":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01476":
+      tags:
+        - save
+"Corpse Party - Blood Drive (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00166":
       tags:
         - save
 "Corpse Party BLOOD DRIVE (Vita)":
@@ -1999,6 +2186,9 @@
     "<root>/ux0/user/*/savedata/PCSB00734":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00643":
+      tags:
+        - save
 "CounterSpy (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSA00116":
@@ -2013,6 +2203,11 @@
 "Coven and Labyrinth of Galleria (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01246":
+      tags:
+        - save
+"Coven and Labyrinth of Refrain (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00300":
       tags:
         - save
 "Crank In (Vita)":
@@ -2071,6 +2266,11 @@
     "<root>/ux0/user/*/savedata/PCSG00537":
       tags:
         - save
+"Crollors - Meteor Mystery - Blue Crollor (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00821":
+      tags:
+        - save
 "Cross Ange: Rondo of Angels and Dragons tr. (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00597":
@@ -2101,6 +2301,12 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00806":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00788":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00287":
       tags:
         - save
 "Crypto by POWGI (Vita)":
@@ -2139,6 +2345,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00888":
+      tags:
+        - save
+"Cybarian - The Time Traveling Warrior (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10163":
       tags:
         - save
 "Cybarian: The Time Traveling Warrior (Vita)":
@@ -2513,6 +2724,11 @@
     "<root>/ux0/user/*/savedata/PCSG01017":
       tags:
         - save
+"Darius Burst Chronicle Saviours (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00680":
+      tags:
+        - save
 "Dark Quest 5 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01200":
@@ -2584,9 +2800,17 @@
     "<root>/ux0/user/*/savedata/PSCB00296":
       tags:
         - save
+"Dead or Alive Xtreme 3 - Venus - Kihon Muryouban (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00773":
+      tags:
+        - save
 "Deadman's Cross (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00578":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00465":
       tags:
         - save
 "Death Mark (Vita)":
@@ -2629,12 +2853,20 @@
     "<root>/ux0/user/*/savedata/PCSE00743":
       tags:
         - save
+"Deemo - Last Recital (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00214":
+      tags:
+        - save
 "Deep Ones (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01212":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01219":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10243":
       tags:
         - save
 "Deep Space Rush (Vita)":
@@ -2645,12 +2877,20 @@
     "<root>/ux0/user/*/savedata/PCSE01403":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10165":
+      tags:
+        - save
 "Defender's Quest: Valley of the Forgotten DX (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01223":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01136":
+      tags:
+        - save
+"Dekamori Senran Kagura - Imu Bust (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00311":
       tags:
         - save
 "Dekamori Senran Kagura: Digital Soundtrack (Vita)":
@@ -2674,12 +2914,20 @@
     "<root>/ux0/user/*/savedata/PCSE01005":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10260":
+      tags:
+        - save
 "Demon Gaze (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00460":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00358":
+      tags:
+        - save
+"Demon Gaze - JP0117-PCSG01136_00-DEMONGAZE2DLC004 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01136":
       tags:
         - save
 "Demon Gaze II (Vita)":
@@ -2698,6 +2946,16 @@
     "<root>/ux0/user/*/savedata/PCSH10252":
       tags:
         - save
+"Dengeki Bunko - Fighting Climax (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00142":
+      tags:
+        - save
+"Dengeki Bunko Fighting Climax Ignition (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00835":
+      tags:
+        - save
 "Dengeki Bunko: Fighting Climax (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00763":
@@ -2712,6 +2970,16 @@
 "Dengeki Bunko: Fighting Climax Ignition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00758":
+      tags:
+        - save
+"Dengeki PlayStation Toho Project Fungame (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00598":
+      tags:
+        - save
+"Dengeki PlayStation Vol. 591 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00671":
       tags:
         - save
 "Desert Ashes (Vita)":
@@ -2812,6 +3080,17 @@
     "<root>/ux0/user/*/savedata/PCSG00516":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00173":
+      tags:
+        - save
+"Digimon Story Cyber Sleuth - Hacker's Memory (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01119":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10059":
+      tags:
+        - save
 "Digimon Story: Cyber Sleuth - Hacker's Memory (TV Anime Sound Edition) (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01126":
@@ -2895,6 +3174,11 @@
 "Disney Infinity: Marvel Super Heroes (2.0 edition) (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00520":
+      tags:
+        - save
+"Disruptive Media Publishers Themes - NBA - Charlotte Hornets Theme (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00625":
       tags:
         - save
 "Divekick (Vita)":
@@ -3094,6 +3378,9 @@
     "<root>/ux0/user/*/savedata/PCSE01190":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01146":
+      tags:
+        - save
 "Dragon's Crown (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00408":
@@ -3208,6 +3495,9 @@
     "<root>/ux0/user/*/savedata/PCSB01474":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01510":
+      tags:
+        - save
 "Dungeon Hunter: Alliance (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00041":
@@ -3286,9 +3576,43 @@
     "<root>/ux0/user/*/savedata/PCSE00332":
       tags:
         - save
+"Dying - Reborn (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01082":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00240":
+      tags:
+        - save
 "Dying：Reborn (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00984":
+      tags:
+        - save
+"Dynasty Warriors - Godseekers (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10006":
+      tags:
+        - save
+"Dynasty Warriors 8 - Empires (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00800":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00192":
+      tags:
+        - save
+"Dynasty Warriors 8 - Empires - Free Alliances Version (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00803":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00193":
+      tags:
+        - save
+"Dynasty Warriors 8 - Xtreme Legends - Wang Yuanji Koei Tecmo Collaboration Clothing (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00111":
       tags:
         - save
 "Dynasty Warriors 8 Empires Edit Mode Demo (Vita)":
@@ -3458,6 +3782,9 @@
     "<root>/ux0/user/*/savedata/PCSB00620":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00610":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH00246":
       tags:
         - save
@@ -3477,6 +3804,9 @@
     "<root>/ux0/user/*/savedata/PCSE01123":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10156":
+      tags:
+        - save
 "Energy Cycle (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00944":
@@ -3485,9 +3815,15 @@
     "<root>/ux0/user/*/savedata/PCSE01124":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10155":
+      tags:
+        - save
 "Energy Cycle Edge (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01291":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01330":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10158":
@@ -3509,6 +3845,9 @@
     "<root>/ux0/user/*/savedata/PCSE01192":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10157":
+      tags:
+        - save
 "Enkan no Memoria: Kakera Tomoshi (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01167":
@@ -3520,6 +3859,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSC00083":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSD00094":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSF00578":
@@ -3535,9 +3877,21 @@
     "<root>/ux0/user/*/savedata/PCSB01431":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01465":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10238":
+      tags:
+        - save
 "Epic Word Search Collection 2 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01458":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01492":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10270":
       tags:
         - save
 "Escape Plan (Vita)":
@@ -3596,6 +3950,9 @@
     "<root>/ux0/user/*/savedata/PCSC00001":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSD00008":
+      tags:
+        - save
 "Everybody's Golf 6 Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSD00032":
@@ -3628,6 +3985,12 @@
 "Explosive Jake (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01419":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01454":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10246":
       tags:
         - save
 "Exstetra (Vita)":
@@ -3842,12 +4205,22 @@
     "<root>/ux0/user/*/savedata/PCSE00768":
       tags:
         - save
+"Farming Simulator 16 - Pocket Nouen 3 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00864":
+      tags:
+        - save
 "Farming Simulator 18 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01080":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01035":
+      tags:
+        - save
+"Farming Simulator 18 - Pocket Nouen 4 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01050":
       tags:
         - save
 "Farming Simulator DEMO (Vita)":
@@ -3866,9 +4239,20 @@
     "<root>/ux0/user/*/savedata/PCSE01334":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01236":
+      tags:
+        - save
 "Fat City (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00894":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00741":
+      tags:
+        - save
+"Fat Princess - Piece of Cake (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSD00092":
       tags:
         - save
 "Fat Princess: Piece of Cake (Vita)":
@@ -3877,6 +4261,24 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSF00612":
+      tags:
+        - save
+"Fate-Extella (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00299":
+      tags:
+        - save
+"Fate-Extella Link (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10121":
+      tags:
+        - save
+"Fate-Extella Link Original Soundtrack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01314":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01225":
       tags:
         - save
 "Fate/EXTELLA LINK (Vita)":
@@ -3926,6 +4328,9 @@
     "<root>/ux0/user/*/savedata/PCSE01282":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01226":
+      tags:
+        - save
 "Fieldrunners 2 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00481":
@@ -3945,12 +4350,22 @@
     "<root>/ux0/user/*/savedata/PCSH10211":
       tags:
         - save
+"Fill-a-Pix - Phil's Epic Adventure (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10173":
+      tags:
+        - save
 "Fill-a-Pix: Phil's Epic Adventure (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01246":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01255":
+      tags:
+        - save
+"Final Fantasy X HD Remaster (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00100":
       tags:
         - save
 "Final Fantasy X-2 HD Remaster (Vita)":
@@ -3978,6 +4393,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSF00035":
+      tags:
+        - save
+"Flame Chef Cooking Fighter Ko (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00676":
       tags:
         - save
 "Flame Over (Vita)":
@@ -4059,6 +4479,12 @@
     "<root>/ux0/user/*/savedata/PCSB01408":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01443":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10218":
+      tags:
+        - save
 "Football Manager Classic 2014 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00357":
@@ -4085,6 +4511,11 @@
 "Fortissimo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01131":
+      tags:
+        - save
+"Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary - Dragon Quest XI Luxurious Comprehensive Set (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10069":
       tags:
         - save
 "Fortune Street: DQ & FF 30th Anniversary (Vita)":
@@ -4124,6 +4555,12 @@
     "<root>/ux0/user/*/savedata/PCSE01437":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01310":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10223":
+      tags:
+        - save
 "FoxyLand 2 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01403":
@@ -4132,9 +4569,20 @@
     "<root>/ux0/user/*/savedata/PCSE01438":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01311":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10222":
+      tags:
+        - save
 "FoxyLand Collection (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSH10227":
+      tags:
+        - save
+"Frane - Dragons' Odyssey (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01269":
       tags:
         - save
 "Frane: Dragons' Odyssey (Vita)":
@@ -4197,6 +4645,9 @@
     "<root>/ux0/user/*/savedata/PCSE01261":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10123":
+      tags:
+        - save
 "Funk of Titans (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00835":
@@ -4236,14 +4687,27 @@
     "<root>/ux0/user/*/savedata/PCSE01382":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01272":
+      tags:
+        - save
 "Fushigi no Chronicle: Furikaerimasen Katsu Madewa (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00569":
       tags:
         - save
+"Fushigi no Dungeon - Fuurai no Shiren 5 Plus - Kazerai's 20th Anniversary (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00479":
+      tags:
+        - save
 "Fushigi no Gensokyo-THE TOWER OF DESIRE- SpecialTrial (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90186":
+      tags:
+        - save
+"Fushigi no Gensoukyou - The Tower of Desire (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00642":
       tags:
         - save
 "Futagoza no Paradox (Vita)":
@@ -4457,6 +4921,11 @@
     "<root>/ux0/user/*/savedata/PCSG00654":
       tags:
         - save
+"Gakusen Toshi Asterisk Festa - Houka Kenran (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00791":
+      tags:
+        - save
 "Gal Gunvolt (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00704":
@@ -4486,6 +4955,14 @@
     "<root>/ux0/user/*/savedata/PCSE01440":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10194":
+      tags:
+        - save
+"Garou - Mark of the Wolves (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00957":
+      tags:
+        - save
 "Geki Yaba Runner (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00981":
@@ -4502,6 +4979,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00765":
+      tags:
+        - save
+"Gem Smashers (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE01063":
       tags:
         - save
 "GemSmashers 3D (Vita)":
@@ -4591,6 +5073,9 @@
     "<root>/ux0/user/*/savedata/PCSE01340":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01251":
+      tags:
+        - save
 "Ginsei Igo: Next Generation (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00419":
@@ -4631,6 +5116,16 @@
     "<root>/ux0/user/*/savedata/PCSG00786":
       tags:
         - save
+"God Wars - Future Past (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10024":
+      tags:
+        - save
+"God Wars - The Complete Legend (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10126":
+      tags:
+        - save
 "God Wars: Future Past (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00831":
@@ -4667,6 +5162,11 @@
     "<root>/ux0/user/*/savedata/PCSG00218":
       tags:
         - save
+"Gran Kingdom Lite - JP0365-PCSG00474_00-DLC000CODE000001 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00474":
+      tags:
+        - save
 "Grand Kingdom (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00959":
@@ -4686,6 +5186,12 @@
 "Grass Cutter (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01372":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01408":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10247":
       tags:
         - save
 "Gravity Badgers (Vita)":
@@ -4713,6 +5219,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10203":
+      tags:
+        - save
+"Green Game - Timeswapper (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00875":
       tags:
         - save
 "Green Game: Timeswapper (Vita)":
@@ -4769,6 +5280,12 @@
     "<root>/ux0/user/*/savedata/PCSB01416":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01450":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10198":
+      tags:
+        - save
 "Guardian Hearts Online (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00066":
@@ -4789,6 +5306,9 @@
     "<root>/ux0/user/*/savedata/PCSG00412":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00132":
+      tags:
+        - save
 "Gundam Breaker 2 Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90157":
@@ -4799,6 +5319,12 @@
         - save
 "Gundam Breaker 3 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSG00760":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00207":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH00208":
       tags:
         - save
@@ -4815,9 +5341,17 @@
     "<root>/ux0/user/*/savedata/PCSG00657":
       tags:
         - save
+"Gundemoniums (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01027":
+      tags:
+        - save
 "Gunhouse (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01288":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01157":
       tags:
         - save
 "Gunka o Haita Neko (Vita)":
@@ -4903,6 +5437,11 @@
     "<root>/ux0/user/*/savedata/PCSH10304":
       tags:
         - save
+"Haitaka no Psychedelica (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00812":
+      tags:
+        - save
 "Haiyore! Nyaruko-San (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00162":
@@ -4937,6 +5476,19 @@
 "Hakuoki: Kyoto Winds (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01032":
+      tags:
+        - save
+"Hakuouki - Shinkai - Hana no Shou (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10057":
+      tags:
+        - save
+"Hakuouki - Shinkai - Kaze no Shou (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00629":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10005":
       tags:
         - save
 "Hakuouki Kyouka Roku (Vita)":
@@ -5074,6 +5626,11 @@
     "<root>/ux0/user/*/savedata/PCSG01229":
       tags:
         - save
+"Hatsune Miku -Project DIVA- f Douki Tsuuru (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00153":
+      tags:
+        - save
 "Hatsune Miku Project DIVA X (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00867":
@@ -5163,6 +5720,14 @@
     "<root>/ux0/user/*/savedata/PCSG00997":
       tags:
         - save
+"Helldivers (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSD00086":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSD00097":
+      tags:
+        - save
 "Hello Kitty to issho! Block Crash V (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00059":
@@ -5179,6 +5744,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01256":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10138":
       tags:
         - save
 "Heroes of Loot (Vita)":
@@ -5212,6 +5780,11 @@
 "Himawari Pebble in the Sky (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00639":
+      tags:
+        - save
+"HimeHibi Ichi Gakki - Princess Days (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01092":
       tags:
         - save
 "Himehibi Zoku! Nigakki -New Princess Days- (Vita)":
@@ -5272,7 +5845,15 @@
     "<root>/ux0/user/*/savedata/PCSC00077":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSD00095":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSF00430":
+      tags:
+        - save
+"Hole New World, A (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01292":
       tags:
         - save
 "Home - A Unique Horror Adventure (Vita)":
@@ -5327,6 +5908,11 @@
     "<root>/ux0/user/*/savedata/PCSG00601":
       tags:
         - save
+"Hotline Miami 2 - Wrong Number (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00659":
+      tags:
+        - save
 "Hotline Miami 2: Wrong Number (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00511":
@@ -5356,6 +5942,11 @@
 "Hungry Giraffe (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00246":
+      tags:
+        - save
+"Hungry Horde, The - Holiday Hijinx (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSF00501":
       tags:
         - save
 "Hustle Kings (Vita)":
@@ -5397,6 +5988,11 @@
     "<root>/ux0/user/*/savedata/PCSG00234":
       tags:
         - save
+"Hyperdimension Neptunia - Re;Birth3 V Century - Character Addition Pack 1 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00140":
+      tags:
+        - save
 "Hyperdimension Neptunia PP (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00515":
@@ -5426,6 +6022,11 @@
     "<root>/ux0/user/*/savedata/PCSE00508":
       tags:
         - save
+"Hyperdimension Neptunia Re;Birth3 - V Generation (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00751":
+      tags:
+        - save
 "Hyperdimension Neptunia Re;Birth3 V GENERATION (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00661":
@@ -5437,6 +6038,11 @@
 "Hyperdimension Neptunia U: Action Unleashed (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00394":
+      tags:
+        - save
+"Hyperdimension Neptunia VII (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00630":
       tags:
         - save
 "Hyperdimension Neptunia: Producing Perfection Demo (Vita)":
@@ -5520,6 +6126,9 @@
     "<root>/ux0/user/*/savedata/PCSE01295":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01184":
+      tags:
+        - save
 "Idol Death Game TV (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00865":
@@ -5528,6 +6137,11 @@
 "If my Heart Had Wings (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00357":
+      tags:
+        - save
+"Ikemen Bakumatsu - Unmei no Koi (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01020":
       tags:
         - save
 "Ikemen Sengoku: Toki o Kakeru Koi - Aratanaru Deai (Vita)":
@@ -5602,6 +6216,9 @@
     "<root>/ux0/user/*/savedata/PCSE01237":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10116":
+      tags:
+        - save
 "International Snooker 2012 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00157":
@@ -5665,6 +6282,9 @@
     "<root>/ux0/user/*/savedata/PCSE01369":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10152":
+      tags:
+        - save
 "Irotoridori no Sekai: WORLD'S END -RE:BIRTH- (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00462":
@@ -5678,6 +6298,9 @@
 "It's Spring Again (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01132":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01119":
       tags:
         - save
 "Iwaihime Matsuri (Vita)":
@@ -5732,6 +6355,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01287":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10127":
       tags:
         - save
 "Jacob Jones and the Bigfoot Mystery (Vita)":
@@ -5945,6 +6571,11 @@
     "<root>/ux0/user/*/savedata/PCSG00501":
       tags:
         - save
+"Kagero - Mou Hitori no Princess (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00565":
+      tags:
+        - save
 "Kaihou Shoujo SIN (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00360":
@@ -6043,9 +6674,17 @@
     "<root>/ux0/user/*/savedata/PCSG01332":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10286":
+      tags:
+        - save
 "Kazoku Keikaku Re:Tsumugu Ito (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00393":
+      tags:
+        - save
+"Keeper of 4 Elements, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00566":
       tags:
         - save
 "Ken Ga Kimi For V (Vita)":
@@ -6095,6 +6734,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01420":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10181":
       tags:
         - save
 "Kid Tripp + Miles & Kilo (Vita)":
@@ -6201,6 +6843,14 @@
     "<root>/ux0/user/*/savedata/PCSE00315":
       tags:
         - save
+"King of Fighters '97, The - Global Match (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01218":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01188":
+      tags:
+        - save
 "Kiss Ato (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00742":
@@ -6232,9 +6882,20 @@
     "<root>/ux0/user/*/savedata/PCSE01444":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01307":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10229":
+      tags:
+        - save
 "Knobswitch (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00957":
+      tags:
+        - save
+"Knock-Knock (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00849":
       tags:
         - save
 "Knock-knock (Vita)":
@@ -6311,6 +6972,12 @@
 "Krinkle Krusher (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00961":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00585":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00177":
       tags:
         - save
 "Kud Wafter: Converted Edition (Vita)":
@@ -6429,6 +7096,11 @@
     "<root>/ux0/user/*/savedata/PCSE00670":
       tags:
         - save
+"LEGO Marvel's Avengers (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00836":
+      tags:
+        - save
 "LEGO Ninjago: Nindroids (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00500":
@@ -6516,6 +7188,11 @@
     "<root>/ux0/user/*/savedata/PCSE00902":
       tags:
         - save
+"Last Blade 2, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00927":
+      tags:
+        - save
 "Last Wings (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01018":
@@ -6530,6 +7207,19 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01085":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10096":
+      tags:
+        - save
+"Legend of Dark Witch, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00160":
+      tags:
+        - save
+"Legend of Heroes, The - Sen no Kiseki II - Alisa's Not Shown Secret Costume (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00075":
       tags:
         - save
 "Legend of Heroes: Trails in the Sky FC Evolution Demo (Vita)":
@@ -6631,6 +7321,14 @@
     "<root>/ux0/user/*/savedata/PCSB00879":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00825":
+      tags:
+        - save
+"Level 22 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00766":
+      tags:
+        - save
 "Lichtspeer (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01047":
@@ -6667,6 +7365,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG01319":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10208":
       tags:
         - save
 "Little Adventure on the Prairie (Vita)":
@@ -6763,6 +7464,9 @@
         - save
 "London Detective Mysteria (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01200":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01187":
       tags:
         - save
@@ -6782,6 +7486,16 @@
     "<root>/ux0/user/*/savedata/PCSE00301":
       tags:
         - save
+"Long Reach, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01180":
+      tags:
+        - save
+"Longest Five Minutes, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01045":
+      tags:
+        - save
 "Looney Tunes Galactic Sports (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSF00441":
@@ -6795,6 +7509,17 @@
 "Lord of Apocalypse (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00008":
+      tags:
+        - save
+"Lost Child, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01194":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00573":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10068":
       tags:
         - save
 "Lost Dimension (Vita)":
@@ -6934,6 +7659,9 @@
     "<root>/ux0/user/*/savedata/PCSE01080":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01313":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH10097":
       tags:
         - save
@@ -7071,6 +7799,9 @@
     "<root>/ux0/user/*/savedata/PCSE00212":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00309":
+      tags:
+        - save
 "Macross Delta: Scramble (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00947":
@@ -7086,9 +7817,17 @@
     "<root>/ux0/user/*/savedata/PCSE00083":
       tags:
         - save
+"Magai Sin Trillion - God of Destruction (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00203":
+      tags:
+        - save
 "Magical Beat (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00591":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00457":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00221":
@@ -7172,6 +7911,26 @@
     "<root>/ux0/user/*/savedata/PCSG00770":
       tags:
         - save
+"Makai Senki Disgaea (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01032":
+      tags:
+        - save
+"Makai Senki Disgaea 2 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00873":
+      tags:
+        - save
+"Makai Senki Disgaea 4 Return - JP0404-PCSG00225_00-CUSTOM000PSV0001 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00225":
+      tags:
+        - save
+"Makaishin Trillion (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00273":
+      tags:
+        - save
 "Making*Lovers (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01284":
@@ -7185,6 +7944,11 @@
 "Maru Goukaku! Takken Shiken - Heisei 27 Nendohan (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00662":
+      tags:
+        - save
+"Mary Skelter - Nightmares (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10043":
       tags:
         - save
 "Mary Skelter: Nightmares (Vita)":
@@ -7221,6 +7985,9 @@
     "<root>/ux0/user/*/savedata/PCSB00672":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00687":
+      tags:
+        - save
 "MegaTagmension Blanc + Neptune VS Zombies (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00921":
@@ -7241,6 +8008,16 @@
 "MeiQ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00258":
+      tags:
+        - save
+"MeiQ - Labyrinth of Death (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00258":
+      tags:
+        - save
+"MeiQ no Chika Ni Shisu - A Maze to Eradicate Them All (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00294":
       tags:
         - save
 "MeiQ: Labyrinth of Death (Vita)":
@@ -7277,9 +8054,17 @@
     "<root>/ux0/user/*/savedata/PCSE01428":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10195":
+      tags:
+        - save
 "Melty Moment (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00733":
+      tags:
+        - save
+"Memories Off - Innocent Fille (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01183":
       tags:
         - save
 "Memories Off 6 Complete (Vita)":
@@ -7357,6 +8142,11 @@
     "<root>/ux0/user/*/savedata/PCSE00406":
       tags:
         - save
+"Metropolis - Lux Obscura (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE01221":
+      tags:
+        - save
 "Metropolis: Lux Obscura (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01214":
@@ -7419,6 +8209,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01449":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10225":
       tags:
         - save
 "Mind Maze (Vita)":
@@ -7508,6 +8301,9 @@
     "<root>/ux0/user/*/savedata/PCSE01414":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10182":
+      tags:
+        - save
 "ModNation Racers: Road Trip (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSA00001":
@@ -7561,6 +8357,9 @@
 "Monster Hunter Frontier G (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00350":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00109":
       tags:
         - save
 "Monster Monpiece (Vita)":
@@ -7664,6 +8463,19 @@
     "<root>/ux0/user/*/savedata/PCSE00420":
       tags:
         - save
+"Mr. Pumpkin Adventure (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00194":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00244":
+      tags:
+        - save
+"Mr. Pumpkin no Fushigi na Tabi (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00799":
+      tags:
+        - save
 "Mr.Pumpkin Adventure (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01002":
@@ -7722,6 +8534,9 @@
     "<root>/ux0/user/*/savedata/PCSE01479":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01328":
+      tags:
+        - save
 "Music Unlimited (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSI00001":
@@ -7732,12 +8547,25 @@
     "<root>/ux0/user/*/savedata/PCSH10037":
       tags:
         - save
+"Musync (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10058":
+      tags:
+        - save
+"Mutant Mudds - Super Challenge (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00906":
+      tags:
+        - save
 "Mutant Mudds Deluxe (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01064":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00380":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01013":
       tags:
         - save
 "Mutant Mudds Super Challenge (Vita)":
@@ -7770,6 +8598,11 @@
 "Muv-Luv Alternative Total Eclipse: Teito Moyu (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90203":
+      tags:
+        - save
+"My Aunt Is a Witch (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10302":
       tags:
         - save
 "My Aunt is a Witch (Vita)":
@@ -7811,6 +8644,11 @@
 "MyNBA2K15 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00554":
+      tags:
+        - save
+"Mystery Chronicle - One Way Heroes (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00830":
       tags:
         - save
 "Mystery Chronicle: One Way Heroics (Vita)":
@@ -7909,6 +8747,11 @@
     "<root>/ux0/user/*/savedata/PCSG00664":
       tags:
         - save
+"Nanairo Reincarnation Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90176":
+      tags:
+        - save
 "Natsuiro Kokoro Log (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01185":
@@ -7927,6 +8770,11 @@
     "<root>/ux0/user/*/savedata/PCSG01256":
       tags:
         - save
+"Necrosphere Deluxe (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE01361":
+      tags:
+        - save
 "Need For Speed Most Wanted (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00183":
@@ -7936,6 +8784,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00106":
+      tags:
+        - save
+"Need a Packet (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01380":
       tags:
         - save
 "Need a packet? (Vita)":
@@ -7954,6 +8807,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00678":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00533":
       tags:
         - save
 "Neo ATLAS 1469 (Vita)":
@@ -8013,11 +8869,17 @@
         - save
 "NeuroVoider (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01222":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01236":
       tags:
         - save
 "NeverEnd (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01141":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01137":
       tags:
         - save
@@ -8027,6 +8889,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00847":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00874":
       tags:
         - save
 "New Game! -The Challenge Stage!- (Vita)":
@@ -8137,6 +9002,9 @@
     "<root>/ux0/user/*/savedata/PCSE00514":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01010":
+      tags:
+        - save
 "Night Trap - 25th Anniversary Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01149":
@@ -8144,7 +9012,13 @@
         - save
 "NightCry (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00971":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00895":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00884":
       tags:
         - save
 "Nights of Azure / Yoru no Nai Kuni (Vita)":
@@ -8172,6 +9046,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00586":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00247":
       tags:
         - save
 "Nihon Pro Mahjong Renmei Kounin: Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou ~Shochuukyuusha Hen~ (Vita)":
@@ -8277,6 +9154,9 @@
         - save
 "Ninja Usagimaru - Two Tails of Adventure (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01117":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01067":
       tags:
         - save
@@ -8306,6 +9186,11 @@
     "<root>/ux0/user/*/savedata/PCSD00085":
       tags:
         - save
+"Nobunaga no Yabou - Souzou - Sengoku Risshiden - Military Commander Faces CG (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00840":
+      tags:
+        - save
 "Nobunaga no Yabou 201X (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00803":
@@ -8321,6 +9206,14 @@
     "<root>/ux0/user/*/savedata/PCSG00607":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00171":
+      tags:
+        - save
+"Nobunaga no Yabou: Tendou with Power Up Kit (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00112":
+      tags:
+        - save
 "Nobunaga no Yabou: Tenshouki with Power-Up Kit HD Version (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00741":
@@ -8331,11 +9224,6 @@
     "<root>/ux0/user/*/savedata/PCSH00291":
       tags:
         - save
-"Nobunaga's Ambition: Sphere of Influence with Power-Up Kit (Vita)":
-  files:
-    "<root>/ux0/user/*/savedata/PCSH00171":
-      tags:
-        - save
 "Nora to Oujo to Noraneko Heart (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01107":
@@ -8343,11 +9231,17 @@
         - save
 "Norman's Great Illusion (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01461":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01496":
       tags:
         - save
 "Nova-111 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00783":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00686":
       tags:
         - save
@@ -8356,6 +9250,9 @@
         - save
 "Nuclear Throne (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00914":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00828":
       tags:
         - save
@@ -8377,6 +9274,9 @@
         - save
 "Nurse Love Syndrome (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01283":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01318":
       tags:
         - save
@@ -8447,6 +9347,16 @@
     "<root>/ux0/user/*/savedata/PCSE01097":
       tags:
         - save
+"Oceanhorn - Monster of Uncharted Seas (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01068":
+      tags:
+        - save
+"Octodad - Tako to Yoba na Ide (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00707":
+      tags:
+        - save
 "Octodad: Dadliest Catch (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00825":
@@ -8456,6 +9366,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00917":
+      tags:
+        - save
+"Oddworld - New 'n' Tasty (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00394":
       tags:
         - save
 "Oddworld: Munch's Oddysee HD (Vita)":
@@ -8474,6 +9389,11 @@
 "Oddworld: Stranger's Wrath HD (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00180":
+      tags:
+        - save
+"Odin Sphere - Leifdrasir (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00524":
       tags:
         - save
 "Odin Sphere Leifthrasir (Vita)":
@@ -8508,6 +9428,11 @@
     "<root>/ux0/user/*/savedata/PCSE00341":
       tags:
         - save
+"OlliOlli2 - Welcome to Olliwood (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00590":
+      tags:
+        - save
 "OlliOlli2: Welcome to Olliwood (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00479":
@@ -8536,9 +9461,38 @@
     "<root>/ux0/user/*/savedata/PCSB01213":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01220":
+      tags:
+        - save
 "One More Dungeon (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01191":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01176":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH10094":
+      tags:
+        - save
+"One Piece - Burning Blood (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00202":
+      tags:
+        - save
+"One Piece - Kaizoku Musou 3 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00230":
+      tags:
+        - save
+"One Piece - Pirate Warriors 2 - Ace (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/NPJB00328":
+      tags:
+        - save
+"One Piece - Pirate Warriors 3 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00145":
       tags:
         - save
 "One Piece: Burning Blood (Vita)":
@@ -8606,6 +9560,11 @@
     "<root>/ux0/user/*/savedata/PCSG00387":
       tags:
         - save
+"Operation Babel - New Tokyo Legacy (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01094":
+      tags:
+        - save
 "Operation Babel: New Tokyo Legacy (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01047":
@@ -8627,6 +9586,11 @@
 "Ore ni Hatarakette Iwaretemo Tori (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00623":
+      tags:
+        - save
+"Oreshika - Tainted Bloodlines (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSF00688":
       tags:
         - save
 "Oreshika: Tainted Bloodlines (Vita)":
@@ -8767,6 +9731,11 @@
     "<root>/ux0/user/*/savedata/PCSG01333":
       tags:
         - save
+"Pachi Pachi on a Roll (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10285":
+      tags:
+        - save
 "Paint Park (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSA00059":
@@ -8810,6 +9779,14 @@
     "<root>/ux0/user/*/savedata/PCSE01417":
       tags:
         - save
+"Pantsu Hunter - Back to the 90s (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01385":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10215":
+      tags:
+        - save
 "Papers, Please (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01084":
@@ -8823,17 +9800,31 @@
         - save
 "Paradox Soul (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01360":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01401":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10162":
       tags:
         - save
 "Paranautical Activity (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00870":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00821":
       tags:
         - save
 "Parfait (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00549":
+      tags:
+        - save
+"Pato Box (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10149":
       tags:
         - save
 "PatoBoxTheGame (Vita)":
@@ -8849,13 +9840,27 @@
     "<root>/ux0/user/*/savedata/PCSE01082":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10120":
+      tags:
+        - save
 "Penny-Punching Princess (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01197":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01143":
+      tags:
+        - save
+"Perils of Baking (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10210":
       tags:
         - save
 "Perils of Baking - Refrosted (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01317":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01342":
       tags:
         - save
@@ -8872,6 +9877,11 @@
     "<root>/ux0/user/*/savedata/PCSE01012":
       tags:
         - save
+"Persona 3 - Dancing In Moonlight - Featherman Set (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10108":
+      tags:
+        - save
 "Persona 3: Dancing in Moonlight (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01256":
@@ -8881,6 +9891,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG01031":
+      tags:
+        - save
+"Persona 4 - Dancing All Night (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00211":
       tags:
         - save
 "Persona 4 GOLDEN (Vita)":
@@ -8911,6 +9926,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00364":
+      tags:
+        - save
+"Persona 5 - Dancing Star Night (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10109":
       tags:
         - save
 "Persona 5: Dancing in Starlight (Vita)":
@@ -8945,6 +9965,16 @@
 "Phantasy Star Online 2 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00141":
+      tags:
+        - save
+"Phantom Breaker - Battle Grounds - Additional Sound Pack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00277":
+      tags:
+        - save
+"Phantom Breaker - Battle Grounds - Frau Additional Pack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00583":
       tags:
         - save
 "Phantom Breaker : Battlegrounds (Vita)":
@@ -8982,32 +10012,68 @@
         - save
 "Pic-a-Pix Classic (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01330":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01376":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10172":
       tags:
         - save
 "Pic-a-Pix Classic 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01401":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01435":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10214":
       tags:
         - save
 "Pic-a-Pix Color (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01185":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01253":
       tags:
         - save
 "Pic-a-Pix Color 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01388":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01422":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10185":
       tags:
         - save
 "Pic-a-Pix Pieces (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01318":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01357":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01270":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10171":
       tags:
         - save
 "Pic-a-Pix Pieces 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01430":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01466":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10239":
       tags:
         - save
 "Pinball Arcade (Vita)":
@@ -9028,6 +10094,9 @@
         - save
 "Pirate Solitaire (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00673":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00751":
       tags:
         - save
@@ -9041,6 +10110,9 @@
         - save
 "Pixel Hunter (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00885":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00874":
       tags:
         - save
@@ -9062,12 +10134,24 @@
         - save
 "Plague Road (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01142":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01074":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01169":
       tags:
         - save
 "Planet RIX-13 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01304":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01336":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10296":
       tags:
         - save
 "Plantera (Vita)":
@@ -9091,6 +10175,11 @@
     "<root>/ux0/user/*/savedata/PCSG00931":
       tags:
         - save
+"PlayStation 20th Anniversary Theme (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSD00096":
+      tags:
+        - save
 "PlayStation All-Stars Battle Royale (BETA) (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSA00084":
@@ -9112,6 +10201,11 @@
     "<root>/ux0/user/*/savedata/PCSF00153":
       tags:
         - save
+"PlayStation Awards - 2015 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSC00094":
+      tags:
+        - save
 "PlayStation Home Arcade (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSA00083":
@@ -9128,9 +10222,17 @@
     "<root>/ux0/user/*/savedata/PCSI00013":
       tags:
         - save
+"PlayStation Plus Special - January 2017 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSC00092":
+      tags:
+        - save
 "PlayStation Vita Pets (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSF00088":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSF00518":
       tags:
         - save
 "PlayStationMobile Development Assistant for Unity (Vita)":
@@ -9166,6 +10268,11 @@
     "<root>/ux0/user/*/savedata/PCSE00558":
       tags:
         - save
+"Poltergeist - A Pixelated Horror (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00736":
+      tags:
+        - save
 "Poltergeist: A Pixelated Horror (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00564":
@@ -9188,6 +10295,9 @@
         - save
 "Pox Nora (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01027":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00961":
       tags:
         - save
@@ -9219,6 +10329,11 @@
 "Princess Strike! (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00188":
+      tags:
+        - save
+"Princess wa Kane no Mouja (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00946":
       tags:
         - save
 "Pro Yakyuu Spirits 2012 (Vita)":
@@ -9253,7 +10368,13 @@
         - save
 "Project Root (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00650":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00486":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00783":
       tags:
         - save
 "Proteus (Vita)":
@@ -9269,6 +10390,9 @@
         - save
 "Psychedelica of the Ashen Hawk (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01175":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01166":
       tags:
         - save
@@ -9277,7 +10401,13 @@
         - save
 "Psychedelica of the Black Butterfly (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01177":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSG00468":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10077":
       tags:
         - save
 "Psychedelica of the black butterfly (Vita)":
@@ -9288,6 +10418,16 @@
 "PsychicEmotion6 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00815":
+      tags:
+        - save
+"Psycho-Pass - Mandatory Happiness (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00284":
+      tags:
+        - save
+"Psycho-Pass - Sentaku Naki Koufuku (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00801":
       tags:
         - save
 "Puddle (Vita)":
@@ -9308,7 +10448,18 @@
         - save
 "Pumped BMX + (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00803":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00702":
+      tags:
+        - save
+"Punch Line (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01259":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00712":
       tags:
         - save
 "Puramai Wars V (Vita)":
@@ -9388,9 +10539,20 @@
     "<root>/ux0/user/*/savedata/PCSE00143":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00175":
+      tags:
+        - save
+"Quiet Collection, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00888":
+      tags:
+        - save
 "RAYGIGANT (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00928":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00843":
       tags:
         - save
 "RE:VICE[D] (Vita)":
@@ -9461,6 +10623,9 @@
     "<root>/ux0/user/*/savedata/PCSH10019":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10050":
+      tags:
+        - save
 "Raging Loop (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00958":
@@ -9529,11 +10694,20 @@
         - save
 "Rainbow Skies (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00414":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00318":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01222":
       tags:
         - save
 "Rally Copters (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00896":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00732":
       tags:
         - save
@@ -9584,7 +10758,7 @@
         - save
 "Ray Gigant (Vita)":
   files:
-    "<root>/ux0/user/*/savedata/PCSE00843":
+    "<root>/ux0/user/*/savedata/PCSG00552":
       tags:
         - save
 "Rayman Legends (Vita)":
@@ -9593,6 +10767,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00277":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00118":
       tags:
         - save
 "Rayman Legends + Rayman Origins (Vita)":
@@ -9670,12 +10847,23 @@
         - save
 "Red Bow (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01399":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01434":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10189":
       tags:
         - save
 "Red Game Without A Great Name (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00807":
+      tags:
+        - save
+"Red Game without a Great Name (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00887":
       tags:
         - save
 "Red Sand Falling Moon Demo (Vita)":
@@ -9700,6 +10888,16 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10233":
+      tags:
+        - save
+"Reel Fishing - Master's Challenge (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00744":
+      tags:
+        - save
+"Reel Fishing - Wasureteita Yakusoku (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00649":
       tags:
         - save
 "Reel Fishing: Master's Challenge (Vita)":
@@ -9794,9 +10992,18 @@
     "<root>/ux0/user/*/savedata/PCSE01322":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01230":
+      tags:
+        - save
 "Revenant Saga (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01168":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01065":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01061":
       tags:
         - save
 "Revenge of the Bird King (Vita)":
@@ -9806,7 +11013,13 @@
         - save
 "Reverie (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01190":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01229":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01147":
       tags:
         - save
 "Rewrite (Vita)":
@@ -9821,10 +11034,16 @@
         - save
 "Riddled Corpses EX (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01242":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSB01275":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01251":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10261":
       tags:
         - save
 "Ridge Racer (Vita)":
@@ -9849,6 +11068,9 @@
         - save
 "Risk of Rain (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00935":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00850":
       tags:
         - save
@@ -9870,6 +11092,11 @@
     "<root>/ux0/user/*/savedata/PCSG90115":
       tags:
         - save
+"Rock Boshers DX - Director's Cut (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00652":
+      tags:
+        - save
 "Rock Boshers DX Soundtrack (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00714":
@@ -9878,6 +11105,14 @@
 "Rock Boshers DX: Director's Cut (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00541":
+      tags:
+        - save
+"Rocketbirds 2 - Evolution (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00818":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00127":
       tags:
         - save
 "Rocketbirds 2: Evolution (Vita)":
@@ -9933,6 +11168,9 @@
         - save
 "Romancing SaGa 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01120":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01094":
       tags:
         - save
@@ -9941,7 +11179,13 @@
         - save
 "Romancing SaGa 3 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01305":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01337":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01234":
       tags:
         - save
 "Romeo VS Juliet Zenkan Pack (Vita)":
@@ -9949,14 +11193,29 @@
     "<root>/ux0/user/*/savedata/PCSG00618":
       tags:
         - save
+"Root Double - Before Crime - After Days - Xtend Edition (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01316":
+      tags:
+        - save
 "Root Double -Before Crime After Days Xtend Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01055":
       tags:
         - save
-"Root Letter Last Answer (Vita)":
+"Rose in the Twilight, A (Vita)":
   files:
-    "<root>/ux0/user/*/savedata/PCSG01238":
+    "<root>/ux0/user/*/savedata/PCSH00267":
+      tags:
+        - save
+"Rose to Tasogare no Kojo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00268":
+      tags:
+        - save
+"Rose to Tasogare no Kojou (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00851":
       tags:
         - save
 "Rosé and the Old Castle of Twilight Demo (Vita)":
@@ -10039,6 +11298,9 @@
         - save
 "Rush Rover (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01339":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01387":
       tags:
         - save
@@ -10104,6 +11366,11 @@
 "SD Gundam G Generation Genesis (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00793":
+      tags:
+        - save
+"SD Gundam G Generation Genesis - Additional Character - Yuko Ortensia (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00243":
       tags:
         - save
 "SENRAN KAGURA Bon Appetit! (Hanzo x Crimson Squad) (Vita)":
@@ -10344,6 +11611,19 @@
     "<root>/ux0/user/*/savedata/PCSG00041":
       tags:
         - save
+"Samurai Shodown V Special (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01153":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01101":
+      tags:
+        - save
+"Samurai Warriors - Chronicles 3 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00806":
+      tags:
+        - save
 "Samurai Warriors 2: Empires HD Version (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00230":
@@ -10364,6 +11644,9 @@
         - save
 "Samurai Warriors 4 Empires (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00907":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSG00692":
       tags:
         - save
@@ -10427,6 +11710,9 @@
         - save
 "Save the Ninja Clan (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01140":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01128":
       tags:
         - save
@@ -10461,6 +11747,11 @@
     "<root>/ux0/user/*/savedata/PCSG00574":
       tags:
         - save
+"Schwarzesmarken - Kouketsu no Monshou - Prologue (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90202":
+      tags:
+        - save
 "Scintillatron4096 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01302":
@@ -10471,6 +11762,9 @@
         - save
 "ScourgeBringer (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01467":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01505":
       tags:
         - save
@@ -10493,9 +11787,22 @@
     "<root>/ux0/user/*/savedata/PCSE01153":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10067":
+      tags:
+        - save
+"Seiken Densetsu 2 - Secret of Mana (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01121":
+      tags:
+        - save
 "Seiken Densetsu: Rise of Mana (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00460":
+      tags:
+        - save
+"Sekai Ichi Nagai 5-fun Kan (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00892":
       tags:
         - save
 "Sekai Seifuku: Costume Fes. (Vita)":
@@ -10509,6 +11816,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01142":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10064":
       tags:
         - save
 "Sen no Hatou, Tsukisome no Kouki (Vita)":
@@ -10571,6 +11881,26 @@
     "<root>/ux0/user/*/savedata/PCSG00428":
       tags:
         - save
+"Senran Kagura - Bitter (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00984":
+      tags:
+        - save
+"Senran Kagura - Bon Appetit! (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00447":
+      tags:
+        - save
+"Senran Kagura - Crimson Lotus (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00627":
+      tags:
+        - save
+"Senran Kagura - Estival Versus (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00418":
+      tags:
+        - save
 "Senran Kagura ESTIVAL VERSUS (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSH00162":
@@ -10620,6 +11950,9 @@
         - save
 "Shakedown Hawaii (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01375":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01125":
       tags:
         - save
@@ -10634,6 +11967,11 @@
 "She (That Girl) Can't Leave Me Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90111":
+      tags:
+        - save
+"Shiin (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01005":
       tags:
         - save
 "Shikihime no Niwa (Vita)":
@@ -10661,14 +11999,34 @@
     "<root>/ux0/user/*/savedata/PCSG00010":
       tags:
         - save
+"Shin Sangoku Musou 7 - Empires - Free Alliances Version (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00198":
+      tags:
+        - save
+"Shin Sangoku Musou 7 - Empires - Kyoutouban - Juujigeki & Ryoreiki (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00453":
+      tags:
+        - save
 "Shin Sangoku Musou 7 Empires (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00452":
       tags:
         - save
+"Shin Sangoku Musou 7 Empires - Additional BGM Set 1 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00197":
+      tags:
+        - save
 "Shin Sangoku Musou 7 with Moushouden (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSH00052":
+      tags:
+        - save
+"Shin Sangoku Musou 7 with Moushouden - BGM Character - Riboud & Diao Chan (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00251":
       tags:
         - save
 "Shin Sangoku Musou Eiketsuden (Vita)":
@@ -10721,6 +12079,11 @@
     "<root>/ux0/user/*/savedata/PCSG90011":
       tags:
         - save
+"Shinsei Batteki Drive Girls (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00934":
+      tags:
+        - save
 "Shinsou-ban Mahou-tsukai to Goshujin-sama (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00580":
@@ -10739,6 +12102,11 @@
 "Shinsouban Okashi na Shima no Peter Pan ~Sweet Never Land~ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00526":
+      tags:
+        - save
+"Shiren the Wanderer - The Tower of Fortune and the Dice of Fate (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00989":
       tags:
         - save
 "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate (Vita)":
@@ -10771,6 +12139,11 @@
     "<root>/ux0/user/*/savedata/PCSG00822":
       tags:
         - save
+"Shitsuji ga Aruji o Erabu Toki Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90200":
+      tags:
+        - save
 "Shoujo to Dragon: Genjuu Keiyaku Cryptract (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00924":
@@ -10792,9 +12165,19 @@
     "<root>/ux0/user/*/savedata/PCSE00923":
       tags:
         - save
+"Shutshimi (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00807":
+      tags:
+        - save
 "Shütshimi (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00705":
+      tags:
+        - save
+"Sid Meier's Civilization Revolution 2 Plus - East Asia Naval Scenario Pack (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00746":
       tags:
         - save
 "Side Kicks! (Vita)":
@@ -10804,7 +12187,13 @@
         - save
 "Sigi - A Fart for Melusina (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01266":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01280":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10294":
       tags:
         - save
 "Silent Hill: Book of Memories (Vita)":
@@ -10865,6 +12254,9 @@
         - save
 "Siralim (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00950":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00773":
       tags:
         - save
@@ -10873,6 +12265,9 @@
         - save
 "Siralim 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01096":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01016":
       tags:
         - save
@@ -10943,6 +12338,11 @@
 "Slain (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00974":
+      tags:
+        - save
+"Slain - Back from Hell (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01037":
       tags:
         - save
 "Slayaway Camp: Butcher's Cut (Vita)":
@@ -11055,11 +12455,22 @@
         - save
 "Sokoban Next (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01074":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01183":
+      tags:
+        - save
+"Soldner-X 2 - Final Prototype (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00443":
       tags:
         - save
 "Son of Scoregasm (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01146":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01154":
       tags:
         - save
@@ -11197,6 +12608,9 @@
         - save
 "Spacejacked (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01156":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01145":
       tags:
         - save
@@ -11212,11 +12626,17 @@
         - save
 "Sparkle Unleashed (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00774":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00680":
       tags:
         - save
 "Spellspire (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01125":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01089":
       tags:
         - save
@@ -11238,7 +12658,13 @@
         - save
 "Spheroids (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00946":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00870":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01041":
       tags:
         - save
 "Spider: Rite of the Shrouded Moon (Vita)":
@@ -11251,6 +12677,9 @@
         - save
 "Spiral Splatter (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01188":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01175":
       tags:
         - save
@@ -11269,6 +12698,9 @@
         - save
 "Spy Chameleon (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00978":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00933":
       tags:
         - save
@@ -11283,6 +12715,11 @@
     "<root>/ux0/user/*/savedata/PCSG00128":
       tags:
         - save
+"Squareboy vs Bullies - Arena Edition (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01158":
+      tags:
+        - save
 "Squareboy vs Bullies: Arena Edition (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01151":
@@ -11291,6 +12728,12 @@
 "Squares (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00850":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE00676":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00784":
       tags:
         - save
 "Star Ocean Second Evolution (Vita)":
@@ -11327,6 +12770,11 @@
 "Starlight Inception (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00354":
+      tags:
+        - save
+"Starlight Inception Beta (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00355":
       tags:
         - save
 "Starry☆Sky ～Autumn Stories～ (Vita)":
@@ -11424,12 +12872,18 @@
         - save
 "Steins;Gate (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00724":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00644":
       tags:
         - save
 "Steins;Gate 0 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00949":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00259":
       tags:
         - save
 "Steins;Gate Senkei Kousoku no Phenogram (Vita)":
@@ -11457,7 +12911,15 @@
         - save
 "Still Time (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00968":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01098":
+      tags:
+        - save
+"Stranded - A Mars Adventure (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00933":
       tags:
         - save
 "Stranded: A Mars Adventure (Vita)":
@@ -11481,8 +12943,16 @@
     "<root>/ux0/user/*/savedata/PCSG00907":
       tags:
         - save
+"Strawberry Nauts Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90232":
+      tags:
+        - save
 "Strike Solitaire (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00675":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00688":
       tags:
         - save
@@ -11497,6 +12967,11 @@
 "SturmFront - The Mutant War (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01514":
+      tags:
+        - save
+"SturmFront - The Mutant War - Farewell Edition (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01476":
       tags:
         - save
 "Sudoku by Nikoli V (Vita)":
@@ -11530,6 +13005,11 @@
     "<root>/ux0/user/*/savedata/PCSH00225":
       tags:
         - save
+"Sun and Moon, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00869":
+      tags:
+        - save
 "SunFlowers (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00107":
@@ -11554,6 +13034,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE01433":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10200":
       tags:
         - save
 "Super Destronaut DX (Vita)":
@@ -11678,6 +13161,19 @@
     "<root>/ux0/user/*/savedata/PCSG00190":
       tags:
         - save
+"Super Robot Taisen V (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00920":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10004":
+      tags:
+        - save
+"Super Robot Taisen V - Premium Anime Song & Sound Edition (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00974":
+      tags:
+        - save
 "Super Robot Taisen X (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01128":
@@ -11711,6 +13207,9 @@
         - save
 "Super Star Wars (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00899":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00802":
       tags:
         - save
@@ -11730,19 +13229,66 @@
     "<root>/ux0/user/*/savedata/PCSE00698":
       tags:
         - save
+"Super Time Force Ultra (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00786":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00879":
+      tags:
+        - save
 "Super Weekend Mode (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01334":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01374":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10150":
       tags:
         - save
 "Super Wiloo Demake (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01382":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01415":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10183":
       tags:
         - save
 "SuperZangyura (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01207":
+      tags:
+        - save
+"Superbeat - Xonic (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00891":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00645":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00167":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00264":
+      tags:
+        - save
+"Superdimension Neptune VS Sega Hard Girls (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00977":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10018":
+      tags:
+        - save
+"Superdimension Neptune Vs Sega Hard Girls - Bookmark (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00252":
       tags:
         - save
 "Superdimension Neptune vs Sega Hard Girls (Vita)":
@@ -11756,6 +13302,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00238":
+      tags:
+        - save
+"Supermagical (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00513":
       tags:
         - save
 "Supremacy MMA: Unrestricted (Vita)":
@@ -11801,12 +13352,27 @@
     "<root>/ux0/user/*/savedata/PCSB00923":
       tags:
         - save
+"Swindle, The (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00778":
+      tags:
+        - save
 "Switch Galaxy Ultra (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00507":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00493":
+      tags:
+        - save
+"Sword Art Online - Hollow Realization (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00266":
+      tags:
+        - save
+"Sword Art Online - Lost Song - Quest - Hunting Battlefield of the forsaken (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00135":
       tags:
         - save
 "Sword Art Online -Hollow Fragment- (Vita)":
@@ -12125,6 +13691,12 @@
     "<root>/ux0/user/*/savedata/PCSE01500":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG01331":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10299":
+      tags:
+        - save
 "Tales From Space: Mutant Blobs Attack (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00034":
@@ -12163,7 +13735,16 @@
         - save
 "Task Force Kampas (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01435":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01468":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01323":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10248":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10266":
@@ -12263,6 +13844,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH00210":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00226":
       tags:
         - save
 "Tetris Ultimate (Vita)":
@@ -12409,6 +13993,11 @@
 "The Legend of Dark Witch -Chronicle 2D ACT- (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE01049":
+      tags:
+        - save
+"The Legend of Heroes - Sora no Kiseki The 3Rd Evolution - Free Set of Advanced Recovery Potions (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10083":
       tags:
         - save
 "The Legend of Heroes: Trails from Zero Evolution (Vita)":
@@ -12650,7 +14239,13 @@
         - save
 "Thy Sword (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01383":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01416":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01327":
       tags:
         - save
 "Tic-Tac-Letters by POWGI (Vita)":
@@ -12666,6 +14261,9 @@
         - save
 "Time Recoil (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01207":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01186":
       tags:
         - save
@@ -12688,6 +14286,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00432":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG00564":
       tags:
         - save
 "Titan Attacks! (Vita)":
@@ -12761,14 +14362,25 @@
     "<root>/ux0/user/*/savedata/PCSG00631":
       tags:
         - save
-"Tokyo Twilight - Ghost Hunters (Vita)":
+"Tokyo Tattoo Girls (Vita)":
   files:
-    "<root>/ux0/user/*/savedata/PCSB00655":
+    "<root>/ux0/user/*/savedata/PCSG00899":
       tags:
         - save
 "Tokyo Twilight Ghost Hunters (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00655":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00509":
+      tags:
+        - save
+"Tokyo Twilight Ghost Hunters - Daybreak Special Gigs (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01024":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10032":
       tags:
         - save
 "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs (Vita)":
@@ -12790,6 +14402,9 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSG00608":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10009":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10010":
@@ -12830,8 +14445,16 @@
     "<root>/ux0/user/*/savedata/PCSG90230":
       tags:
         - save
+"Toro (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSD00099":
+      tags:
+        - save
 "TorqueL (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00760":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00671":
       tags:
         - save
@@ -12877,6 +14500,11 @@
     "<root>/ux0/user/*/savedata/PCSG00977":
       tags:
         - save
+"Touhou Genso Rondo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00947":
+      tags:
+        - save
 "Touhou Genso Wanderer TOD -RELOADED- (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00985":
@@ -12898,6 +14526,11 @@
     "<root>/ux0/user/*/savedata/PCSG00999":
       tags:
         - save
+"Touhou Project - Four Seasons - Autumn (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00562":
+      tags:
+        - save
 "Touhou Sky Arena: Gensoukyou Kuusen Hime Matsuri Climax (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00701":
@@ -12908,6 +14541,21 @@
     "<root>/ux0/user/*/savedata/PCSG00752":
       tags:
         - save
+"Toukiden - Kiwami (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00110":
+      tags:
+        - save
+"Toukiden - Kiwami - Armor - Gingalain Set - Red Riding Hood Set (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00103":
+      tags:
+        - save
+"Toukiden - Kiwami - Armor Dress - Sinners (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00105":
+      tags:
+        - save
 "Toukiden - The Age of Demons (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00478":
@@ -12915,10 +14563,25 @@
         - save
 "Toukiden 2 (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01003":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00940":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSG00830":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG90241":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH00292":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSH00295":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10022":
       tags:
         - save
 "Toukiden 2 - Carryover Demo (Vita)":
@@ -12927,6 +14590,14 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH10023":
+      tags:
+        - save
+"Toukiden 2 - Free Alliances Version (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01102":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10027":
       tags:
         - save
 "Toukiden 2 Demo (Vita)":
@@ -13037,9 +14708,14 @@
     "<root>/ux0/user/*/savedata/PCSG01023":
       tags:
         - save
-"Tsuki ni Yorisou Otome no Sahou: Hidamari no Hibi (Vita)":
+"Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00648":
+      tags:
+        - save
+"Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Demo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90181":
       tags:
         - save
 "Tsukiei Academy -kou- (Vita)":
@@ -13055,6 +14731,11 @@
 "Tsumikui: Sen no Noroi, Sen no Inori for V (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01019":
+      tags:
+        - save
+"Tsurugi no Machi no Ihoujin - Kuro no Kyuuden - Black Palace - Escario Members Portrait Set (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00445":
       tags:
         - save
 "Tuenti (Vita)":
@@ -13083,6 +14764,9 @@
         - save
 "Twin Robots (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01106":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01081":
       tags:
         - save
@@ -13181,6 +14865,9 @@
         - save
 "Ultratron (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00505":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00414":
       tags:
         - save
@@ -13266,6 +14953,9 @@
     "<root>/ux0/user/*/savedata/PCSE00840":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH10078":
+      tags:
+        - save
 "Uni Uni Union (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00090":
@@ -13308,6 +14998,14 @@
     "<root>/ux0/user/*/savedata/PCSF00130":
       tags:
         - save
+"Uppers (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90218":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG90226":
+      tags:
+        - save
 "Urban Trial Freestyle (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00038":
@@ -13320,6 +15018,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH00159":
+      tags:
+        - save
+"Usa's Dream Edition - Ending (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSC00099":
       tags:
         - save
 "Usotsuki Hime to Moumoku Ouji (Vita)":
@@ -13365,6 +15068,16 @@
 "Uta no☆Prince-sama♪Repeat LOVE Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG90274":
+      tags:
+        - save
+"Utawarerumono - Chiriyuku Mono e no Komoriuta (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00702":
+      tags:
+        - save
+"Utawarerumono - Chiriyukusha E no Komoriuta - Season Pass Bonus Item (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01079":
       tags:
         - save
 "Utawarerumono: Mask of Deception (Vita)":
@@ -13474,6 +15187,11 @@
     "<root>/ux0/user/*/savedata/PCSH10008":
       tags:
         - save
+"Valkyria Revolution - Banargan formation (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10035":
+      tags:
+        - save
 "Valkyria Revolution Prologue Demo (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSH10020":
@@ -13489,14 +15207,25 @@
     "<root>/ux0/user/*/savedata/PCSG01159":
       tags:
         - save
+"Vasara Collection (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01281":
+      tags:
+        - save
 "Vasilis (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01379":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE01412":
+      tags:
+        - save
 "Vegas Party (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01133":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSE01114":
       tags:
         - save
 "Velocibox (Vita)":
@@ -13505,6 +15234,11 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00712":
+      tags:
+        - save
+"Velocity 2X (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00122":
       tags:
         - save
 "Velocity 2X Soundtrack (Vita)":
@@ -13586,6 +15320,9 @@
         - save
 "Vostok Inc. (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01151":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01038":
       tags:
         - save
@@ -13687,6 +15424,11 @@
     "<root>/ux0/user/*/savedata/PCSE01266":
       tags:
         - save
+"Walking Dead, The - Season Two - Episode 1 - All That Remains (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00872":
+      tags:
+        - save
 "Walpurgis no Uta (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00768":
@@ -13715,6 +15457,11 @@
     "<root>/ux0/user/*/savedata/PCSE00938":
       tags:
         - save
+"Wanted Corp. (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01055":
+      tags:
+        - save
 "WantedCorp. (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSE00036":
@@ -13732,7 +15479,13 @@
         - save
 "Warlock's Tower (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01208":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01045":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10137":
       tags:
         - save
 "Warriors All-Stars (Vita)":
@@ -13743,6 +15496,11 @@
 "Warriors Orochi 2 Ultimate (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00209":
+      tags:
+        - save
+"WeatherNation (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00364":
       tags:
         - save
 "Welcome Park (Vita)":
@@ -13771,6 +15529,9 @@
     "<root>/ux0/user/*/savedata/PCSB00727":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSE00633":
+      tags:
+        - save
 "White Album 2: Shiawase no Mukougawa (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00249":
@@ -13778,6 +15539,9 @@
         - save
 "Windjammers (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01083":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01032":
       tags:
         - save
@@ -13809,6 +15573,11 @@
 "Winning Post 8 2018 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG01174":
+      tags:
+        - save
+"Winter's Daydream, A (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH10298":
       tags:
         - save
 "WipEout 2048 (Vita)":
@@ -13846,7 +15615,13 @@
         - save
 "Without Escape (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01410":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01445":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10219":
       tags:
         - save
 "Wizardry: Torawareshi Bourei no Machi (Vita)":
@@ -13960,6 +15735,9 @@
     "<root>/ux0/user/*/savedata/PCSG00709":
       tags:
         - save
+    "<root>/ux0/user/*/savedata/PCSH00223":
+      tags:
+        - save
 "Wurroom (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01446":
@@ -13991,6 +15769,16 @@
     "<root>/ux0/user/*/savedata/PCSG00463":
       tags:
         - save
+"XBlaze - Code - Embryo (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00745":
+      tags:
+        - save
+"XBlaze Lost - Memories (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00976":
+      tags:
+        - save
 "XCOM: Enemy Unknown Plus (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00742":
@@ -14004,12 +15792,24 @@
         - save
 "Xeno Crisis (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01448":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01481":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01326":
       tags:
         - save
 "Xenon Valkyrie+ (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01202":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01191":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10257":
       tags:
         - save
 "Xenoraid (Vita)":
@@ -14022,6 +15822,9 @@
         - save
 "Xeodrifter (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB00797":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00694":
       tags:
         - save
@@ -14069,9 +15872,17 @@
     "<root>/ux0/user/*/savedata/PCSH00147":
       tags:
         - save
-"Yomawari - Night Alone + htol-NiQ - The Firefly Diary (Vita)":
+"Yomawari - Night Alone & htoL-NiQ - The Firefly Diary (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01038":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE00989":
+      tags:
+        - save
+"Yomawari - Night Alone (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB00987":
       tags:
         - save
 "Yomawari: Midnight Shadows (Vita)":
@@ -14114,6 +15925,21 @@
     "<root>/ux0/user/*/savedata/PCSH10049":
       tags:
         - save
+"Ys VIII - Lacrimosa of Dana (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00881":
+      tags:
+        - save
+"Ys VIII - Lacrimosa of Dana - Free Experience Set - 1 (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00296":
+      tags:
+        - save
+"Ys VIII - Lacrimosa of Dana - Muryou-ban (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90259":
+      tags:
+        - save
 "Ys VIII -Lacrimosa of DANA- (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01128":
@@ -14137,6 +15963,14 @@
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSH00181":
+      tags:
+        - save
+"Yumeutsutsu Re-Master (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSB01425":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSG01266":
       tags:
         - save
 "Yumeutsutsu Re:After (Vita)":
@@ -14226,6 +16060,11 @@
     "<root>/ux0/user/*/savedata/PCSE00050":
       tags:
         - save
+"Zero Escape - Toki no Dilemma (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG00747":
+      tags:
+        - save
 "Zero Escape: The Nonary Games (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB01063":
@@ -14263,12 +16102,24 @@
         - save
 "Zero Zero Zero Zero (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01116":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01088":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10221":
       tags:
         - save
 "Zeroptian Invasion (Vita)":
   files:
+    "<root>/ux0/user/*/savedata/PCSB01328":
+      tags:
+        - save
     "<root>/ux0/user/*/savedata/PCSE01371":
+      tags:
+        - save
+    "<root>/ux0/user/*/savedata/PCSH10151":
       tags:
         - save
 "Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm (Vita)":
@@ -14281,12 +16132,22 @@
     "<root>/ux0/user/*/savedata/PCSG00611":
       tags:
         - save
+"Zettai Zetsubou Shoujo - Dangan-Ronpa - Another Episode (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSH00146":
+      tags:
+        - save
 "Zombie Tycoon 2 : Brainhov's Revenge (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSB00194":
       tags:
         - save
     "<root>/ux0/user/*/savedata/PCSE00102":
+      tags:
+        - save
+"Zombies - The Last Survivor (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSE00894":
       tags:
         - save
 "Zombies: The Last Survivor (Vita)":
@@ -14457,14 +16318,24 @@
     "<root>/ux0/user/*/savedata/PCSH00289":
       tags:
         - save
+"√Letter Last Answer (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG01238":
+      tags:
+        - save
 "チェルシーさんは7の魔神をブッ殺さねばならない。 (Vita)":
   files:
     "<root>/ux0/user/*/savedata/PCSG00837":
       tags:
         - save
-"信長の野望･天道 with パワーアップキット (Vita)":
+"初音ミク -Project DIVA- F 2nd 先行体験版 (Vita)":
   files:
-    "<root>/ux0/user/*/savedata/PCSG00112":
+    "<root>/ux0/user/*/savedata/PCSG90089":
+      tags:
+        - save
+"初音ミク -Project DIVA- f TRIAL EDITION (Vita)":
+  files:
+    "<root>/ux0/user/*/savedata/PCSG90038":
       tags:
         - save
 "大正メビウスライン Vitable 体験版 (Vita)":

@@ -3498,6 +3498,14 @@
     "<root>/mazeodoom.*":
       tags:
         - save
+"Hollywood Monsters (ScummVM)":
+  files:
+    "<root>/hollywood-*.*":
+      tags:
+        - save
+    "<root>/hollywood.*":
+      tags:
+        - save
 "Hopkins FBI (ScummVM)":
   files:
     "<root>/hopkins-*.*":

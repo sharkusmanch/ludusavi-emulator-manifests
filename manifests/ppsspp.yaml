@@ -310,10 +310,16 @@
     "<root>/PPSSPP_STATE/ULJM05923_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJM08060_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50459*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05923*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM08060*":
       tags:
         - save
 "7th Dragon 2020-II (PSP)":
@@ -441,7 +447,25 @@
     "<root>/PPSSPP_STATE/NPJH50472_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00412_*":
+      tags:
+        - save
+    "<root>/PPSSPP_STATE/ULJS00413_*":
+      tags:
+        - save
+    "<root>/PPSSPP_STATE/ULJS00414_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50472*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00412*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00413*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00414*":
       tags:
         - save
 "AKB1-48 - Idol to Koishitara... (PSP)":
@@ -456,26 +480,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJS00480*":
-      tags:
-        - save
-"AKB1-48+10 - Idol to Guam de Koishitara... (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/ULJS00412_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/ULJS00413_*":
-      tags:
-        - save
-    "<root>/PPSSPP_STATE/ULJS00414_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJS00412*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJS00413*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJS00414*":
       tags:
         - save
 "ASO II - Last Guardian (PSP)":
@@ -2025,7 +2029,13 @@
     "<root>/PPSSPP_STATE/NPJH50720_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00565_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50720*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00565*":
       tags:
         - save
 "Battle Royal (PSP)":
@@ -5767,7 +5777,13 @@
     "<root>/PPSSPP_STATE/ULJS00289_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00502_*":
+      tags:
+        - save
     "<root>/SAVEDATA/ULJS00289*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00502*":
       tags:
         - save
 "Daisenryaku Portable (PSP)":
@@ -6474,6 +6490,14 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM05152*":
+      tags:
+        - save
+"Densha de Go! Pocket - Tokaidosen-hen (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/UCAS40108_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCAS40108*":
       tags:
         - save
 "Densha de Go! Pocket - Yamanotesen Hen (PSP)":
@@ -12118,6 +12142,14 @@
     "<root>/SAVEDATA/ULUS10104*":
       tags:
         - save
+"Guilty Gear XX #Reload - The Midnight Carnival (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULKS46028_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULKS46028*":
+      tags:
+        - save
 "Guilty Gear XX - The Midnight Carnival #Reload (PSP)":
   files:
     "<root>/PPSSPP_STATE/ULJM05042_*":
@@ -12150,14 +12182,6 @@
       tags:
         - save
     "<root>/SAVEDATA/ULUS10409*":
-      tags:
-        - save
-"Guilty Gear XX Reload - The Midnight Carnival (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/ULKS46028_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULKS46028*":
       tags:
         - save
 "Gundam Assault Survive (PSP)":
@@ -13201,6 +13225,9 @@
     "<root>/PPSSPP_STATE/NPJH50558_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00454_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULJS00455_*":
       tags:
         - save
@@ -13208,6 +13235,9 @@
       tags:
         - save
     "<root>/SAVEDATA/NPJH50558*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00454*":
       tags:
         - save
     "<root>/SAVEDATA/ULJS00455*":
@@ -13937,6 +13967,9 @@
     "<root>/PPSSPP_STATE/ULJS00152_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00227_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50077*":
       tags:
         - save
@@ -13944,6 +13977,9 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJS00152*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00227*":
       tags:
         - save
 "Ikki Tousen - Xross Impact (PSP)":
@@ -15299,7 +15335,13 @@
     "<root>/PPSSPP_STATE/ULJM05768_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJM06058_*":
+      tags:
+        - save
     "<root>/SAVEDATA/ULJM05768*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06058*":
       tags:
         - save
 "Kangaeru EXIT (PSP)":
@@ -15811,7 +15853,13 @@
     "<root>/PPSSPP_STATE/NPJH50441_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00397_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50441*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00397*":
       tags:
         - save
 "Kidou Senshi Gundam AGE - Cosmic Drive (PSP)":
@@ -16575,7 +16623,13 @@
     "<root>/PPSSPP_STATE/ULJS00056_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJS00198_*":
+      tags:
+        - save
     "<root>/SAVEDATA/ULJS00056*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00198*":
       tags:
         - save
 "Kud Wafter - Converted Edition (PSP)":
@@ -16690,6 +16744,20 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM06362*":
+      tags:
+        - save
+"Kuroyuki-hime - Snow Magic (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ROSE00044_*":
+      tags:
+        - save
+    "<root>/PPSSPP_STATE/ULJM06391_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ROSE00044*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06391*":
       tags:
         - save
 "Kuroyukihime - Snow Black (PSP)":
@@ -18296,6 +18364,9 @@
         - save
 "Mahjong Fight Club - Zenkoku Taisenban (PSP)":
   files:
+    "<root>/PPSSPP_STATE/ULAS42074_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULJM05163_*":
       tags:
         - save
@@ -18303,6 +18374,9 @@
       tags:
         - save
     "<root>/PPSSPP_STATE/ULJM05792_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULAS42074*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05163*":
@@ -18916,12 +18990,28 @@
     "<root>/SAVEDATA/ULJS00465*":
       tags:
         - save
+"Maru Goukaku Shikaku Dasshu! FP Financial Planning Ginou Kentei Shiken 2-kyuu Portable (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJS00436_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00436*":
+      tags:
+        - save
 "Maru Goukaku Shikaku Dasshu! FP Financial Planning Ginou Kentei Shiken 3-kyuu Portable (PSP)":
   files:
     "<root>/PPSSPP_STATE/ULJS00437_*":
       tags:
         - save
     "<root>/SAVEDATA/ULJS00437*":
+      tags:
+        - save
+"Maru Goukaku Shikaku Dasshu! IT Passport Shiken Portable (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJS00418_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00418*":
       tags:
         - save
 "Maru Goukaku Shikaku Dasshu! Kihon Jouhou Gijutsusha Shiken Portable (PSP)":
@@ -18954,6 +19044,22 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJS00495*":
+      tags:
+        - save
+"Maru Goukaku Shikaku Dasshu! TOEIC Test Portable (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJS00479_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00479*":
+      tags:
+        - save
+"Maru Goukaku Shikaku Dasshu! Takken Shiken Portable (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJS00474_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00474*":
       tags:
         - save
 "Marvel - Ultimate Alliance (PSP)":
@@ -19311,7 +19417,13 @@
     "<root>/PPSSPP_STATE/NPJH50808_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJM06294_*":
+      tags:
+        - save
     "<root>/SAVEDATA/NPJH50808*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06294*":
       tags:
         - save
 "Meiji Tokyo Renka - Twilight Kiss (PSP)":
@@ -19344,6 +19456,14 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM05527*":
+      tags:
+        - save
+"Memories Off #5 - Togireta Film (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJM05596_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM05596*":
       tags:
         - save
 "Memories Off (PSP)":
@@ -19462,16 +19582,10 @@
     "<root>/PPSSPP_STATE/ULJM05394_*":
       tags:
         - save
-    "<root>/PPSSPP_STATE/ULJM05596_*":
-      tags:
-        - save
     "<root>/SAVEDATA/NPJH50130*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05394*":
-      tags:
-        - save
-    "<root>/SAVEDATA/ULJM05596*":
       tags:
         - save
 "Memories Off 6 - Next Relation (PSP)":
@@ -21192,10 +21306,16 @@
         - save
 "Musou Tourou (PSP)":
   files:
+    "<root>/PPSSPP_STATE/ULJS00162_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULJS00163_*":
       tags:
         - save
     "<root>/PPSSPP_STATE/ULJS00284_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJS00162*":
       tags:
         - save
     "<root>/SAVEDATA/ULJS00163*":
@@ -22300,6 +22420,9 @@
     "<root>/PPSSPP_STATE/ULJM05494_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/ULJM05738_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULUS10462_*":
       tags:
         - save
@@ -22313,6 +22436,9 @@
       tags:
         - save
     "<root>/SAVEDATA/ULJM05494*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM05738*":
       tags:
         - save
     "<root>/SAVEDATA/ULUS10462*":
@@ -22950,6 +23076,14 @@
       tags:
         - save
     "<root>/SAVEDATA/NPJH00024*":
+      tags:
+        - save
+"Norn9 - Norn + Nonette (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJM06275_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06275*":
       tags:
         - save
 "Norn9 - Norn Plus Nonette (PSP)":
@@ -23716,12 +23850,20 @@
     "<root>/SAVEDATA/UMDT99801*":
       tags:
         - save
-"PSP System Best Buy Kiosk Disc 4 (PSP)":
+"PSP System Best Buy Kiosk Disc #4 (PSP)":
   files:
     "<root>/PPSSPP_STATE/UCUS98709_*":
       tags:
         - save
     "<root>/SAVEDATA/UCUS98709*":
+      tags:
+        - save
+"PSP System Kiosk Disc #1 (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/UCUS98642_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCUS98642*":
       tags:
         - save
 "PSP System Kiosk Disc #3 - yellow (PSP)":
@@ -23738,14 +23880,6 @@
       tags:
         - save
     "<root>/SAVEDATA/UCUS98665*":
-      tags:
-        - save
-"PSP System Kiosk Disc 1 (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCUS98642_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCUS98642*":
       tags:
         - save
 "PSP System Software Update Disc Ver. 3.11 (PSP)":
@@ -23999,6 +24133,9 @@
     "<root>/PPSSPP_STATE/UCJS18027_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/UCJS18042_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/UCKS45076_*":
       tags:
         - save
@@ -24024,6 +24161,9 @@
       tags:
         - save
     "<root>/SAVEDATA/UCJS18027*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCJS18042*":
       tags:
         - save
     "<root>/SAVEDATA/UCKS45076*":
@@ -24252,7 +24392,13 @@
         - save
 "Persona 2 - Tsumi - Innocent Sin (PSP)":
   files:
+    "<root>/PPSSPP_STATE/UCAS40338_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULJM05759_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCAS40338*":
       tags:
         - save
     "<root>/SAVEDATA/ULJM05759*":
@@ -24721,10 +24867,16 @@
     "<root>/PPSSPP_STATE/UCJS10003_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/UCJS18007_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/UCJS18043_*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS10003*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCJS18007*":
       tags:
         - save
     "<root>/SAVEDATA/UCJS18043*":
@@ -24744,20 +24896,18 @@
     "<root>/SAVEDATA/UCKS45024*":
       tags:
         - save
-"Piposaru Academia 2 - Aiai Saruge Janken Battle (PSP)":
-  files:
-    "<root>/PPSSPP_STATE/UCJS18009_*":
-      tags:
-        - save
-    "<root>/SAVEDATA/UCJS18009*":
-      tags:
-        - save
 "Piposaru Academia 2 - Aiai Saruge Janken Battle! (PSP)":
   files:
     "<root>/PPSSPP_STATE/UCJS10020_*":
       tags:
         - save
+    "<root>/PPSSPP_STATE/UCJS18009_*":
+      tags:
+        - save
     "<root>/SAVEDATA/UCJS10020*":
+      tags:
+        - save
+    "<root>/SAVEDATA/UCJS18009*":
       tags:
         - save
 "Piposaru Academia 2 - Aiai Sarugee Janken Battle! (PSP)":
@@ -27208,7 +27358,13 @@
         - save
 "Rurouni Kenshin - Meiji Kenkaku Romantan Saisen (PSP)":
   files:
+    "<root>/PPSSPP_STATE/ULAS42271_*":
+      tags:
+        - save
     "<root>/PPSSPP_STATE/ULJS00360_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULAS42271*":
       tags:
         - save
     "<root>/SAVEDATA/ULJS00360*":
@@ -27710,6 +27866,14 @@
     "<root>/SAVEDATA/ULJM05891*":
       tags:
         - save
+"Sakaagari Hurricane Portable (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ALCH00030_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ALCH00030*":
+      tags:
+        - save
 "Saki - Achiga-Hen - Episode of Side-A Portable (PSP)":
   files:
     "<root>/PPSSPP_STATE/ALCH00044_*":
@@ -27968,6 +28132,14 @@
     "<root>/SAVEDATA/ULJM06123*":
       tags:
         - save
+"Sangoku Rensenki - Omoidegaeshi - CS Edition (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJM06406_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06406*":
+      tags:
+        - save
 "Sangoku Rensenki - Otome no Heihou! (PSP)":
   files:
     "<root>/PPSSPP_STATE/ULJM06124_*":
@@ -28224,6 +28396,14 @@
     "<root>/SAVEDATA/NPJH50899*":
       tags:
         - save
+"Satomi Hakkenden - Murasamemaru no Ki (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJM06396_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06396*":
+      tags:
+        - save
 "Savage Moon - The Hera Campaign (PSP)":
   files:
     "<root>/PPSSPP_STATE/NPEG00019_*":
@@ -28244,6 +28424,14 @@
       tags:
         - save
     "<root>/SAVEDATA/NPJG00111*":
+      tags:
+        - save
+"Scared Rider Xechs (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ULJM06006_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06006*":
       tags:
         - save
 "Scared Rider Xechs I+FD Portable (PSP)":
@@ -29452,6 +29640,20 @@
       tags:
         - save
     "<root>/SAVEDATA/NPJH50894*":
+      tags:
+        - save
+"Shinsouban Clover no Kuni no Alice - Wonderful Wonder World (PSP)":
+  files:
+    "<root>/PPSSPP_STATE/ROSE00046_*":
+      tags:
+        - save
+    "<root>/PPSSPP_STATE/ULJM06392_*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ROSE00046*":
+      tags:
+        - save
+    "<root>/SAVEDATA/ULJM06392*":
       tags:
         - save
 "Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (PSP)":

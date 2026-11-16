@@ -43870,6 +43870,11 @@
     "<root>/*/B?SLPM-62296*":
       tags:
         - save
+"Simple 2000 Series Ultimate Vol. 8 - Gekitou! Meiro King (PS2)":
+  files:
+    "<root>/*/B?SLPM-62324*":
+      tags:
+        - save
 "Simple 2000 Series Ultimate Vol. 9 - Bakusou! Manhattan - Runabout 3 (PS2)":
   files:
     "<root>/*/B?SLPM-65345*":
@@ -44438,11 +44443,6 @@
 "Simple 2000 Series Vol. 79 - The Party Quiz - Akko ni Omakase (PS2)":
   files:
     "<root>/*/B?SLPS-20439*":
-      tags:
-        - save
-"Simple 2000 Series Vol. 8 - Gekitou! Meiro King (PS2)":
-  files:
-    "<root>/*/B?SLPM-62324*":
       tags:
         - save
 "Simple 2000 Series Vol. 8 - The Tennis (PS2)":
